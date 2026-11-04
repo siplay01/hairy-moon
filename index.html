@@ -14,10 +14,15 @@
   <header class="top">
     <div class="brand"><span id="logo"></span><span>Hairy Moon</span></div>
     <div class="tools">
-      <span class="chip" id="city" aria-label="City">Los Angeles</span>
+      <button class="chip" id="cityBtn" type="button" aria-expanded="false" aria-controls="cityPanel">Los Angeles</button>
       <button class="chip" id="lang" type="button" aria-label="Language">EN</button>
     </div>
   </header>
+  <div class="panel" id="cityPanel" hidden>
+    <div class="prow"><input id="citySearch" type="search" autocomplete="off" aria-label="Search city"><button class="btn ghost" id="locBtn" type="button"></button></div>
+    <p class="pmsg" id="locMsg" role="status"></p>
+    <ul class="clist" id="cityList"></ul>
+  </div>
 
   <main>
     <section class="hero" id="hero" aria-live="polite"><div class="msg" id="heroMsg">...</div></section>

@@ -1,6 +1,6 @@
 (function () {
 'use strict';
-var TZ = 'America/Los_Angeles', OPEN = 8, CLOSE = 20, MIN_BOOK = 30, YMIN = 2026, YMAX = 2035;
+var TZ = 'America/Los_Angeles', CITY = null, CITIES = [], NEAR_KM = 50, OPEN = 8, CLOSE = 20, MIN_BOOK = 30, YMIN = 2026, YMAX = 2035;
 var ALLOWED_LD = [5, 8, 11, 13, 14, 19, 21, 22, 26, 27, 28];
 var GOOD_SIGNS = [1, 4, 5, 6, 9];          // Taurus Leo Virgo Libra Capricorn (Capricorn only while waxing)
 var SIGNS = {
@@ -23,7 +23,9 @@ var T = {
     rBadSun: 'Воскресенье: календарь исключает его, индийский текст тоже считает плохим.',
     hHow: 'Как это считается и чему можно верить',
     how: '<p>Окна считаются по правилам, которые я восстановил по опубликованным окнам русского лунного календаря стрижек (совпадение с ними до 1-2 минут в 14 городах).</p><ul><li>Лунный день отсчитывается от восхода Луны в Лос-Анджелесе. Подходят дни 5, 8, 11, 13, 14, 19, 21, 22, 26, 27, 28.</li><li>Луна в знаке Телец, Лев, Дева или Весы. При растущей Луне подходит и Козерог.</li><li>Растущая Луна: «рост». Убывающая: «подрезка».</li><li>Из окон вычитаются Луна без курса, Раху-кала (индийский неблагоприятный отрезок дня) и воскресенье.</li><li>Красным отмечены лунные дни 1, 2, 6, 7, 12, 20, 29 и воскресенья: их исключает календарь, и тибетский (и для воскресенья индийский) текст называет их плохими.</li></ul><p><b>Чему верить.</b> Расчёт времени точный. Пользу для волос никто не доказал: научных данных о влиянии Луны на рост волос нет. Это традиция, где разные школы расходятся (например, знаки Луны у европейских астрологов XVII века почти противоположны). Регулярная стрижка секущихся концов полезнее выбора дня.</p>',
-    foot: 'Расчёт для Лос-Анджелеса, время тихоокеанское. Метод собран из публично опубликованных русских лунных календарей стрижек. Независимый проект. Не медицинская рекомендация.',
+    calc: function (c, z) { return 'Расчёт для города ' + c + ', часовой пояс ' + z + '.'; }, city: 'Город', search: 'Найти город', useLoc: 'Моё местоположение',
+    locNear: function (c, km) { return 'Ближайший город: ' + c + ', ' + km + ' км от вас.'; }, locFar: function (c, km) { return 'Ближайший город ' + c + ' в ' + km + ' км, это дальше ' + NEAR_KM + ' км. Выберите город из списка.'; }, locErr: 'Не удалось определить местоположение. Выберите город из списка.', noCity: 'Ничего не найдено',
+    foot: 'Метод собран из публично опубликованных русских лунных календарей стрижек. Независимый проект. Не медицинская рекомендация.',
     offline: 'Не удалось загрузить данные. Проверьте соединение и обновите страницу.', outRange: 'Данные есть с ноября 2026 по декабрь 2035.',
     wd: ['пн', 'вт', 'ср', 'чт', 'пт', 'сб', 'вс']
   },
@@ -42,7 +44,9 @@ var T = {
     rBadSun: 'Sunday: the calendar excludes it and the Indian text also calls it bad.',
     hHow: 'How it is calculated and what to trust',
     how: '<p>Windows follow rules I reconstructed from the published windows of a Russian lunar haircut calendar (matches them within 1-2 minutes in 14 cities).</p><ul><li>The lunar day counts from moonrise in Los Angeles. Days 5, 8, 11, 13, 14, 19, 21, 22, 26, 27, 28 qualify.</li><li>Moon in Taurus, Leo, Virgo or Libra. Capricorn also qualifies while the Moon is waxing.</li><li>Waxing Moon: "growth". Waning Moon: "trim".</li><li>Void-of-course Moon, Rahu Kala (an Indian inauspicious part of the day) and Sundays are subtracted.</li><li>Red marks lunar days 1, 2, 6, 7, 12, 20, 29 and Sundays: the calendar excludes them and a Tibetan text (and, for Sunday, an Indian text) calls them bad.</li></ul><p><b>What to trust.</b> The timing is exact. Nobody has shown a benefit for hair: there is no scientific evidence that the Moon affects hair growth. It is a tradition and its schools disagree (for example, 17th-century European astrologers recommend nearly the opposite Moon signs). Regular trims of split ends matter more than the choice of day.</p>',
-    foot: 'Calculated for Los Angeles, Pacific time. Method assembled from publicly published Russian lunar haircut calendars. Independent project. Not medical advice.',
+    calc: function (c, z) { return 'Calculated for ' + c + ', time zone ' + z + '.'; }, city: 'City', search: 'Search city', useLoc: 'My location',
+    locNear: function (c, km) { return 'Nearest city: ' + c + ', ' + km + ' km away.'; }, locFar: function (c, km) { return 'Nearest city ' + c + ' is ' + km + ' km away, more than ' + NEAR_KM + ' km. Pick a city from the list.'; }, locErr: 'Could not get your location. Pick a city from the list.', noCity: 'Nothing found',
+    foot: 'Method assembled from publicly published Russian lunar haircut calendars. Independent project. Not medical advice.',
     offline: 'Could not load the data. Check your connection and reload.', outRange: 'Data covers November 2026 to December 2035.',
     wd: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
   }
@@ -52,7 +56,9 @@ try { lang = localStorage.getItem('hm-lang') || (/^ru|^uk|^be/.test(navigator.la
 function t() { return T[lang]; }
 
 /* ---------- time in Los Angeles ---------- */
-var F = new Intl.DateTimeFormat('en-US', { timeZone: TZ, hourCycle: 'h23', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', second: '2-digit' });
+var F = null;
+function setTZ(z) { TZ = z; F = new Intl.DateTimeFormat('en-US', { timeZone: z, hourCycle: 'h23', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', second: '2-digit' }); }
+setTZ(TZ);
 function parts(min) { var o = {}; F.formatToParts(new Date(min * 60000)).forEach(function (p) { o[p.type] = p.value; }); return o; }
 function offset(min) { var p = parts(min); return Date.UTC(+p.year, +p.month - 1, +p.day, +p.hour % 24, +p.minute, +p.second) / 60000 - min; }
 function midnight(key) { var a = key.split('-').map(Number), base = Date.UTC(a[0], a[1] - 1, a[2]) / 60000, g = base - offset(base); return base - offset(g); }
@@ -71,10 +77,11 @@ function weekday(key) { var a = key.split('-').map(Number); return (new Date(Dat
 var cache = {};
 function load(y) {
   if (y < YMIN || y > YMAX) return Promise.resolve(null);
-  if (!cache[y]) cache[y] = fetch('data/la-' + y + '.json').then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }).then(function (d) {
+  var ck = CITY.key + y;
+  if (!cache[ck]) cache[ck] = fetch('data/' + CITY.key + '/' + y + '.json').then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }).then(function (d) {
     d.by = {}; d.days.forEach(function (a) { d.by[a[0]] = { ld: a[1], sign: a[2], waxing: a[3], illum: a[4], rahu: [a[5], a[6]] }; }); return d;
   });
-  return cache[y];
+  return cache[ck];
 }
 function around(y) {
   return Promise.all([load(y - 1), load(y), load(y + 1)]).then(function (r) {
@@ -100,6 +107,7 @@ function overlap(list, ms, me) {
 
 /* ---------- moon glyph ---------- */
 function moon(illum, waxing, size) {
+  if (CITY && CITY.lat < 0) waxing = !waxing;   // southern hemisphere sees the lit side mirrored
   var r = 15, f = illum / 100, rx = Math.abs(1 - 2 * f) * r, sweep = (f < 0.5) ? 0 : 1;
   var d = 'M16 1 A15 15 0 0 1 16 31 A' + rx.toFixed(2) + ' 15 0 0 ' + sweep + ' 16 1 Z';
   return '<svg width="' + size + '" height="' + size + '" viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15" fill="none" stroke="currentColor" stroke-opacity=".35"/><path d="' + d + '" fill="#e9e2cf" ' + (waxing ? '' : 'transform="translate(32 0) scale(-1 1)"') + '/></svg>';
@@ -107,15 +115,19 @@ function moon(illum, waxing, size) {
 
 /* ---------- state ---------- */
 var $ = function (id) { return document.getElementById(id); };
-var now = Math.floor(Date.now() / 60000), todayKey = keyOf(now);
-var view = { y: +todayKey.slice(0, 4), m: +todayKey.slice(5, 7) }, sel = todayKey;
-if (view.y < YMIN || (view.y === YMIN && view.m < 11)) { view.y = YMIN; view.m = 11; sel = '2026-11-05'; }
-if (view.y > YMAX) { view.y = YMAX; view.m = 12; sel = YMAX + '-12-15'; }
-
+var now, todayKey, view, sel;
+function initState() {
+  now = Math.floor(Date.now() / 60000); todayKey = keyOf(now);
+  view = { y: +todayKey.slice(0, 4), m: +todayKey.slice(5, 7) }; sel = todayKey;
+  if (view.y < YMIN || (view.y === YMIN && view.m < 11)) { view.y = YMIN; view.m = 11; sel = '2026-11-05'; }
+  if (view.y > YMAX) { view.y = YMAX; view.m = 12; sel = YMAX + '-12-15'; }
+}
+function cityName(c) { return lang === 'ru' ? c.ru : c.en; }
 function ldText(n) { return lang === 'ru' ? n + '-й лунный день' : 'lunar day ' + n; }
 function modeName(m) { return m === 0 ? t().growth : t().trim; }
 
 /* ---------- hero + upcoming ---------- */
+function stampWd(m) { return dateLabel(keyOf(m), { weekday: 'short' }) + ' ' + clock(m); }
 function renderHero() {
   var hero = $('hero');
   var y0 = Math.min(Math.max(+todayKey.slice(0, 4), YMIN), YMAX);
@@ -133,11 +145,11 @@ function renderHero() {
     var w = first.w, sg = SIGNS[lang][w[4]];
     var head = inside ? t().now + ' ' + t().until + ' ' + clock(first.e) : dateLabel(key, { weekday: 'long', day: 'numeric', month: 'long' }) + ', ' + clock(first.s) + ' - ' + clock(first.e);
     hero.innerHTML = '<div class="kicker">' + (inside ? t().now : t().next) + '</div><h1>' + head + '</h1>' +
-      '<p class="sub">' + modeName(w[2]) + ' &middot; ' + t().moonIn + ' ' + sg + ' &middot; ' + ldText(w[3]) + '<br>' + t().full + ': ' + clock(w[0]) + ' - ' + clock(w[1]) + '</p>' +
-      '<div class="actions"><a class="btn" id="sub" href="la.ics">' + t().add + '</a><button class="btn ghost" id="showDay" type="button">' + t().show + '</button></div>';
+      '<p class="sub">' + modeName(w[2]) + ' &middot; ' + t().moonIn + ' ' + sg + ' &middot; ' + ldText(w[3]) + '<br>' + t().full + ': ' + stampWd(w[0]) + ' - ' + stampWd(w[1]) + '</p>' +
+      '<div class="actions"><a class="btn" id="sub" href="ics/' + CITY.key + '.ics">' + t().add + '</a><button class="btn ghost" id="showDay" type="button">' + t().show + '</button></div>';
     var h = location.protocol.indexOf('http') === 0 && !/^(localhost|127\.|\[::1\])/.test(location.hostname);
-    if (h) $('sub').href = 'webcal://' + location.host + location.pathname.replace(/[^\/]*$/, '') + 'la.ics';
-    else $('sub').setAttribute('download', 'hairy-moon-la.ics');
+    if (h) $('sub').href = 'webcal://' + location.host + location.pathname.replace(/[^\/]*$/, '') + 'ics/' + CITY.key + '.ics';
+    else $('sub').setAttribute('download', 'hairy-moon-' + CITY.key + '.ics');
     $('showDay').onclick = function () { goto(key); };
     $('upcoming').innerHTML = upc.slice(0, 8).map(function (p) {
       var k = keyOf(p.s);
@@ -230,16 +242,54 @@ function renderStatic() {
   $('lang').textContent = lang === 'ru' ? 'EN' : 'RU';
   $('lang').setAttribute('aria-label', lang === 'ru' ? 'Switch to English' : 'Переключить на русский');
   $('hCal').textContent = t().cal; $('hDay').textContent = t().day; $('hUp').textContent = t().up;
-  $('today').textContent = t().today; $('hHow').textContent = t().hHow; $('how').innerHTML = t().how; $('foot').textContent = t().foot;
+  $('today').textContent = t().today; $('hHow').textContent = t().hHow; $('how').innerHTML = t().how; $('foot').textContent = t().calc(cityName(CITY), TZ) + ' ' + t().foot; $('cityBtn').textContent = cityName(CITY); $('cityBtn').setAttribute('aria-label', t().city + ': ' + cityName(CITY)); $('citySearch').placeholder = t().search; $('locBtn').textContent = t().useLoc;
   $('legend').innerHTML = '<span><i style="background:var(--good)"></i>&#10003; ' + t().legGood + '</span><span><i style="background:var(--bad);opacity:.6"></i>&times; ' + t().legBad + '</span><span><i style="background:var(--ink)"></i>' + t().legToday + '</span>';
   $('logo').innerHTML = moon(55, 1, 28);
   document.title = lang === 'ru' ? 'Hairy Moon: когда стричься' : 'Hairy Moon: when to cut hair';
 }
-function all() { renderStatic(); renderHero(); renderMonth().then(renderDay); }
+function all() { renderStatic(); renderCityList(); renderHero(); renderMonth().then(renderDay); }
 $('lang').onclick = function () { lang = lang === 'ru' ? 'en' : 'ru'; try { localStorage.setItem('hm-lang', lang); } catch (e) {} all(); };
 $('prev').onclick = function () { view.m--; if (view.m < 1) { view.m = 12; view.y--; } renderMonth(); };
 $('next').onclick = function () { view.m++; if (view.m > 12) { view.m = 1; view.y++; } renderMonth(); };
 $('today').onclick = function () { var k = todayKey < '2026-11-04' ? '2026-11-05' : todayKey; goto(k); };
-all();
+
+/* ---------- city picker ---------- */
+function km(a, b) { var R = 6371, r = Math.PI / 180, dl = (b.lat - a.lat) * r, dn = (b.lon - a.lon) * r, x = Math.sin(dl / 2) * Math.sin(dl / 2) + Math.cos(a.lat * r) * Math.cos(b.lat * r) * Math.sin(dn / 2) * Math.sin(dn / 2); return 2 * R * Math.asin(Math.sqrt(x)); }
+function renderCityList() {
+  var q = ($('citySearch').value || '').trim().toLowerCase();
+  var items = CITIES.filter(function (c) { return !q || c.ru.toLowerCase().indexOf(q) >= 0 || c.en.toLowerCase().indexOf(q) >= 0; }).sort(function (a, b) { return cityName(a).localeCompare(cityName(b), lang); });
+  $('cityList').innerHTML = items.length ? items.map(function (c) { return '<li><button type="button" data-k="' + c.key + '"' + (c.key === CITY.key ? ' aria-current="true"' : '') + '>' + cityName(c) + '<span>' + c.cc + '</span></button></li>'; }).join('') : '<li class="msg">' + t().noCity + '</li>';
+  Array.prototype.forEach.call($('cityList').querySelectorAll('button'), function (b) { b.onclick = function () { chooseCity(b.getAttribute('data-k')); }; });
+}
+function chooseCity(key, keepPanel) {
+  var c = CITIES.filter(function (x) { return x.key === key; })[0]; if (!c) return;
+  CITY = c; setTZ(c.tz); cache = {}; initState();
+  try { localStorage.setItem('hm-city', key); } catch (e) {}
+  if (history.replaceState) history.replaceState(null, '', '#' + key);
+  if (!keepPanel) { $('cityPanel').hidden = true; $('cityBtn').setAttribute('aria-expanded', 'false'); }
+  all();
+}
+$('cityBtn').onclick = function () { var open = $('cityPanel').hidden; $('cityPanel').hidden = !open; $('cityBtn').setAttribute('aria-expanded', open ? 'true' : 'false'); if (open) $('citySearch').focus(); };
+$('citySearch').oninput = renderCityList;
+$('locBtn').onclick = function () {
+  var msg = $('locMsg'); msg.textContent = '';
+  if (!navigator.geolocation) { msg.textContent = t().locErr; return; }
+  navigator.geolocation.getCurrentPosition(function (p) {
+    var me = { lat: p.coords.latitude, lon: p.coords.longitude }, best = null, bd = 1e9;
+    CITIES.forEach(function (c) { var d = km(me, c); if (d < bd) { bd = d; best = c; } });
+    var d = Math.round(bd);
+    if (bd <= NEAR_KM) { msg.textContent = t().locNear(cityName(best), d); chooseCity(best.key, true); }
+    else msg.textContent = t().locFar(cityName(best), d);
+  }, function () { msg.textContent = t().locErr; }, { enableHighAccuracy: false, timeout: 10000, maximumAge: 600000 });
+};
+
+/* ---------- boot ---------- */
+fetch('cities.json').then(function (r) { return r.json(); }).then(function (list) {
+  CITIES = list;
+  var key = (location.hash || '').slice(1), pick = list.filter(function (c) { return c.key === key; })[0];
+  if (!pick) { try { var sv = localStorage.getItem('hm-city'); pick = list.filter(function (c) { return c.key === sv; })[0]; } catch (e) {} }
+  if (!pick) { var z = ''; try { z = Intl.DateTimeFormat().resolvedOptions().timeZone; } catch (e) {} pick = list.filter(function (c) { return c.tz === z; })[0] || list.filter(function (c) { return c.key === 'los_angeles'; })[0]; }
+  CITY = pick; setTZ(pick.tz); initState(); all();
+}).catch(function () { $('hero').innerHTML = '<div class="msg">Could not load the city list.</div>'; });
 if ('serviceWorker' in navigator && location.protocol.indexOf('http') === 0) navigator.serviceWorker.register('sw.js').catch(function () {});
 })();

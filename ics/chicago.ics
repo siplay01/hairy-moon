@@ -1,0 +1,6418 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hairy Moon//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Hairy Moon (Чикаго)
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:P7D
+BEGIN:VEVENT
+UID:6ba5ca762ca4c95a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261105T143900Z
+DTEND:20261105T185000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:39 - 12:50.\nП
+ олное окно: чт 05.11 08:39 - чт 05.11 12:50.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ca892eea74fafc87@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261105T200800Z
+DTEND:20261106T020000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 14:08 - 20:00.\nП
+ олное окно: чт 05.11 14:08 - пт 06.11 10:16.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f58cbf86e85d2553@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261106T140000Z
+DTEND:20261106T161600Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:16.\nП
+ олное окно: чт 05.11 14:08 - пт 06.11 10:16.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:783c8222eb6b5d4e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261106T173400Z
+DTEND:20261107T020000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 11:34 - 20:00.\nП
+ олное окно: пт 06.11 11:34 - сб 07.11 07:19.\nЛунный д
+ ень 27\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2026-11-08@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261108T060000Z
+DTEND:20261109T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e2a50506a4e2b58c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261108T120133Z
+DTEND:20261109T070203Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bfa560bcb1479b2b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261109T070203Z
+DTEND:20261109T130811Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2ff213ffc6a1e462@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261109T130811Z
+DTEND:20261110T141246Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f01ed788841adbbd@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261112T202800Z
+DTEND:20261113T020000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 14:28 - 20:00.\nП
+ олное окно: чт 12.11 14:28 - пт 13.11 10:20.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:beee259335943833@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261113T140000Z
+DTEND:20261113T162000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:20.\nП
+ олное окно: чт 12.11 14:28 - пт 13.11 10:20.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e834db62416b7ebc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261113T165136Z
+DTEND:20261114T172907Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8f9b600894ac2c5a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261114T172907Z
+DTEND:20261115T180007Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2026-11-15@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261115T060000Z
+DTEND:20261116T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d0f1dff9e2a9b169@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261119T193103Z
+DTEND:20261120T195238Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2026-11-22@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261122T060000Z
+DTEND:20261123T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4c1cbd201f3ca60a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261128T013623Z
+DTEND:20261129T025533Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2026-11-29@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261129T060000Z
+DTEND:20261130T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b31ad59dd34d1ee4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261130T151800Z
+DTEND:20261201T020000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 09:18 - 20:00.\nП
+ олное окно: пн 30.11 09:18 - пн 30.11 23:20.\nЛунный д
+ ень 22\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8bddd43b6c657d2d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261204T140000Z
+DTEND:20261204T163000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:30.\nП
+ олное окно: пт 04.12 02:46 - пт 04.12 10:30.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5d729c87e74f1e83@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261204T174100Z
+DTEND:20261204T223900Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 11:41 - 16:39.\nП
+ олное окно: пт 04.12 11:41 - пт 04.12 16:39.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2026-12-06@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261206T060000Z
+DTEND:20261207T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e8590447a9832ee9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261207T120322Z
+DTEND:20261208T130445Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c05f70fe963da7e1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261209T005146Z
+DTEND:20261209T140017Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ad5eb4b34097655a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261209T140017Z
+DTEND:20261210T144813Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2026-12-13@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261213T060000Z
+DTEND:20261214T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d701ef03a8d1be31@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261213T162829Z
+DTEND:20261214T165203Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1a7e3965547e623@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261214T165203Z
+DTEND:20261215T171314Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d01b543228e5522b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261219T184100Z
+DTEND:20261220T191204Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2026-12-20@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261220T060000Z
+DTEND:20261221T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e1e95c9f938fa424@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261221T153100Z
+DTEND:20261221T172500Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 09:31 - 11:25.\nП
+ олное окно: пн 21.12 09:31 - пн 21.12 11:25.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2026-12-27@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261227T060000Z
+DTEND:20261228T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:64e31d42902645bb@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261228T030828Z
+DTEND:20261229T042117Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:560f2a9281f70c9b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261230T140000Z
+DTEND:20261230T175200Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:52.\nП
+ олное окно: вт 29.12 20:28 - ср 30.12 11:52.\nЛунный д
+ ень 21\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1ffd05e2e78aa240@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261230T190300Z
+DTEND:20261231T020000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 13:03 - 20:00.\nП
+ олное окно: ср 30.12 13:03 - чт 31.12 00:35.\nЛунный д
+ ень 22\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-01-03@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270103T060000Z
+DTEND:20270104T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c819484e2732f120@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270106T124550Z
+DTEND:20270107T132807Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:44a71d3dd3197056@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270107T202418Z
+DTEND:20270108T140304Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:73c14185e63a2df1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270108T140304Z
+DTEND:20270109T143202Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-01-10@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270110T060000Z
+DTEND:20270111T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:098ce525c1ca6820@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270112T153820Z
+DTEND:20270113T155801Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3d4b28f3ceea1898@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270113T155801Z
+DTEND:20270114T161836Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-01-17@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270117T060000Z
+DTEND:20270118T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:af33ab9484db2c05@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270118T182703Z
+DTEND:20270119T192425Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-01-24@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270124T060000Z
+DTEND:20270125T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3380bd12e6d40fd9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270126T140000Z
+DTEND:20270126T203000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 14:30.\nП
+ олное окно: вт 26.01 05:14 - вт 26.01 14:30.\nЛунный д
+ ень 19\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b0350a0eb6efb5dd@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270126T214600Z
+DTEND:20270127T020000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 15:46 - 20:00.\nП
+ олное окно: вт 26.01 15:46 - вт 26.01 22:20.\nЛунный д
+ ень 19\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9d01cb2f6f525cd8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270127T042307Z
+DTEND:20270128T053226Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-01-31@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270131T060000Z
+DTEND:20270201T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6fb6d1c83ca24ca4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270205T123527Z
+DTEND:20270206T130123Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4d4bf52db4513c50@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270206T155602Z
+DTEND:20270207T132358Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-02-07@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270207T060000Z
+DTEND:20270208T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:41009982cd23d37d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270207T132358Z
+DTEND:20270208T134433Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a86c2c79110489db@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270211T144619Z
+DTEND:20270212T151127Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:692e8acac916bcf7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270212T151127Z
+DTEND:20270213T154159Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:438446141298bd53@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270213T164600Z
+DTEND:20270214T020000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 10:46 - 20:00.\nП
+ олное окно: сб 13.02 10:46 - сб 13.02 23:59.\nЛунный д
+ ень 8\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-02-14@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270214T060000Z
+DTEND:20270215T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aa2bd99ca415cb4d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270217T192643Z
+DTEND:20270218T204706Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c7e9f876ab33ee06@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270218T204700Z
+DTEND:20270219T020000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 14:47 - 20:00.\nП
+ олное окно: чт 18.02 14:47 - пт 19.02 10:42.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7dc0b6d9929b9bd3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270219T140000Z
+DTEND:20270219T164200Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:42.\nП
+ олное окно: чт 18.02 14:47 - пт 19.02 10:42.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3f817bc109affe22@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270219T180500Z
+DTEND:20270220T020000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 12:05 - 20:00.\nП
+ олное окно: пт 19.02 12:05 - сб 20.02 09:20.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:167265727e34256a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270220T140000Z
+DTEND:20270220T152000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:20.\nП
+ олное окно: пт 19.02 12:05 - сб 20.02 09:20.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ca0de1ef2f7a6a43@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270220T200000Z
+DTEND:20270220T232000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 14:00 - 17:20.\nП
+ олное окно: сб 20.02 14:00 - сб 20.02 17:20.\nЛунный д
+ ень 14\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-02-21@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270221T060000Z
+DTEND:20270222T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1f2fe5c0433f5e70@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270226T053134Z
+DTEND:20270227T063824Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-02-28@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270228T060000Z
+DTEND:20270301T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-03-07@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270307T060000Z
+DTEND:20270308T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:307b446dab01a805@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270307T114951Z
+DTEND:20270308T092924Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7232f926a13d83a9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270308T092924Z
+DTEND:20270308T121007Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:59f45ddd9bd77270@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270308T121007Z
+DTEND:20270309T123025Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6619cc80f0aedad3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270311T161700Z
+DTEND:20270311T192800Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 10:17 - 13:28.\nП
+ олное окно: чт 11.03 10:17 - чт 11.03 13:28.\nЛунный д
+ ень 5\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:369b0a052cd932b2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270311T205800Z
+DTEND:20270312T020000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 14:58 - 20:00.\nП
+ олное окно: чт 11.03 14:58 - пт 12.03 07:45.\nЛунный д
+ ень 5\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a0de42751a9924b0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270312T134513Z
+DTEND:20270313T142104Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:45bd14770c00cd5d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270313T142104Z
+DTEND:20270314T150630Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-03-14@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270314T060000Z
+DTEND:20270315T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:31912d292ade0b83@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270318T130000Z
+DTEND:20270318T192800Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 14:28.\nП
+ олное окно: ср 17.03 22:42 - чт 18.03 14:28.\nЛунный д
+ ень 11\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a0edaa13a06ec285@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270318T194526Z
+DTEND:20270319T210332Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-03-21@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270321T050000Z
+DTEND:20270322T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9165958e1bbdfb87@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270327T052550Z
+DTEND:20270328T062533Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-03-28@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270328T050000Z
+DTEND:20270329T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-04-04@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270404T050000Z
+DTEND:20270405T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e45d76b571f2e9f1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270405T103425Z
+DTEND:20270406T105551Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8b52b541fcb36a82@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270406T235105Z
+DTEND:20270407T111937Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:45bd9958555c6e70@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270407T111937Z
+DTEND:20270408T114730Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-04-11@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270411T050000Z
+DTEND:20270412T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:493be6bcd64a0dd4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270411T135851Z
+DTEND:20270412T150348Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:091cc51fc5817b9b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270412T150348Z
+DTEND:20270413T161643Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:41ccfa03fb627aa6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270414T130000Z
+DTEND:20270414T173000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:30.\nП
+ олное окно: ср 14.04 04:31 - ср 14.04 12:30.\nЛунный д
+ ень 8\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:696f6a914a8e5ae9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270416T200300Z
+DTEND:20270417T010000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 15:03 - 20:00.\nП
+ олное окно: пт 16.04 15:03 - сб 17.04 09:27.\nЛунный д
+ ень 11\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d803158f1f583461@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270417T130000Z
+DTEND:20270417T142700Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:27.\nП
+ олное окно: пт 16.04 15:03 - сб 17.04 09:27.\nЛунный д
+ ень 11\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5fbf6984a306c39c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270417T161000Z
+DTEND:20270417T211500Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 11:10 - 16:15.\nП
+ олное окно: сб 17.04 11:10 - сб 17.04 16:15.\nЛунный д
+ ень 11\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4b3ca09b1d2a3f83@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270417T211632Z
+DTEND:20270418T222802Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-04-18@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270418T050000Z
+DTEND:20270419T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d51cdf9877beea42@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270419T142700Z
+DTEND:20270420T010000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 09:27 - 20:00.\nП
+ олное окно: пн 19.04 09:27 - вт 20.04 03:38.\nЛунный д
+ ень 13\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-04-25@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270425T050000Z
+DTEND:20270426T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9f3bee2459adb9b1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270426T055428Z
+DTEND:20270427T063313Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-05-02@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270502T050000Z
+DTEND:20270503T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ba98d27bd030e381@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270505T094648Z
+DTEND:20270506T101854Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1083a343530ecce2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270506T105832Z
+DTEND:20270507T105924Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2d39363801d971a3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270507T105924Z
+DTEND:20270508T115049Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-05-09@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270509T050000Z
+DTEND:20270510T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d72856676db6e327@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270511T152319Z
+DTEND:20270512T164011Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d400e881f46ae5b3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270512T164011Z
+DTEND:20270513T175449Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4885e7ee37ea4202@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270513T180700Z
+DTEND:20270513T193500Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 13:07 - 14:35.\nП
+ олное окно: чт 13.05 13:07 - чт 13.05 14:35.\nЛунный д
+ ень 8\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:efb16b12ee2945ff@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270513T212600Z
+DTEND:20270514T010000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 16:26 - 20:00.\nП
+ олное окно: чт 13.05 16:26 - пт 14.05 10:56.\nЛунный д
+ ень 8\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7b7f41e64a8f3da6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270514T130000Z
+DTEND:20270514T155600Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:56.\nП
+ олное окно: чт 13.05 16:26 - пт 14.05 10:56.\nЛунный д
+ ень 8\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:646c28742928e212@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270514T174800Z
+DTEND:20270514T190500Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 12:48 - 14:05.\nП
+ олное окно: пт 14.05 12:48 - пт 14.05 14:05.\nЛунный д
+ ень 8\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-05-16@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270516T050000Z
+DTEND:20270517T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:075dc35001d21bec@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270517T140800Z
+DTEND:20270517T145500Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 09:08 - 09:55.\nП
+ олное окно: пн 17.05 09:08 - пн 17.05 09:55.\nЛунный д
+ ень 11\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4be6cae25417509b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270517T223621Z
+DTEND:20270518T234547Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-05-23@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270523T050000Z
+DTEND:20270524T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:470f8d1fd4651ac3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270526T053239Z
+DTEND:20270527T055655Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-05-30@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270530T050000Z
+DTEND:20270531T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f12051c02853b675@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270601T173400Z
+DTEND:20270601T213300Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 12:34 - 16:33.\nП
+ олное окно: вт 01.06 12:34 - вт 01.06 16:33.\nЛунный д
+ ень 26\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4910ca53e0c84480@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270601T232800Z
+DTEND:20270602T010000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 18:28 - 20:00.\nП
+ олное окно: вт 01.06 18:28 - ср 02.06 12:47.\nЛунный д
+ ень 26\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6a71a946ef70dcc6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270602T130000Z
+DTEND:20270602T174700Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:47.\nП
+ олное окно: вт 01.06 18:28 - ср 02.06 12:47.\nЛунный д
+ ень 26\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:81c20ca8dda70b56@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270602T194200Z
+DTEND:20270603T010000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 14:42 - 20:00.\nП
+ олное окно: ср 02.06 14:42 - чт 03.06 05:23.\nЛунный д
+ ень 27\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f9f34a7c48446ed5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270604T093727Z
+DTEND:20270604T194015Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1535ea539667b066@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270604T194015Z
+DTEND:20270605T103657Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:df9b230560fb75fc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270605T103657Z
+DTEND:20270606T114811Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-06-06@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270606T050000Z
+DTEND:20270607T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5c392c9e01675aff@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270608T142600Z
+DTEND:20270608T213600Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 09:26 - 16:36.\nП
+ олное окно: вт 08.06 09:26 - вт 08.06 16:36.\nЛунный д
+ ень 5\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:763a2ca6543efc42@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270608T233200Z
+DTEND:20270609T010000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 18:32 - 20:00.\nП
+ олное окно: вт 08.06 18:32 - ср 09.06 10:21.\nЛунный д
+ ень 5\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:350910b82ee71dc0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270609T130000Z
+DTEND:20270609T152100Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:21.\nП
+ олное окно: вт 08.06 18:32 - ср 09.06 10:21.\nЛунный д
+ ень 5\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:73367db7e36ecce6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270609T154346Z
+DTEND:20270610T165757Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:42699b1a6bc63a1d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270610T165757Z
+DTEND:20270611T180920Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c9fac3a7ff4ece91@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270612T130000Z
+DTEND:20270612T140000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:00.\nП
+ олное окно: пт 11.06 22:58 - сб 12.06 09:00.\nЛунный д
+ ень 8\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ce76d888cdc9c17a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270612T155700Z
+DTEND:20270612T191500Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 10:57 - 14:15.\nП
+ олное окно: сб 12.06 10:57 - сб 12.06 14:15.\nЛунный д
+ ень 8\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-06-13@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270613T050000Z
+DTEND:20270614T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6e4a0a1689914381@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270615T224423Z
+DTEND:20270616T234939Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-06-20@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270620T050000Z
+DTEND:20270621T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:011e76cefcc267ad@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270624T042210Z
+DTEND:20270625T044234Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-06-27@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270627T050000Z
+DTEND:20270628T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c83a80bef19a2ec4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270630T130000Z
+DTEND:20270630T175300Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:53.\nП
+ олное окно: ср 30.06 01:42 - ср 30.06 12:53.\nЛунный д
+ ень 26\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0c7082871e2199b4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270630T194900Z
+DTEND:20270630T224100Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 14:49 - 17:41.\nП
+ олное окно: ср 30.06 14:49 - ср 30.06 17:41.\nЛунный д
+ ень 26\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:64a6845c0e540fe1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270703T092253Z
+DTEND:20270704T030158Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:930c49f1d01fcf8a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270704T030158Z
+DTEND:20270704T103950Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-07-04@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270704T050000Z
+DTEND:20270705T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2fed3e5a4cf16829@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270704T103950Z
+DTEND:20270705T120145Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:70ac4222421f8e97@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270707T144100Z
+DTEND:20270707T175500Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 09:41 - 12:55.\nП
+ олное окно: ср 07.07 09:41 - ср 07.07 12:55.\nЛунный д
+ ень 5\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9c8a66afcc62f508@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270707T194900Z
+DTEND:20270708T010000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 14:49 - 20:00.\nП
+ олное окно: ср 07.07 14:49 - чт 08.07 10:55.\nЛунный д
+ ень 5\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:551317ff14e94226@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270708T130000Z
+DTEND:20270708T155500Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:55.\nП
+ олное окно: ср 07.07 14:49 - чт 08.07 10:55.\nЛунный д
+ ень 5\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a8510dd3d1805aec@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270708T155624Z
+DTEND:20270709T170832Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7a8efb5ba6492fcf@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270709T170832Z
+DTEND:20270710T181900Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0a97f4e360335e9a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270710T181900Z
+DTEND:20270711T010000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 13:19 - 20:00.\nП
+ олное окно: сб 10.07 13:19 - сб 10.07 23:59.\nЛунный д
+ ень 8\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-07-11@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270711T050000Z
+DTEND:20270712T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bea3d102bfa67062@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270714T224428Z
+DTEND:20270715T233926Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9db7ae29f5b5daf8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270716T130000Z
+DTEND:20270716T160300Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:03.\nП
+ олное окно: пт 16.07 06:40 - пт 16.07 11:03.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d574ded46b7db584@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270716T175700Z
+DTEND:20270717T010000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 12:57 - 20:00.\nП
+ олное окно: пт 16.07 12:57 - сб 17.07 09:11.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2f9930e3b9b7f559@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270717T130000Z
+DTEND:20270717T141100Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:11.\nП
+ олное окно: пт 16.07 12:57 - сб 17.07 09:11.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5f4c67f96aa5d37b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270717T160500Z
+DTEND:20270718T010000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 11:05 - 20:00.\nП
+ олное окно: сб 17.07 11:05 - сб 17.07 20:05.\nЛунный д
+ ень 14\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-07-18@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270718T050000Z
+DTEND:20270719T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1beabd26d8c490f8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270723T030739Z
+DTEND:20270724T032722Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-07-25@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270725T050000Z
+DTEND:20270726T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-08-01@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270801T050000Z
+DTEND:20270802T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2c430f4c643a1087@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270801T093022Z
+DTEND:20270802T100508Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2c44c5fadaf32ee9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270802T100508Z
+DTEND:20270802T105318Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ce2f21dbca7e1a62@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270802T105318Z
+DTEND:20270803T121504Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8d3fb2d61827274e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270805T185600Z
+DTEND:20270805T194200Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 13:56 - 14:42.\nП
+ олное окно: чт 05.08 13:56 - чт 05.08 14:42.\nЛунный д
+ ень 5\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d323048777d404bb@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270805T213100Z
+DTEND:20270806T010000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 16:31 - 20:00.\nП
+ олное окно: чт 05.08 16:31 - пт 06.08 11:00.\nЛунный д
+ ень 5\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e006d94f469b1995@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270806T130000Z
+DTEND:20270806T160000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:00.\nП
+ олное окно: чт 05.08 16:31 - пт 06.08 11:00.\nЛунный д
+ ень 5\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:958bb338888251cc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270806T160317Z
+DTEND:20270807T171522Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9be376eb78631dee@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270807T171522Z
+DTEND:20270808T182556Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-08-08@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270808T050000Z
+DTEND:20270809T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:84c5338924f25654@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270812T173600Z
+DTEND:20270812T194000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 12:36 - 14:40.\nП
+ олное окно: чт 12.08 12:36 - чт 12.08 14:40.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fe7f316fda3fb6f6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270812T212600Z
+DTEND:20270812T222000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 16:26 - 17:20.\nП
+ олное окно: чт 12.08 16:26 - чт 12.08 17:20.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cc9c81eae40368b3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270812T222450Z
+DTEND:20270813T230606Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e8eced31d1d98b37@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270813T230600Z
+DTEND:20270814T010000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 18:06 - 20:00.\nП
+ олное окно: пт 13.08 18:06 - сб 14.08 09:25.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7903a40d13258f65@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270814T130000Z
+DTEND:20270814T142500Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:25.\nП
+ олное окно: пт 13.08 18:06 - сб 14.08 09:25.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fa23605b3d6001b8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270814T161100Z
+DTEND:20270815T010000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 11:11 - 20:00.\nП
+ олное окно: сб 14.08 11:11 - сб 14.08 20:56.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-08-15@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270815T050000Z
+DTEND:20270816T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1a2742a0dec2f903@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270821T015413Z
+DTEND:20270822T021643Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-08-22@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270822T050000Z
+DTEND:20270823T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-08-29@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270829T050000Z
+DTEND:20270830T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7496070dd13dc8ce@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270830T094431Z
+DTEND:20270831T110445Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:81f1c01c4648f8b6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270831T174105Z
+DTEND:20270901T122252Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f7d787718388c4b9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270901T122252Z
+DTEND:20270902T133908Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-09-05@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270905T050000Z
+DTEND:20270906T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4891eff10c9b8d02@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270905T171856Z
+DTEND:20270906T182621Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c173f3654af8172c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270906T182621Z
+DTEND:20270907T192728Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:120c71a4bad7b91d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270910T214100Z
+DTEND:20270911T010000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 16:41 - 20:00.\nП
+ олное окно: пт 10.09 16:41 - сб 11.09 01:41.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6f32bd8abab2b7d3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270911T221123Z
+DTEND:20270912T223655Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-09-12@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270912T050000Z
+DTEND:20270913T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-09-19@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270919T050000Z
+DTEND:20270920T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c6f5153a172ba4ad@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270920T011745Z
+DTEND:20270921T015459Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-09-26@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270926T050000Z
+DTEND:20270927T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a45aa0fb58887c42@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270927T144200Z
+DTEND:20270928T010000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 09:42 - 20:00.\nП
+ олное окно: пн 27.09 09:42 - вт 28.09 14:48.\nЛунный д
+ ень 27\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5f1bd0f01df1443e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270928T130000Z
+DTEND:20270928T194800Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 14:48.\nП
+ олное окно: пн 27.09 09:42 - вт 28.09 14:48.\nЛунный д
+ ень 27\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7d97ebd361a38ad0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270929T111226Z
+DTEND:20270930T023559Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:41240ded7489c102@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270930T023559Z
+DTEND:20270930T122757Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fd5333e518010905@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270930T122757Z
+DTEND:20271001T134259Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-10-03@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271003T050000Z
+DTEND:20271004T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9a89e84a03de71b3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271004T171330Z
+DTEND:20271005T181106Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6ddb2d65dbf07368@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271005T181106Z
+DTEND:20271006T185934Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:441ff8682cb92c84@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271006T190600Z
+DTEND:20271007T010000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 14:06 - 20:00.\nП
+ олное окно: ср 06.10 14:06 - чт 07.10 14:03.\nЛунный д
+ ень 8\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1d1dfb2d2bc6b03a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271007T130000Z
+DTEND:20271007T190300Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 14:03.\nП
+ олное окно: ср 06.10 14:06 - чт 07.10 14:03.\nЛунный д
+ ень 8\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-10-10@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271010T050000Z
+DTEND:20271011T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9aaaba42bc634d2e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271010T210244Z
+DTEND:20271011T212404Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-10-17@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271017T050000Z
+DTEND:20271018T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:807256c8b6a0366d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271019T004009Z
+DTEND:20271020T013457Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-10-24@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271024T050000Z
+DTEND:20271025T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ce1f4d34463172a0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271025T130000Z
+DTEND:20271025T133200Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 08:32.\nП
+ олное окно: пн 25.10 02:38 - пн 25.10 08:32.\nЛунный д
+ ень 26\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b33c7086514461b9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271025T145400Z
+DTEND:20271026T010000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 09:54 - 20:00.\nП
+ олное окно: пн 25.10 09:54 - вт 26.10 07:13.\nЛунный д
+ ень 26\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:816a88da2a9b015c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271027T002200Z
+DTEND:20271027T010000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 19:22 - 20:00.\nП
+ олное окно: вт 26.10 19:22 - ср 27.10 12:33.\nЛунный д
+ ень 27\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7ef4bd52ed16b625@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271027T130000Z
+DTEND:20271027T173300Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:33.\nП
+ олное окно: вт 26.10 19:22 - ср 27.10 12:33.\nЛунный д
+ ень 27\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:10b89791e7a7c6c7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271027T185400Z
+DTEND:20271028T010000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 13:54 - 20:00.\nП
+ олное окно: ср 27.10 13:54 - чт 28.10 06:15.\nЛунный д
+ ень 28\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ca08b89a51023bf9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271028T111946Z
+DTEND:20271029T123336Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bd504d0e07cb6e61@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271029T133628Z
+DTEND:20271030T134613Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:173956bb1bd09e7e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271030T134613Z
+DTEND:20271031T145506Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-10-31@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271031T050000Z
+DTEND:20271101T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:650cfa75e6d826b7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271102T165000Z
+DTEND:20271102T200800Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 11:50 - 15:08.\nП
+ олное окно: вт 02.11 11:50 - вт 02.11 15:08.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:adfd8320f0d5709a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271102T212800Z
+DTEND:20271103T010000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 16:28 - 20:00.\nП
+ олное окно: вт 02.11 16:28 - ср 03.11 12:32.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c9757740bb792b33@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271103T130000Z
+DTEND:20271103T173200Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:32.\nП
+ олное окно: вт 02.11 16:28 - ср 03.11 12:32.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fa637fe45f0a5291@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271103T173419Z
+DTEND:20271104T181002Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6aeda5dd553bfe5f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271104T181002Z
+DTEND:20271105T183926Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-11-07@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271107T050000Z
+DTEND:20271108T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ec47f6b7a3b88f08@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271109T200724Z
+DTEND:20271110T202838Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9ea661d75ccc8e71@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271112T140000Z
+DTEND:20271112T161800Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:18.\nП
+ олное окно: пт 12.11 06:59 - пт 12.11 10:18.\nЛунный д
+ ень 14\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0ce2b759813d16db@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271112T173500Z
+DTEND:20271112T211500Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 11:35 - 15:15.\nП
+ олное окно: пт 12.11 11:35 - пт 12.11 15:15.\nЛунный д
+ ень 14\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-11-14@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271114T060000Z
+DTEND:20271115T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9ba8f811d7c5f42d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271118T014233Z
+DTEND:20271119T025813Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4dae49e1c1446dfa@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271119T140000Z
+DTEND:20271119T162100Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:21.\nП
+ олное окно: чт 18.11 20:58 - пт 19.11 10:21.\nЛунный д
+ ень 21\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6bc7bb4af70889d1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271119T173600Z
+DTEND:20271120T020000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 11:36 - 20:00.\nП
+ олное окно: пт 19.11 11:36 - сб 20.11 09:10.\nЛунный д
+ ень 21\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b084993632a89d59@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271120T140000Z
+DTEND:20271120T151000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:10.\nП
+ олное окно: пт 19.11 11:36 - сб 20.11 09:10.\nЛунный д
+ ень 21\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b70e11f11410c33f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271120T162400Z
+DTEND:20271121T004800Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 10:24 - 18:48.\nП
+ олное окно: сб 20.11 10:24 - сб 20.11 18:48.\nЛунный д
+ ень 22\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-11-21@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271121T060000Z
+DTEND:20271122T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:573f4ae35a05c022@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271124T140000Z
+DTEND:20271124T173600Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:36.\nП
+ олное окно: ср 24.11 03:04 - ср 24.11 11:36.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:78ec1e6674acc41e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271124T185000Z
+DTEND:20271125T020000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 12:50 - 20:00.\nП
+ олное окно: ср 24.11 12:50 - чт 25.11 05:05.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:13d3199e18efe40e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271127T123800Z
+DTEND:20271128T032421Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0034ad43415e58b5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271128T032421Z
+DTEND:20271128T134246Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-11-28@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271128T060000Z
+DTEND:20271129T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c59e825f2fce2dbf@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271128T134246Z
+DTEND:20271129T143949Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:91f70e45860301f3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271201T160600Z
+DTEND:20271201T173800Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 10:06 - 11:38.\nП
+ олное окно: ср 01.12 10:06 - ср 01.12 11:38.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5a84ce44361ad009@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271201T185100Z
+DTEND:20271202T020000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 12:51 - 20:00.\nП
+ олное окно: ср 01.12 12:51 - ср 01.12 20:16.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7b9a3b1de00037f0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271202T163849Z
+DTEND:20271203T170527Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:738a93da5e884c13@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271203T170527Z
+DTEND:20271204T172830Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-12-05@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271205T060000Z
+DTEND:20271206T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d2b0f8a44a83fdfc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271208T185156Z
+DTEND:20271209T191707Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:da8bca95ee0e0490@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271209T223700Z
+DTEND:20271210T020000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 16:37 - 20:00.\nП
+ олное окно: чт 09.12 16:37 - пт 10.12 10:32.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2e49652551a5b570@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271210T140000Z
+DTEND:20271210T163200Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:32.\nП
+ олное окно: чт 09.12 16:37 - пт 10.12 10:32.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:41198441506d7058@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271210T174400Z
+DTEND:20271211T020000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 11:44 - 20:00.\nП
+ олное окно: пт 10.12 11:44 - сб 11.12 09:23.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d6b7734031c9f77b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271211T140000Z
+DTEND:20271211T152300Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:23.\nП
+ олное окно: пт 10.12 11:44 - сб 11.12 09:23.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:acd4b060ed6d6fa7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271211T163500Z
+DTEND:20271211T202500Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 10:35 - 14:25.\nП
+ олное окно: сб 11.12 10:35 - сб 11.12 14:25.\nЛунный д
+ ень 14\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-12-12@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271212T060000Z
+DTEND:20271213T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:60968d8a6962e33e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271216T140000Z
+DTEND:20271216T185500Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:55.\nП
+ олное окно: чт 16.12 01:42 - чт 16.12 12:55.\nЛунный д
+ ень 19\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a6a5455872a09c03@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271216T200500Z
+DTEND:20271217T020000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 14:05 - 20:00.\nП
+ олное окно: чт 16.12 14:05 - чт 16.12 20:00.\nЛунный д
+ ень 19\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4dc391addb6f233e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271217T020038Z
+DTEND:20271218T031749Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8356d9825aba1c94@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271218T140000Z
+DTEND:20271218T152800Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:28.\nП
+ олное окно: сб 18.12 03:18 - сб 18.12 09:28.\nЛунный д
+ ень 21\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c4658252d2f111cd@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271218T163900Z
+DTEND:20271219T020000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 10:39 - 20:00.\nП
+ олное окно: сб 18.12 10:39 - сб 18.12 23:59.\nЛунный д
+ ень 21\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-12-19@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271219T060000Z
+DTEND:20271220T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2027-12-26@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271226T060000Z
+DTEND:20271227T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:86e75ca2e28bf0f7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271226T123128Z
+DTEND:20271227T132216Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:afbe389f78c85d8c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271227T201214Z
+DTEND:20271228T140420Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a00ca8e9777cf5af@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271228T140420Z
+DTEND:20271229T143846Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:86f54add8554555d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280101T155259Z
+DTEND:20280102T161303Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-01-02@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280102T060000Z
+DTEND:20280103T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dc486b45f7b3ea27@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280102T161303Z
+DTEND:20280103T163253Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b37b022d790cad2c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280106T174300Z
+DTEND:20280106T190500Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 11:43 - 13:05.\nП
+ олное окно: чт 06.01 11:43 - чт 06.01 13:05.\nЛунный д
+ ень 11\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b5788221b25a908e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280106T201700Z
+DTEND:20280107T020000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 14:17 - 20:00.\nП
+ олное окно: чт 06.01 14:17 - пт 07.01 10:45.\nЛунный д
+ ень 11\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:496998ba5f0409e6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280107T140000Z
+DTEND:20280107T164500Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:45.\nП
+ олное окно: чт 06.01 14:17 - пт 07.01 10:45.\nЛунный д
+ ень 11\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:03c66f44c328de40@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280107T181636Z
+DTEND:20280108T185834Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-01-09@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280109T060000Z
+DTEND:20280110T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b215ec9f983e29d2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280115T140000Z
+DTEND:20280115T153600Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:36.\nП
+ олное окно: пт 14.01 20:14 - сб 15.01 09:36.\nЛунный д
+ ень 19\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d5cd88b8c304a91d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280115T164900Z
+DTEND:20280116T020000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 10:49 - 20:00.\nП
+ олное окно: сб 15.01 10:49 - сб 15.01 21:30.\nЛунный д
+ ень 19\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5b2ae492aac838b0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280116T033045Z
+DTEND:20280117T044450Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-01-16@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280116T060000Z
+DTEND:20280117T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:698c640d4b14f8ac@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280117T153700Z
+DTEND:20280118T020000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 09:37 - 20:00.\nП
+ олное окно: пн 17.01 09:37 - вт 18.01 13:26.\nЛунный д
+ ень 21\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1200d6bf55b45f91@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280118T140000Z
+DTEND:20280118T192600Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 13:26.\nП
+ олное окно: пн 17.01 09:37 - вт 18.01 13:26.\nЛунный д
+ ень 21\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-01-23@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280123T060000Z
+DTEND:20280124T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7895029f60c88240@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280125T124000Z
+DTEND:20280126T131010Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:76de1f42c4ae4607@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280126T151225Z
+DTEND:20280127T133539Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:774d6839f9119314@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280127T133539Z
+DTEND:20280128T135758Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-01-30@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280130T060000Z
+DTEND:20280131T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2deb669fc9fba8d3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280131T145814Z
+DTEND:20280201T151952Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6d59c784fedd3262@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280201T151952Z
+DTEND:20280202T154427Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fbfd62bf3322f4a7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280202T154400Z
+DTEND:20280202T180300Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 09:44 - 12:03.\nП
+ олное окно: ср 02.02 09:44 - ср 02.02 12:03.\nЛунный д
+ ень 8\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:13fbfbd432aaef81@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280202T192100Z
+DTEND:20280203T020000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 13:21 - 20:00.\nП
+ олное окно: ср 02.02 13:21 - чт 03.02 10:10.\nЛунный д
+ ень 8\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5a2596be6883a31d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280203T140000Z
+DTEND:20280203T161000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:10.\nП
+ олное окно: ср 02.02 13:21 - чт 03.02 10:10.\nЛунный д
+ ень 8\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-02-06@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280206T060000Z
+DTEND:20280207T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ac924b693843727d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280206T183405Z
+DTEND:20280207T194326Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:40a5a08434e4e4d3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280209T140000Z
+DTEND:20280209T180300Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:03.\nП
+ олное окно: вт 08.02 23:14 - ср 09.02 12:03.\nЛунный д
+ ень 14\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dc5015c8d79df54f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280209T192300Z
+DTEND:20280209T222000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 13:23 - 16:20.\nП
+ олное окно: ср 09.02 13:23 - ср 09.02 16:20.\nЛунный д
+ ень 14\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-02-13@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280213T060000Z
+DTEND:20280214T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7ed35b220a63a307@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280214T152600Z
+DTEND:20280214T224900Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 09:26 - 16:49.\nП
+ олное окно: пн 14.02 09:26 - пн 14.02 16:49.\nЛунный д
+ ень 19\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3b270265331df26a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280215T045353Z
+DTEND:20280216T060657Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-02-20@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280220T060000Z
+DTEND:20280221T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1518c35bf8b785ad@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280224T120327Z
+DTEND:20280225T103720Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:10a8da6def897e48@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280225T103720Z
+DTEND:20280225T122431Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:de293d3100835fd9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280225T122431Z
+DTEND:20280226T124432Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-02-27@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280227T060000Z
+DTEND:20280228T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3f0363878b944d42@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280229T134909Z
+DTEND:20280301T141628Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4578fa6544d3ffec@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280301T141628Z
+DTEND:20280302T144933Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5729cda5cb861f64@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280302T144900Z
+DTEND:20280302T191900Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:49 - 13:19.\nП
+ олное окно: чт 02.03 08:49 - чт 02.03 13:19.\nЛунный д
+ ень 8\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-03-05@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280305T060000Z
+DTEND:20280306T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:daa03ea750173d26@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280306T183502Z
+DTEND:20280307T195224Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:41ec9566a74304ad@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280307T195200Z
+DTEND:20280307T205500Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 13:52 - 14:55.\nП
+ олное окно: вт 07.03 13:52 - вт 07.03 14:55.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:312440545753dc30@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280307T222300Z
+DTEND:20280308T020000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 16:23 - 20:00.\nП
+ олное окно: вт 07.03 16:23 - ср 08.03 12:00.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a2eb5e49d0886a25@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280308T140000Z
+DTEND:20280308T180000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:00.\nП
+ олное окно: вт 07.03 16:23 - ср 08.03 12:00.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e1cd05785c7e76d0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280308T192900Z
+DTEND:20280309T020000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 13:29 - 20:00.\nП
+ олное окно: ср 08.03 13:29 - чт 09.03 03:19.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:49fa0215fcbf8638@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280309T160100Z
+DTEND:20280309T192700Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 10:01 - 13:27.\nП
+ олное окно: чт 09.03 10:01 - чт 09.03 13:27.\nЛунный д
+ ень 14\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a14c183bfdd57ab5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280309T205700Z
+DTEND:20280309T223000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 14:57 - 16:30.\nП
+ олное окно: чт 09.03 14:57 - чт 09.03 16:30.\nЛунный д
+ ень 14\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-03-12@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280312T060000Z
+DTEND:20280313T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5097915be16f58fc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280315T045844Z
+DTEND:20280316T060717Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-03-19@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280319T050000Z
+DTEND:20280320T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:594268ed2c55deb6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280324T105019Z
+DTEND:20280325T111032Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:03c36ac012d70c64@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280326T043114Z
+DTEND:20280326T113133Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-03-26@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280326T050000Z
+DTEND:20280327T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:11368d0dbd1f311e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280326T113133Z
+DTEND:20280327T115432Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c1493c74c3aac139@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280329T130000Z
+DTEND:20280329T175500Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:55.\nП
+ олное окно: ср 29.03 07:52 - ср 29.03 12:55.\nЛунный д
+ ень 5\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:afb01a574a3a96b0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280329T193100Z
+DTEND:20280330T010000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 14:31 - 20:00.\nП
+ олное окно: ср 29.03 14:31 - чт 30.03 03:22.\nЛунный д
+ ень 5\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ae406e9a31a41110@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280330T133051Z
+DTEND:20280331T141814Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1fc60727524ef22e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280331T141814Z
+DTEND:20280401T151529Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-04-02@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280402T050000Z
+DTEND:20280403T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:acbf650e46aebf69@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280404T185000Z
+DTEND:20280404T210600Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 13:50 - 16:06.\nП
+ олное окно: вт 04.04 13:50 - вт 04.04 16:06.\nЛунный д
+ ень 11\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c67287c4057deb68@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280404T224500Z
+DTEND:20280405T010000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 17:45 - 20:00.\nП
+ олное окно: вт 04.04 17:45 - ср 05.04 12:52.\nЛунный д
+ ень 11\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:542e890941926ed6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280405T130000Z
+DTEND:20280405T175200Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:52.\nП
+ олное окно: вт 04.04 17:45 - ср 05.04 12:52.\nЛунный д
+ ень 11\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:90342b1e519c7cbf@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280405T193100Z
+DTEND:20280405T200500Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 14:31 - 15:05.\nП
+ олное окно: ср 05.04 14:31 - ср 05.04 15:05.\nЛунный д
+ ень 11\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f682a8d61ef98238@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280405T200703Z
+DTEND:20280406T212404Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2342dfd85fd4fed5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280406T212400Z
+DTEND:20280407T010000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 16:24 - 20:00.\nП
+ олное окно: чт 06.04 16:24 - пт 07.04 04:08.\nЛунный д
+ ень 13\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:033aca41ef34644b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280408T130000Z
+DTEND:20280408T143500Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:35.\nП
+ олное окно: пт 07.04 21:04 - сб 08.04 09:35.\nЛунный д
+ ень 14\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a53c5630e7242616@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280408T161500Z
+DTEND:20280408T235500Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 11:15 - 18:55.\nП
+ олное окно: сб 08.04 11:15 - сб 08.04 18:55.\nЛунный д
+ ень 14\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-04-09@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280409T050000Z
+DTEND:20280410T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1a4ea3f4b041729a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280414T054915Z
+DTEND:20280415T063558Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-04-16@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280416T050000Z
+DTEND:20280417T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-04-23@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280423T050000Z
+DTEND:20280424T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:391daef4aa0786ab@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280423T095824Z
+DTEND:20280424T102357Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:845cd4a82bf9f7e9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280424T194650Z
+DTEND:20280425T105409Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:816d85987ed76069@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280425T105409Z
+DTEND:20280426T113057Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2b67d90418abe040@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280429T141455Z
+DTEND:20280430T152511Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-04-30@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280430T050000Z
+DTEND:20280501T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0d4c5671c93080d3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280430T152511Z
+DTEND:20280501T163846Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:24f59f1adf1b4dcf@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280501T163800Z
+DTEND:20280502T010000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 11:38 - 20:00.\nП
+ олное окно: пн 01.05 11:38 - вт 02.05 07:53.\nЛунный д
+ ень 8\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3a3b63a6532abcf0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280505T130000Z
+DTEND:20280505T160000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:00.\nП
+ олное окно: пт 05.05 05:35 - пт 05.05 11:00.\nЛунный д
+ ень 11\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fab588a5769f74f4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280505T174800Z
+DTEND:20280505T213500Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 12:48 - 16:35.\nП
+ олное окно: пт 05.05 12:48 - пт 05.05 16:35.\nЛунный д
+ ень 11\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f708f7c482607804@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280505T213634Z
+DTEND:20280506T225211Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-05-07@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280507T050000Z
+DTEND:20280508T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-05-14@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280514T050000Z
+DTEND:20280515T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8a42e6e823ea07f8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280514T054324Z
+DTEND:20280515T061139Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-05-21@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280521T050000Z
+DTEND:20280522T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9c6b7f691c70e126@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280522T140500Z
+DTEND:20280523T010000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 09:05 - 20:00.\nП
+ олное окно: пн 22.05 09:05 - пн 22.05 23:59.\nЛунный д
+ ень 28\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:96d02e830fbeafaa@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280523T092802Z
+DTEND:20280524T081612Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2723bed8582715ab@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280524T081612Z
+DTEND:20280524T101050Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2fac6eb7fe24ae73@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280524T101050Z
+DTEND:20280525T110327Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-05-28@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280528T050000Z
+DTEND:20280529T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1a781dd324664ce5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280528T142936Z
+DTEND:20280529T154417Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d37aa664a4f56e2b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280529T154417Z
+DTEND:20280530T165816Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6e7e1b70e2960118@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280530T165800Z
+DTEND:20280530T213300Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 11:58 - 16:33.\nП
+ олное окно: вт 30.05 11:58 - вт 30.05 16:33.\nЛунный д
+ ень 8\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ce55f8d25c231e08@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280530T232800Z
+DTEND:20280531T010000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 18:28 - 20:00.\nП
+ олное окно: вт 30.05 18:28 - ср 31.05 12:47.\nЛунный д
+ ень 8\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:405f796575b42011@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280531T130000Z
+DTEND:20280531T174700Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:47.\nП
+ олное окно: вт 30.05 18:28 - ср 31.05 12:47.\nЛунный д
+ ень 8\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:986e7ffcfaaab5e0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280603T215112Z
+DTEND:20280604T230445Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-06-04@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280604T050000Z
+DTEND:20280605T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-06-11@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280611T050000Z
+DTEND:20280612T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:84fe2e35b5eab9c1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280612T043731Z
+DTEND:20280613T050015Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-06-18@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280618T050000Z
+DTEND:20280619T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e19d8af5b5a68174@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280619T140300Z
+DTEND:20280619T151000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 09:03 - 10:10.\nП
+ олное окно: пн 19.06 09:03 - пн 19.06 10:10.\nЛунный д
+ ень 27\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cbc681738171c9fc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280621T085112Z
+DTEND:20280622T095035Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ea5bdf38d369ab2b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280622T182726Z
+DTEND:20280623T105923Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:60fc6eaa770660a2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280623T105923Z
+DTEND:20280624T121409Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-06-25@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280625T050000Z
+DTEND:20280626T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e9b075e9c2be304e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280626T195900Z
+DTEND:20280627T010000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 14:59 - 20:00.\nП
+ олное окно: пн 26.06 14:59 - вт 27.06 11:00.\nЛунный д
+ ень 5\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b7c58b0499c1541b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280627T130000Z
+DTEND:20280627T160000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:00.\nП
+ олное окно: пн 26.06 14:59 - вт 27.06 11:00.\nЛунный д
+ ень 5\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:62a54bb6da0450d8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280627T160146Z
+DTEND:20280628T171514Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f6c3a0a1240d64af@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280628T171514Z
+DTEND:20280629T182812Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:09a307b0b2a0c461@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280629T182800Z
+DTEND:20280629T194700Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 13:28 - 14:47.\nП
+ олное окно: чт 29.06 13:28 - чт 29.06 14:47.\nЛунный д
+ ень 8\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:45d492feceeb087a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280629T214300Z
+DTEND:20280630T010000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 16:43 - 20:00.\nП
+ олное окно: чт 29.06 16:43 - чт 29.06 22:21.\nЛунный д
+ ень 8\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-07-02@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280702T050000Z
+DTEND:20280703T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d79bc06d690bdcc7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280703T231017Z
+DTEND:20280705T000847Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fcdca3355c90bc78@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280705T132700Z
+DTEND:20280705T175500Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:27 - 12:55.\nП
+ олное окно: ср 05.07 08:27 - ср 05.07 12:55.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:de7ca2bf6079e3e8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280705T194900Z
+DTEND:20280706T010000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 14:49 - 20:00.\nП
+ олное окно: ср 05.07 14:49 - чт 06.07 13:10.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2b5f0ba3fc8ca47d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280706T130000Z
+DTEND:20280706T181000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 13:10.\nП
+ олное окно: ср 05.07 14:49 - чт 06.07 13:10.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-07-09@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280709T050000Z
+DTEND:20280710T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0bb76bf441d5156e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280712T034531Z
+DTEND:20280713T040603Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-07-16@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280716T050000Z
+DTEND:20280717T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3208630ae12a0e24@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280721T095023Z
+DTEND:20280722T030135Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d9becde2527f8940@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280722T030135Z
+DTEND:20280722T110813Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f5211a50dba30fe4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280722T110813Z
+DTEND:20280723T122703Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-07-23@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280723T050000Z
+DTEND:20280724T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:860dffcb46d6a9ef@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280725T150100Z
+DTEND:20280725T193900Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 10:01 - 14:39.\nП
+ олное окно: вт 25.07 10:01 - вт 25.07 14:39.\nЛунный д
+ ень 5\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6242b150d4da7482@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280726T130000Z
+DTEND:20280726T161500Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:15.\nП
+ олное окно: вт 25.07 23:42 - ср 26.07 11:15.\nЛунный д
+ ень 5\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b9b4baef4a2c5ac0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280726T161625Z
+DTEND:20280727T173054Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b38db90caf575b19@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280727T173054Z
+DTEND:20280728T184431Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-07-30@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280730T050000Z
+DTEND:20280731T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:439e6c88f1a02ea4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280801T193400Z
+DTEND:20280801T213200Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 14:34 - 16:32.\nП
+ олное окно: вт 01.08 14:34 - вт 01.08 16:32.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:17df3c2ae4d0920c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280801T225523Z
+DTEND:20280802T233814Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:af0a7c3a56e7df81@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280802T233800Z
+DTEND:20280803T010000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 18:38 - 20:00.\nП
+ олное окно: ср 02.08 18:38 - чт 03.08 14:43.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abf301f15c27d12a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280803T130000Z
+DTEND:20280803T194300Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 14:43.\nП
+ олное окно: ср 02.08 18:38 - чт 03.08 14:43.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-08-06@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280806T050000Z
+DTEND:20280807T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:af8b2f377e00ae39@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280810T023214Z
+DTEND:20280811T025515Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8832886bc4a86f81@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280811T181900Z
+DTEND:20280812T010000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 13:19 - 20:00.\nП
+ олное окно: пт 11.08 13:19 - сб 12.08 09:23.\nЛунный д
+ ень 21\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0364d34b1bf3c23c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280812T130000Z
+DTEND:20280812T142300Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:23.\nП
+ олное окно: пт 11.08 13:19 - сб 12.08 09:23.\nЛунный д
+ ень 21\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:19ee14bfda15a98f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280812T161000Z
+DTEND:20280813T010000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 11:10 - 20:00.\nП
+ олное окно: сб 12.08 11:10 - сб 12.08 22:50.\nЛунный д
+ ень 22\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-08-13@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280813T050000Z
+DTEND:20280814T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1fb1c0a7cf45d460@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280818T134700Z
+DTEND:20280818T161000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:47 - 11:10.\nП
+ олное окно: пт 18.08 08:47 - пт 18.08 11:10.\nЛунный д
+ ень 28\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc2cbb2ca476fb1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280818T175400Z
+DTEND:20280819T010000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 12:54 - 20:00.\nП
+ олное окно: пт 18.08 12:54 - сб 19.08 04:55.\nЛунный д
+ ень 28\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6cc81203f764095a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280819T095845Z
+DTEND:20280820T104344Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-08-20@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280820T050000Z
+DTEND:20280821T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8506fe556adb6afb@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280820T104344Z
+DTEND:20280820T111817Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:13a83554628ed19b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280820T111817Z
+DTEND:20280821T123717Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aaba1a4897be12f7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280823T151200Z
+DTEND:20280823T175100Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 10:12 - 12:51.\nП
+ олное окно: ср 23.08 10:12 - ср 23.08 12:51.\nЛунный д
+ ень 5\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:23ae0dc5dc154484@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280823T193500Z
+DTEND:20280824T010000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 14:35 - 20:00.\nП
+ олное окно: ср 23.08 14:35 - ср 23.08 21:00.\nЛунный д
+ ень 5\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3802e35096052969@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280824T162934Z
+DTEND:20280825T174408Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:655159ea3bd141a6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280825T174408Z
+DTEND:20280826T185430Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-08-27@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280827T050000Z
+DTEND:20280828T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d7c907eec06e1bef@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280829T225000Z
+DTEND:20280830T010000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 17:50 - 20:00.\nП
+ олное окно: вт 29.08 17:50 - ср 30.08 12:50.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d9d6da60f580a58f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280830T130000Z
+DTEND:20280830T175000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:50.\nП
+ олное окно: вт 29.08 17:50 - ср 30.08 12:50.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:94f79049931ed8a9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280830T193000Z
+DTEND:20280830T221500Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 14:30 - 17:15.\nП
+ олное окно: ср 30.08 14:30 - ср 30.08 17:15.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:905c5164beb91378@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280830T221517Z
+DTEND:20280831T224606Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-09-03@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280903T050000Z
+DTEND:20280904T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:efe1ff9b04e18b7f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280908T012531Z
+DTEND:20280909T015444Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-09-10@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280910T050000Z
+DTEND:20280911T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9883e1d1c44114d8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280914T235000Z
+DTEND:20280915T010000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 18:50 - 20:00.\nП
+ олное окно: чт 14.09 18:50 - пт 15.09 11:10.\nЛунный д
+ ень 26\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ea109da675efe0a1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280915T130000Z
+DTEND:20280915T161000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:10.\nП
+ олное окно: чт 14.09 18:50 - пт 15.09 11:10.\nЛунный д
+ ень 26\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6335afa26702e81d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280915T174600Z
+DTEND:20280916T010000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 12:46 - 20:00.\nП
+ олное окно: пт 15.09 12:46 - сб 16.09 00:32.\nЛунный д
+ ень 27\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-09-17@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280917T050000Z
+DTEND:20280918T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3ea5fb81d2de0bb2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280917T100720Z
+DTEND:20280918T112613Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a0451bba6402824b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280918T182339Z
+DTEND:20280919T124523Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0b041381b985678a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280919T124523Z
+DTEND:20280920T140436Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6e7d51992075956c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280923T174621Z
+DTEND:20280924T184549Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-09-24@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280924T050000Z
+DTEND:20280925T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6b1545e30bf970a0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280924T184549Z
+DTEND:20280925T193516Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e5f3b69be59c5598@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280925T193500Z
+DTEND:20280926T010000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 14:35 - 20:00.\nП
+ олное окно: пн 25.09 14:35 - вт 26.09 08:39.\nЛунный д
+ ень 8\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feeec26ca8960901@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280926T130000Z
+DTEND:20280926T133900Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 08:39.\nП
+ олное окно: пн 25.09 14:35 - вт 26.09 08:39.\nЛунный д
+ ень 8\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:16d20fa6c630ea80@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280929T214009Z
+DTEND:20280930T220200Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-10-01@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281001T050000Z
+DTEND:20281002T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eb5987348e1de39c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281008T011207Z
+DTEND:20281009T020040Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-10-08@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281008T050000Z
+DTEND:20281009T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:780151965ae5c09f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281014T130000Z
+DTEND:20281014T144700Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:47.\nП
+ олное окно: сб 14.10 05:39 - сб 14.10 09:47.\nЛунный д
+ ень 26\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:80c07cb203c17bf2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281014T161300Z
+DTEND:20281015T010000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 11:13 - 20:00.\nП
+ олное окно: сб 14.10 11:13 - сб 14.10 23:59.\nЛунный д
+ ень 26\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-10-15@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281015T050000Z
+DTEND:20281016T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1a9f4686b6d62740@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281016T145000Z
+DTEND:20281017T010000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 09:50 - 20:00.\nП
+ олное окно: пн 16.10 09:50 - вт 17.10 06:30.\nЛунный д
+ ень 28\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:60a8c4679f3898f1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281017T113408Z
+DTEND:20281018T025642Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3d38f312f0422072@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281018T025642Z
+DTEND:20281018T125330Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:712e2367e3ac5554@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281018T125330Z
+DTEND:20281019T141146Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-10-22@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281022T050000Z
+DTEND:20281023T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8f7912d0d51a07cc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281022T172643Z
+DTEND:20281023T181142Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e632ed2fc29c765b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281023T181142Z
+DTEND:20281024T184802Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fa5622b4345ea186@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281028T202722Z
+DTEND:20281029T204823Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-10-29@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281029T050000Z
+DTEND:20281030T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-11-05@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281105T050000Z
+DTEND:20281106T050000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ce89b6fa0ff0d072@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281106T005331Z
+DTEND:20281107T015607Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:02bc72c2fe6d689b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281108T140000Z
+DTEND:20281108T173300Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:33.\nП
+ олное окно: ср 08.11 07:52 - ср 08.11 11:33.\nЛунный д
+ ень 22\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1de4ba5e1ae63450@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281108T185000Z
+DTEND:20281109T020000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 12:50 - 20:00.\nП
+ олное окно: ср 08.11 12:50 - ср 08.11 22:15.\nЛунный д
+ ень 22\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-11-12@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281112T060000Z
+DTEND:20281113T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:257b63814b06d857@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281113T150600Z
+DTEND:20281114T020000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 09:06 - 20:00.\nП
+ олное окно: пн 13.11 09:06 - вт 14.11 01:18.\nЛунный д
+ ень 27\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b99e47bd803bfe56@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281115T114341Z
+DTEND:20281116T125943Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1ff362553b3c471@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281116T131755Z
+DTEND:20281117T141019Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7cd8d0aeb089a3b5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281117T141019Z
+DTEND:20281118T151150Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-11-19@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281119T060000Z
+DTEND:20281120T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f0cd4048a7bf6ee1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281120T164300Z
+DTEND:20281121T020000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 10:43 - 20:00.\nП
+ олное окно: пн 20.11 10:43 - вт 21.11 02:04.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0e97cf29b70021ab@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281121T171653Z
+DTEND:20281122T174433Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b5708fdbabb10da3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281122T174433Z
+DTEND:20281123T180834Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-11-26@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281126T060000Z
+DTEND:20281127T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c7fad203283050d2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281127T193608Z
+DTEND:20281128T200200Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c9938ba9a62a1a76@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281128T211200Z
+DTEND:20281129T020000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 15:12 - 20:00.\nП
+ олное окно: вт 28.11 15:12 - ср 29.11 11:37.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a37483aeb869e9e3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281129T140000Z
+DTEND:20281129T173700Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:37.\nП
+ олное окно: вт 28.11 15:12 - ср 29.11 11:37.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2575ffa773b6c5c0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281129T185000Z
+DTEND:20281130T020000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 12:50 - 20:00.\nП
+ олное окно: ср 29.11 12:50 - чт 30.11 05:37.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-12-03@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281203T060000Z
+DTEND:20281204T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:93b196a622caea58@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281205T192100Z
+DTEND:20281205T200000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 13:21 - 14:00.\nП
+ олное окно: вт 05.12 13:21 - вт 05.12 14:00.\nЛунный д
+ ень 19\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:adb90c8bbf97fb17@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281205T211200Z
+DTEND:20281206T020000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 15:12 - 20:00.\nП
+ олное окно: вт 05.12 15:12 - вт 05.12 20:05.\nЛунный д
+ ень 19\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e4d5e71611181f6d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281206T020644Z
+DTEND:20281207T031851Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3b8cdfea22862e4a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281207T140000Z
+DTEND:20281207T161500Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:15.\nП
+ олное окно: ср 06.12 21:18 - чт 07.12 10:15.\nЛунный д
+ ень 21\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadd064cbaafa05b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281207T233000Z
+DTEND:20281208T020000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 17:30 - 20:00.\nП
+ олное окно: чт 07.12 17:30 - пт 08.12 10:32.\nЛунный д
+ ень 21\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a6b71264d2eff8e2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281208T140000Z
+DTEND:20281208T163200Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:32.\nП
+ олное окно: чт 07.12 17:30 - пт 08.12 10:32.\nЛунный д
+ ень 21\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26fa565b9629c1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281208T174300Z
+DTEND:20281209T020000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 11:43 - 20:00.\nП
+ олное окно: пт 08.12 11:43 - пт 08.12 23:40.\nЛунный д
+ ень 22\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-12-10@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281210T060000Z
+DTEND:20281211T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:96a4a9c8ac5a11c4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281215T125516Z
+DTEND:20281216T020613Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf3b7ac5cc673f1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281216T020613Z
+DTEND:20281216T135057Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:243b15cb2e5287cf@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281216T135057Z
+DTEND:20281217T143638Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-12-17@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281217T060000Z
+DTEND:20281218T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bdb85db984ec1df6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281220T160954Z
+DTEND:20281221T163253Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:919931d679a76499@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281221T163253Z
+DTEND:20281222T165424Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-12-24@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281224T060000Z
+DTEND:20281225T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a866f7ded9bbf72f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281226T140000Z
+DTEND:20281226T183000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:30.\nП
+ олное окно: пн 25.12 22:48 - вт 26.12 12:30.\nЛунный д
+ ень 11\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cfd263da57320a81@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281226T183013Z
+DTEND:20281227T190337Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c6baa646c110d63b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281227T190300Z
+DTEND:20281228T020000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 13:03 - 20:00.\nП
+ олное окно: ср 27.12 13:03 - чт 28.12 02:03.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chicagosun2028-12-31@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281231T060000Z
+DTEND:20290101T060000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Чикаго
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

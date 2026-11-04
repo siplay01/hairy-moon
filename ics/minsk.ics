@@ -1,0 +1,6598 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hairy Moon//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Hairy Moon (Минск)
+X-WR-TIMEZONE:Europe/Minsk
+REFRESH-INTERVAL;VALUE=DURATION:P7D
+BEGIN:VEVENT
+UID:27d9eb74a2e48695@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261105T143900Z
+DTEND:20261105T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 17:39 - 20:00.\nП
+ олное окно: чт 05.11 17:39 - пт 06.11 11:43.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:06004d03466d4cd5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261106T050000Z
+DTEND:20261106T084300Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:43.\nП
+ олное окно: чт 05.11 17:39 - пт 06.11 11:43.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:edb81018b613ba0e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261106T095400Z
+DTEND:20261106T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 12:54 - 20:00.\nП
+ олное окно: пт 06.11 12:54 - сб 07.11 10:35.\nЛунный д
+ ень 27\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:50de7aa69b8d2721@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261107T050000Z
+DTEND:20261107T073500Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:35.\nП
+ олное окно: пт 06.11 12:54 - сб 07.11 10:35.\nЛунный д
+ ень 27\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0c2c5274f140bf82@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261107T084500Z
+DTEND:20261107T131900Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 11:45 - 16:19.\nП
+ олное окно: сб 07.11 11:45 - сб 07.11 16:19.\nЛунный д
+ ень 28\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2026-11-08@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261107T210000Z
+DTEND:20261108T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:45a2be1db5378f62@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261108T043623Z
+DTEND:20261109T055632Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:61d667f3e55bf53e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261109T070203Z
+DTEND:20261110T071419Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4c6d35843d2cff64@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261110T071419Z
+DTEND:20261111T082515Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5f9fce0f833a36ba@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261113T100800Z
+DTEND:20261113T170000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 13:08 - 20:00.\nП
+ олное окно: пт 13.11 13:08 - сб 14.11 10:42.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:00f4ef95b380b262@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261114T050000Z
+DTEND:20261114T074200Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:42.\nП
+ олное окно: пт 13.11 13:08 - сб 14.11 10:42.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:62355bc136db3814@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261114T084900Z
+DTEND:20261114T103500Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 11:49 - 13:35.\nП
+ олное окно: сб 14.11 11:49 - сб 14.11 13:35.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b9951cdae823bbde@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261114T103924Z
+DTEND:20261115T110059Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2026-11-15@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261114T210000Z
+DTEND:20261115T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3866760120243af6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261115T110059Z
+DTEND:20261116T111633Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1b2fbcff903ce333@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261120T115649Z
+DTEND:20261121T120723Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2026-11-22@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261121T210000Z
+DTEND:20261122T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d16eb57c1b390e6c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261123T050000Z
+DTEND:20261123T065000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:50.\nП
+ олное окно: пн 23.11 00:00 - пн 23.11 09:50.\nЛунный д
+ ень 14\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:70141029ed6ccddf@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261123T075300Z
+DTEND:20261123T123500Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 10:53 - 15:35.\nП
+ олное окно: пн 23.11 10:53 - пн 23.11 15:35.\nЛунный д
+ ень 14\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1aebd7165d34902a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261128T112200Z
+DTEND:20261128T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 14:22 - 20:00.\nП
+ олное окно: сб 28.11 14:22 - сб 28.11 21:00.\nЛунный д
+ ень 19\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a82137e2d3d645d1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261128T180115Z
+DTEND:20261129T193400Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2026-11-29@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261128T210000Z
+DTEND:20261129T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2650d68bbe5639d7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261130T050000Z
+DTEND:20261130T070000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:00.\nП
+ олное окно: пн 30.11 00:00 - пн 30.11 10:00.\nЛунный д
+ ень 21\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:479f670164fc18e0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261130T080000Z
+DTEND:20261130T101000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 11:00 - 13:10.\nП
+ олное окно: пн 30.11 11:00 - пн 30.11 13:10.\nЛунный д
+ ень 21\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2255fc4046a5b96e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261130T141400Z
+DTEND:20261130T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 17:14 - 20:00.\nП
+ олное окно: пн 30.11 17:14 - вт 01.12 14:55.\nЛунный д
+ ень 21\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a7f673c7ff41c1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261201T050000Z
+DTEND:20261201T115500Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 14:55.\nП
+ олное окно: пн 30.11 17:14 - вт 01.12 14:55.\nЛунный д
+ ень 21\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:efcac3fd07e077ed@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261201T125600Z
+DTEND:20261201T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 15:56 - 20:00.\nП
+ олное окно: вт 01.12 15:56 - ср 02.12 01:25.\nЛунный д
+ ень 22\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2026-12-06@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261205T210000Z
+DTEND:20261206T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7a2be4c209a88c1a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261208T061347Z
+DTEND:20261209T005146Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4e8526890887aec6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261209T005146Z
+DTEND:20261209T071639Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:faca6db444a1c8e9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261209T071639Z
+DTEND:20261210T080532Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2026-12-13@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261212T210000Z
+DTEND:20261213T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:270c754b5ec53861@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261213T092202Z
+DTEND:20261214T093454Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d8d176f852c3eaed@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261214T093454Z
+DTEND:20261215T094514Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:58b29aa8f2da1c73@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261219T102401Z
+DTEND:20261220T103919Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2026-12-20@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261219T210000Z
+DTEND:20261220T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a064ec1dd0770771@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261221T050000Z
+DTEND:20261221T071800Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:18.\nП
+ олное окно: пн 21.12 00:00 - пн 21.12 10:18.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:65356d2cf11d2251@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261221T081600Z
+DTEND:20261221T170000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 11:16 - 20:00.\nП
+ олное окно: пн 21.12 11:16 - пн 21.12 20:25.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2026-12-27@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261226T210000Z
+DTEND:20261227T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fccf24e91fe45176@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261227T183928Z
+DTEND:20261228T200749Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6aef2dc0f340d6b9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261229T050000Z
+DTEND:20261229T101700Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 13:17.\nП
+ олное окно: пн 28.12 23:07 - вт 29.12 13:17.\nЛунный д
+ ень 21\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:17e45e8db8e8d355@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261230T050000Z
+DTEND:20261230T101100Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 13:11.\nП
+ олное окно: ср 30.12 05:28 - ср 30.12 13:11.\nЛунный д
+ ень 22\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dc0d06cd9ed2b829@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261230T110900Z
+DTEND:20261230T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 14:09 - 20:00.\nП
+ олное окно: ср 30.12 14:09 - чт 31.12 01:50.\nЛунный д
+ ень 22\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-01-03@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270102T210000Z
+DTEND:20270103T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8ae73e606ed15ec8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270106T060346Z
+DTEND:20270107T064236Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:75b9e5609dee47f0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270107T202418Z
+DTEND:20270108T070944Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f458095d58eccf65@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270108T070944Z
+DTEND:20270109T072845Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-01-10@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270109T210000Z
+DTEND:20270110T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2c795b23a49e12be@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270112T080244Z
+DTEND:20270113T081117Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b5a2bec3fb3409fe@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270113T081117Z
+DTEND:20270114T082005Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-01-17@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270116T210000Z
+DTEND:20270117T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eeecf553fb70839f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270118T092759Z
+DTEND:20270119T101107Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-01-24@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270123T210000Z
+DTEND:20270124T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8a9d9847f03bf6f0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270126T111400Z
+DTEND:20270126T123000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 14:14 - 15:30.\nП
+ олное окно: вт 26.01 14:14 - вт 26.01 15:30.\nЛунный д
+ ень 19\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:51da76a4d6c51b54@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270126T133700Z
+DTEND:20270126T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 16:37 - 20:00.\nП
+ олное окно: вт 26.01 16:37 - вт 26.01 23:30.\nЛунный д
+ ень 19\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eb6cb5dc6863c3af@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270126T203111Z
+DTEND:20270127T215424Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cda5b951ff572ea4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270128T050000Z
+DTEND:20270128T074600Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:46.\nП
+ олное окно: чт 28.01 00:54 - чт 28.01 10:46.\nЛунный д
+ ень 21\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-01-31@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270130T210000Z
+DTEND:20270131T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4c00da2dab5191c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270205T053541Z
+DTEND:20270206T055059Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0f0a256963a4abd7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270206T155602Z
+DTEND:20270207T060241Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-02-07@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270206T210000Z
+DTEND:20270207T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:99045efef16adf0c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270207T060241Z
+DTEND:20270208T061219Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f8ab142178b3ba5a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270211T063904Z
+DTEND:20270212T065034Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c0e6e82f411a5ffd@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270212T065034Z
+DTEND:20270213T070557Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c06a8ad3a9171e97@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270213T070500Z
+DTEND:20270213T075700Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 10:05 - 10:57.\nП
+ олное окно: сб 13.02 10:05 - сб 13.02 10:57.\nЛунный д
+ ень 8\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a1e686e54498a079@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270213T091200Z
+DTEND:20270213T170000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 12:12 - 20:00.\nП
+ олное окно: сб 13.02 12:12 - сб 13.02 23:59.\nЛунный д
+ ень 8\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-02-14@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270213T210000Z
+DTEND:20270214T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:57adf579159d996b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270217T101149Z
+DTEND:20270218T114339Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cad5f4a95d806e96@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270219T050000Z
+DTEND:20270219T090600Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:06.\nП
+ олное окно: чт 18.02 22:32 - пт 19.02 12:06.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:267b4137e8c65c00@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270219T102500Z
+DTEND:20270219T170000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 13:25 - 20:00.\nП
+ олное окно: пт 19.02 13:25 - сб 20.02 10:50.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5c14129071194d02@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270220T050000Z
+DTEND:20270220T075000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:50.\nП
+ олное окно: пт 19.02 13:25 - сб 20.02 10:50.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ac050673e69c967d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270220T090800Z
+DTEND:20270220T145500Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 12:08 - 17:55.\nП
+ олное окно: сб 20.02 12:08 - сб 20.02 17:55.\nЛунный д
+ ень 14\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-02-21@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270220T210000Z
+DTEND:20270221T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1d9562b613446aa7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270225T221444Z
+DTEND:20270226T233537Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-02-28@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270227T210000Z
+DTEND:20270228T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-03-07@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270306T210000Z
+DTEND:20270307T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e60633cac72f4ecd@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270307T042131Z
+DTEND:20270308T043038Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:66e21e1487282c54@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270308T092924Z
+DTEND:20270309T043926Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b86eff9df932ffb2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270309T043926Z
+DTEND:20270310T044848Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:80b441f5c32a1859@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270312T051400Z
+DTEND:20270312T085100Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:14 - 11:51.\nП
+ олное окно: пт 12.03 08:14 - пт 12.03 11:51.\nЛунный д
+ ень 5\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8844ec514d0d75c4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270312T102100Z
+DTEND:20270312T170000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 13:21 - 20:00.\nП
+ олное окно: пт 12.03 13:21 - сб 13.03 08:30.\nЛунный д
+ ень 5\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8d2e7812458ae8e0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270313T050000Z
+DTEND:20270313T053000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 08:30.\nП
+ олное окно: пт 12.03 13:21 - сб 13.03 08:30.\nЛунный д
+ ень 5\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:27f76c1895110d60@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270313T053402Z
+DTEND:20270314T060358Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-03-14@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270313T210000Z
+DTEND:20270314T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e6391b6ebae3cd64@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270314T060358Z
+DTEND:20270315T064947Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:987c0d817f107c75@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270318T105200Z
+DTEND:20270318T114700Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 13:52 - 14:47.\nП
+ олное окно: чт 18.03 13:52 - чт 18.03 14:47.\nЛунный д
+ ень 11\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4d2477613a9f2fae@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270318T132000Z
+DTEND:20270318T170000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 16:20 - 20:00.\nП
+ олное окно: чт 18.03 16:20 - пт 19.03 11:46.\nЛунный д
+ ень 11\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:595068a5e8b671b2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270319T050000Z
+DTEND:20270319T084600Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:46.\nП
+ олное окно: чт 18.03 16:20 - пт 19.03 11:46.\nЛунный д
+ ень 11\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:54dfd3d34d45f0bd@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270319T101900Z
+DTEND:20270319T122500Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 13:19 - 15:25.\nП
+ олное окно: пт 19.03 13:19 - пт 19.03 15:25.\nЛунный д
+ ень 11\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e85bc741a433b5dc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270319T122606Z
+DTEND:20270320T135750Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-03-21@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270320T210000Z
+DTEND:20270321T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7e10c21059adf54d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270322T080300Z
+DTEND:20270322T104000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 11:03 - 13:40.\nП
+ олное окно: пн 22.03 11:03 - пн 22.03 13:40.\nЛунный д
+ ень 14\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4c70ac279466c4e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270322T104500Z
+DTEND:20270322T165000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 13:45 - 19:50.\nП
+ олное окно: пн 22.03 13:45 - пн 22.03 19:50.\nЛунный д
+ ень 14\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-03-28@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270327T210000Z
+DTEND:20270328T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4ccc26dae195d08b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270327T233901Z
+DTEND:20270329T003434Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-04-04@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270403T210000Z
+DTEND:20270404T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c038dbdd5720d8a5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270406T025724Z
+DTEND:20270406T235105Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8171eaadde360d01@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270406T235105Z
+DTEND:20270407T030809Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a2e23d35b11a9d29@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270407T030809Z
+DTEND:20270408T032138Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-04-11@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270410T210000Z
+DTEND:20270411T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2e6659dce0d0a8aa@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270411T044828Z
+DTEND:20270412T054849Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:327f25a53a68a3a2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270412T054849Z
+DTEND:20270413T070723Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:008a6ce12d6e1159@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270416T124100Z
+DTEND:20270416T170000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 15:41 - 20:00.\nП
+ олное окно: пт 16.04 15:41 - сб 17.04 09:35.\nЛунный д
+ ень 11\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:32354024de23fea3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270417T050000Z
+DTEND:20270417T063500Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:35.\nП
+ олное окно: пт 16.04 15:41 - сб 17.04 09:35.\nЛунный д
+ ень 11\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2f8abc4a6fd2a843@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270417T082400Z
+DTEND:20270417T130000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 11:24 - 16:00.\nП
+ олное окно: сб 17.04 11:24 - сб 17.04 16:00.\nЛунный д
+ ень 11\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6d1615c667ce6e0b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270417T130435Z
+DTEND:20270418T142953Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-04-18@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270417T210000Z
+DTEND:20270418T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d6e9bac62b1b516a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270419T063500Z
+DTEND:20270419T170000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 09:35 - 20:00.\nП
+ олное окно: пн 19.04 09:35 - вт 20.04 11:38.\nЛунный д
+ ень 13\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:42e219c2c4397994@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270420T050000Z
+DTEND:20270420T083800Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:38.\nП
+ олное окно: пн 19.04 09:35 - вт 20.04 11:38.\nЛунный д
+ ень 13\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-04-25@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270424T210000Z
+DTEND:20270425T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2bb8de72c81727d4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270425T230944Z
+DTEND:20270426T234249Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-05-02@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270501T210000Z
+DTEND:20270502T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20f1af8534707ad3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270505T012712Z
+DTEND:20270506T014354Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:21fc858e69d8e9d5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270506T105832Z
+DTEND:20270507T020759Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cb7096b080d038be@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270507T020759Z
+DTEND:20270508T024435Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-05-09@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270508T210000Z
+DTEND:20270509T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:294dc3b13af9c4ff@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270511T062250Z
+DTEND:20270512T075441Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e537cbb2ad7fcfc1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270512T075441Z
+DTEND:20270513T092443Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ac804aa3b0b9c37d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270513T092400Z
+DTEND:20270513T120500Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 12:24 - 15:05.\nП
+ олное окно: чт 13.05 12:24 - чт 13.05 15:05.\nЛунный д
+ ень 8\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d178143f17c2bd98@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270513T140600Z
+DTEND:20270513T170000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 17:06 - 20:00.\nП
+ олное окно: чт 13.05 17:06 - чт 13.05 20:31.\nЛунный д
+ ень 8\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bd2904f453f81aa0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270514T050000Z
+DTEND:20270514T080500Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:05.\nП
+ олное окно: чт 13.05 21:07 - пт 14.05 11:05.\nЛунный д
+ ень 8\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:19964bfa57e447fa@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270514T100700Z
+DTEND:20270514T105000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 13:07 - 13:50.\nП
+ олное окно: пт 14.05 13:07 - пт 14.05 13:50.\nЛунный д
+ ень 8\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-05-16@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270515T210000Z
+DTEND:20270516T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7505c6186eefaa76@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270517T060500Z
+DTEND:20270517T145500Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 09:05 - 17:55.\nП
+ олное окно: пн 17.05 09:05 - пн 17.05 17:55.\nЛунный д
+ ень 11\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b49f0450a94911f9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270517T150103Z
+DTEND:20270518T162401Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-05-23@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270522T210000Z
+DTEND:20270523T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c5e8a5e7c0d0d686@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270525T222645Z
+DTEND:20270526T224044Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-05-30@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270529T210000Z
+DTEND:20270530T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:569e577c0fbe2676@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270602T050000Z
+DTEND:20270602T100700Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 13:07.\nП
+ олное окно: вт 01.06 20:34 - ср 02.06 13:07.\nЛунный д
+ ень 26\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1006686db3273bbd@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270602T121500Z
+DTEND:20270602T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 15:15 - 20:00.\nП
+ олное окно: ср 02.06 15:15 - чт 03.06 13:23.\nЛунный д
+ ень 27\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:74889b7b5110aef9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270603T050000Z
+DTEND:20270603T102300Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 13:23.\nП
+ олное окно: ср 02.06 15:15 - чт 03.06 13:23.\nЛунный д
+ ень 27\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:176c9b8abdc927cd@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270604T003721Z
+DTEND:20270604T194015Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ad615ef7f41e8223@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270604T194015Z
+DTEND:20270605T012445Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:175787e437052efd@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270605T012445Z
+DTEND:20270606T023342Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-06-06@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270605T210000Z
+DTEND:20270606T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:27d9a62fef3beb87@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270608T053400Z
+DTEND:20270608T142300Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:34 - 17:23.\nП
+ олное окно: вт 08.06 08:34 - вт 08.06 17:23.\nЛунный д
+ ень 5\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:65b9fac70e5e068a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270609T050000Z
+DTEND:20270609T070500Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:05.\nП
+ олное окно: вт 08.06 19:33 - ср 09.06 10:05.\nЛунный д
+ ень 5\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abc0bbe4da9c92b8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270609T070829Z
+DTEND:20270610T083805Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c1b507bd21ed9cdc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270610T083805Z
+DTEND:20270611T100349Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bdcafd2b3550b30c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270611T101000Z
+DTEND:20270611T105600Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 13:10 - 13:56.\nП
+ олное окно: пт 11.06 13:10 - пт 11.06 13:56.\nЛунный д
+ ень 8\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6f41d0aa3c74f7e7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270612T050000Z
+DTEND:20270612T055100Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 08:51.\nП
+ олное окно: сб 12.06 06:58 - сб 12.06 08:51.\nЛунный д
+ ень 8\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:597d5bf1be902ec0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270612T080200Z
+DTEND:20270612T112500Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 11:02 - 14:25.\nП
+ олное окно: сб 12.06 11:02 - сб 12.06 14:25.\nЛунный д
+ ень 8\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-06-13@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270612T210000Z
+DTEND:20270613T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:33af09a4f89fb159@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270615T153225Z
+DTEND:20270616T165029Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-06-20@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270619T210000Z
+DTEND:20270620T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:68e48da50f1be87c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270623T205903Z
+DTEND:20270624T210900Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-06-27@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270626T210000Z
+DTEND:20270627T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:272c9c15a51b1683@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270630T050000Z
+DTEND:20270630T101200Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 13:12.\nП
+ олное окно: ср 30.06 01:06 - ср 30.06 13:12.\nЛунный д
+ ень 26\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:228e7fab807ee76c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270630T122200Z
+DTEND:20270630T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 15:22 - 20:00.\nП
+ олное окно: ср 30.06 15:22 - чт 01.07 01:41.\nЛунный д
+ ень 26\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:28c0d297c9012223@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270703T000744Z
+DTEND:20270704T012803Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-07-04@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270703T210000Z
+DTEND:20270704T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dfb7702f7e5510df@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270704T030158Z
+DTEND:20270705T030229Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3115dda7afec8d0f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270705T030229Z
+DTEND:20270706T044013Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5ef6128ad3f2ba5a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270708T074500Z
+DTEND:20270708T122000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 10:45 - 15:20.\nП
+ олное окно: чт 08.07 10:45 - чт 08.07 15:20.\nЛунный д
+ ень 5\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:95427c1a8f0a93fe@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270708T142900Z
+DTEND:20270708T170000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 17:29 - 20:00.\nП
+ олное окно: чт 08.07 17:29 - пт 09.07 10:28.\nЛунный д
+ ень 5\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20b343c598090c4e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270709T050000Z
+DTEND:20270709T072800Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:28.\nП
+ олное окно: чт 08.07 17:29 - пт 09.07 10:28.\nЛунный д
+ ень 5\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d235d38ff644eac6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270709T091143Z
+DTEND:20270710T103558Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f0c98af47c6e91ea@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270710T103558Z
+DTEND:20270711T115906Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-07-11@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270710T210000Z
+DTEND:20270711T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cb85c84f09e5984d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270715T165418Z
+DTEND:20270716T174105Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c487a5c799dc423f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270717T050000Z
+DTEND:20270717T060500Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:05.\nП
+ олное окно: пт 16.07 20:41 - сб 17.07 09:05.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fc87e3d2cb8ce975@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270717T081100Z
+DTEND:20270717T170000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 11:11 - 20:00.\nП
+ олное окно: сб 17.07 11:11 - сб 17.07 23:59.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-07-18@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270717T210000Z
+DTEND:20270718T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ba1e3d57de31b8eb@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270723T193549Z
+DTEND:20270724T194516Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-07-25@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270724T210000Z
+DTEND:20270725T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a6aedeca2779a6e9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270726T102900Z
+DTEND:20270726T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 13:29 - 20:00.\nП
+ олное окно: пн 26.07 13:29 - пн 26.07 23:10.\nЛунный д
+ ень 22\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-08-01@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270731T210000Z
+DTEND:20270801T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:48d92c56d00d5397@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270802T020119Z
+DTEND:20270802T100508Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c9f0a5c8cc5104f6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270802T100508Z
+DTEND:20270803T033940Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6897546302782a0d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270803T033940Z
+DTEND:20270804T051440Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3f91b4aeb96d1562@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270806T101600Z
+DTEND:20270806T170000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 13:16 - 20:00.\nП
+ олное окно: пт 06.08 13:16 - сб 07.08 09:22.\nЛунный д
+ ень 5\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5e2f1c7a6d55db6f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270807T050000Z
+DTEND:20270807T062200Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:22.\nП
+ олное окно: пт 06.08 13:16 - сб 07.08 09:22.\nЛунный д
+ ень 5\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:67f60b3fd645ed55@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270807T082000Z
+DTEND:20270807T094000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 11:20 - 12:40.\nП
+ олное окно: сб 07.08 11:20 - сб 07.08 12:40.\nЛунный д
+ ень 5\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a9f4e73f6bd7af13@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270807T094017Z
+DTEND:20270808T110507Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-08-08@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270807T210000Z
+DTEND:20270808T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:38837ef6ab30bf75@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270808T110507Z
+DTEND:20270809T122714Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:51f77e1486cd17b7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270813T050000Z
+DTEND:20270813T082000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:20.\nП
+ олное окно: чт 12.08 20:36 - пт 13.08 11:20.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dbdb83663920182e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270813T101500Z
+DTEND:20270813T161500Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 13:15 - 19:15.\nП
+ олное окно: пт 13.08 13:15 - пт 13.08 19:15.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a9ce80d29396efdf@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270813T161738Z
+DTEND:20270814T164344Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-08-15@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270814T210000Z
+DTEND:20270815T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7131c61ab0c87738@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270821T180518Z
+DTEND:20270822T181812Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-08-22@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270821T210000Z
+DTEND:20270822T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5d34c9324ae48f20@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270823T063600Z
+DTEND:20270823T144200Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 09:36 - 17:42.\nП
+ олное окно: пн 23.08 09:36 - пн 23.08 17:42.\nЛунный д
+ ень 21\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-08-29@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270828T210000Z
+DTEND:20270829T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6de3f2d204abe116@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270830T064100Z
+DTEND:20270830T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 09:41 - 20:00.\nП
+ олное окно: пн 30.08 09:41 - вт 31.08 05:35.\nЛунный д
+ ень 28\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:18bff1ff2c54cd6d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270831T023707Z
+DTEND:20270831T174105Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:100c81a96eeb68de@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270831T174105Z
+DTEND:20270901T041047Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9ec0d8104d83908e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270901T041047Z
+DTEND:20270902T054157Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-09-05@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270904T210000Z
+DTEND:20270905T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8555a196b3c6140c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270905T100539Z
+DTEND:20270906T112642Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:739c48b72d268ad8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270906T112642Z
+DTEND:20270907T123810Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6c03cbf8622b77d5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270910T144700Z
+DTEND:20270910T170000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 17:47 - 20:00.\nП
+ олное окно: пт 10.09 17:47 - сб 11.09 09:41.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:298ce268c7652de3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270911T050000Z
+DTEND:20270911T064100Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:41.\nП
+ олное окно: пт 10.09 17:47 - сб 11.09 09:41.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8316ac10eb8c58c8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270911T150835Z
+DTEND:20270912T152400Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-09-12@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270911T210000Z
+DTEND:20270912T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-09-19@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270918T210000Z
+DTEND:20270919T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c3e657c8b2117de1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270919T164320Z
+DTEND:20270920T170549Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-09-26@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270925T210000Z
+DTEND:20270926T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:994e882e975ad672@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270927T050000Z
+DTEND:20270927T053000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 08:30.\nП
+ олное окно: пн 27.09 00:00 - пн 27.09 08:30.\nЛунный д
+ ень 26\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7a5bfee15027382f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270927T070200Z
+DTEND:20270927T075400Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 10:02 - 10:54.\nП
+ олное окно: пн 27.09 10:02 - пн 27.09 10:54.\nЛунный д
+ ень 27\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c6121d6ce6af9dab@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270927T142900Z
+DTEND:20270927T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 17:29 - 20:00.\nП
+ олное окно: пн 27.09 17:29 - вт 28.09 15:57.\nЛунный д
+ ень 27\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f54766a6cc99dd89@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270928T050000Z
+DTEND:20270928T125700Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 15:57.\nП
+ олное окно: пн 27.09 17:29 - вт 28.09 15:57.\nЛунный д
+ ень 27\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9db5bbb65e138793@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270928T142800Z
+DTEND:20270928T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 17:28 - 20:00.\nП
+ олное окно: вт 28.09 17:28 - вт 28.09 22:48.\nЛунный д
+ ень 28\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:90b6cc621af522b6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270929T030758Z
+DTEND:20270930T023559Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cb93a59f493eee74@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270930T023559Z
+DTEND:20270930T043746Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d3c6789c23b66d26@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270930T043746Z
+DTEND:20271001T060712Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-10-03@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271002T210000Z
+DTEND:20271003T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d54c74abc13efb67@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271004T101909Z
+DTEND:20271005T112404Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2039afda937844b7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271005T112404Z
+DTEND:20271006T121308Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1cd1e65511734558@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271006T121300Z
+DTEND:20271006T170000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 15:13 - 20:00.\nП
+ олное окно: ср 06.10 15:13 - чт 07.10 14:20.\nЛунный д
+ ень 8\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:87dcd839ebb7ad8c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271007T050000Z
+DTEND:20271007T112000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 14:20.\nП
+ олное окно: ср 06.10 15:13 - чт 07.10 14:20.\nЛунный д
+ ень 8\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-10-10@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271009T210000Z
+DTEND:20271010T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ab10c10779223699@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271010T134303Z
+DTEND:20271011T135402Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-10-17@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271016T210000Z
+DTEND:20271017T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fa6e65f5a56b7a81@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271018T154144Z
+DTEND:20271019T162615Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-10-24@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271023T210000Z
+DTEND:20271024T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a5dfcf39e20beb0a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271025T050000Z
+DTEND:20271025T060700Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:07.\nП
+ олное окно: пн 25.10 02:14 - пн 25.10 09:07.\nЛунный д
+ ень 26\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e01cfee58bd280f0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271025T072400Z
+DTEND:20271025T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 10:24 - 20:00.\nП
+ олное окно: пн 25.10 10:24 - вт 26.10 15:13.\nЛунный д
+ ень 26\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a870534fb374cca7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271026T050000Z
+DTEND:20271026T121300Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 15:13.\nП
+ олное окно: пн 25.10 10:24 - вт 26.10 15:13.\nЛунный д
+ ень 26\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e0548e162ed8f01a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271027T050000Z
+DTEND:20271027T095200Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:52.\nП
+ олное окно: ср 27.10 03:22 - ср 27.10 12:52.\nЛунный д
+ ень 27\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eb4ddd87271f75af@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271027T110800Z
+DTEND:20271027T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 14:08 - 20:00.\nП
+ олное окно: ср 27.10 14:08 - чт 28.10 06:35.\nЛунный д
+ ень 28\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:201ca0cb8bce0d03@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271028T033738Z
+DTEND:20271029T050530Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:80843011c78c2a81@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271029T133628Z
+DTEND:20271030T063225Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:53d39f9d93325d26@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271030T063225Z
+DTEND:20271031T075439Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-10-31@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271030T210000Z
+DTEND:20271031T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a9e03753fac5ffb5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271103T050000Z
+DTEND:20271103T095100Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:51.\nП
+ олное окно: вт 02.11 19:42 - ср 03.11 12:51.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0a1522c5e99aae82@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271103T104423Z
+DTEND:20271104T111259Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:51b47cbde1f52cae@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271104T111259Z
+DTEND:20271105T113314Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-11-07@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271106T210000Z
+DTEND:20271107T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:708ee64710e007dd@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271109T122015Z
+DTEND:20271110T123016Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-11-14@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271113T210000Z
+DTEND:20271114T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4d0e4e39db847e33@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271117T163532Z
+DTEND:20271118T180222Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f5fbb998f4bc39ff@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271119T050000Z
+DTEND:20271119T085000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:50.\nП
+ олное окно: пт 19.11 03:29 - пт 19.11 11:50.\nЛунный д
+ ень 21\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f9e8f311cdcaf45a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271119T095500Z
+DTEND:20271119T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 12:55 - 20:00.\nП
+ олное окно: пт 19.11 12:55 - сб 20.11 10:48.\nЛунный д
+ ень 21\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:42e80632372b3132@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271120T050000Z
+DTEND:20271120T074800Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:48.\nП
+ олное окно: пт 19.11 12:55 - сб 20.11 10:48.\nЛунный д
+ ень 21\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:53a4caddbe3ce7e8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271120T085300Z
+DTEND:20271120T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 11:53 - 20:00.\nП
+ олное окно: сб 20.11 11:53 - сб 20.11 23:59.\nЛунный д
+ ень 22\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-11-21@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271120T210000Z
+DTEND:20271121T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0d2b5f420da74b88@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271124T050000Z
+DTEND:20271124T095500Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:55.\nП
+ олное окно: ср 24.11 04:18 - ср 24.11 12:55.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0c70ed59b3d30f14@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271124T105800Z
+DTEND:20271124T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 13:58 - 20:00.\nП
+ олное окно: ср 24.11 13:58 - чт 25.11 13:56.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b1015ff575075573@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271125T050000Z
+DTEND:20271125T105600Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 13:56.\nП
+ олное окно: ср 24.11 13:58 - чт 25.11 13:56.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eb92123f08548d5e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271127T053218Z
+DTEND:20271128T032421Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-11-28@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271127T210000Z
+DTEND:20271128T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:179db83d3332ea80@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271128T032421Z
+DTEND:20271128T064817Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f039e3c434103cd7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271128T064817Z
+DTEND:20271129T075127Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:98875260c88d499c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271201T091200Z
+DTEND:20271201T095700Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 12:12 - 12:57.\nП
+ олное окно: ср 01.12 12:12 - ср 01.12 12:57.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ca7d3052e18f36cb@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271201T105800Z
+DTEND:20271201T170000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 13:58 - 20:00.\nП
+ олное окно: ср 01.12 13:58 - чт 02.12 05:16.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4e105fbe067bfb31@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271202T093552Z
+DTEND:20271203T095253Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b967e38dbfeca1c2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271203T095253Z
+DTEND:20271204T100558Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-12-05@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271204T210000Z
+DTEND:20271205T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0a1e7e5afc1a103d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271208T104651Z
+DTEND:20271209T105925Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fd8acde124c85a70@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271210T050000Z
+DTEND:20271210T090500Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:05.\nП
+ олное окно: пт 10.12 01:37 - пт 10.12 12:05.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2128f8150b83e0a6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271210T100300Z
+DTEND:20271210T170000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 13:03 - 20:00.\nП
+ олное окно: пт 10.12 13:03 - сб 11.12 11:07.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0d76b1c59e735e74@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271211T050000Z
+DTEND:20271211T080700Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:07.\nП
+ олное окно: пт 10.12 13:03 - сб 11.12 11:07.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d1f52d3bb986c628@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271211T090600Z
+DTEND:20271211T113500Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 12:06 - 14:35.\nП
+ олное окно: сб 11.12 12:06 - сб 11.12 14:35.\nЛунный д
+ ень 14\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-12-12@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271211T210000Z
+DTEND:20271212T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9f103f3c16b8e00b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271216T074200Z
+DTEND:20271216T110000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 10:42 - 14:00.\nП
+ олное окно: чт 16.12 10:42 - чт 16.12 14:00.\nЛунный д
+ ень 19\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:567aa50d700465fe@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271216T115800Z
+DTEND:20271216T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 14:58 - 20:00.\nП
+ олное окно: чт 16.12 14:58 - чт 16.12 20:10.\nЛунный д
+ ень 19\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:521ee417ed3ad3c0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271216T171322Z
+DTEND:20271217T184551Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c1f93552a29711f2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271218T050000Z
+DTEND:20271218T081200Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:12.\nП
+ олное окно: пт 17.12 21:45 - сб 18.12 11:12.\nЛунный д
+ ень 21\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:196cd6ae1a4d6f33@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271218T091800Z
+DTEND:20271218T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 12:18 - 20:00.\nП
+ олное окно: сб 18.12 12:18 - сб 18.12 23:59.\nЛунный д
+ ень 21\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-12-19@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271218T210000Z
+DTEND:20271219T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2027-12-26@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271225T210000Z
+DTEND:20271226T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dcd44b4134199fef@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271226T054152Z
+DTEND:20271227T063426Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3e309632054b8501@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271227T201214Z
+DTEND:20271228T071227Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:70fc555464ec64fb@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271228T071227Z
+DTEND:20271229T073907Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e3582b3c03cdbcdf@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280101T082403Z
+DTEND:20280102T083402Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-01-02@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280101T210000Z
+DTEND:20280102T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a84169f07f712412@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280102T083402Z
+DTEND:20280103T084330Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:64e08579b12fb66b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280106T091800Z
+DTEND:20280106T111200Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 12:18 - 14:12.\nП
+ олное окно: чт 06.01 12:18 - чт 06.01 14:12.\nЛунный д
+ ень 11\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:32c13930237f4f04@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280106T121200Z
+DTEND:20280106T170000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 15:12 - 20:00.\nП
+ олное окно: чт 06.01 15:12 - пт 07.01 12:16.\nЛунный д
+ ень 11\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7cf4af85d07f7c69@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280107T050000Z
+DTEND:20280107T091600Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:16.\nП
+ олное окно: чт 06.01 15:12 - пт 07.01 12:16.\nЛунный д
+ ень 11\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6060212391b10328@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280107T093719Z
+DTEND:20280108T100434Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-01-09@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280108T210000Z
+DTEND:20280109T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:05bb5ed746b66d66@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280115T050000Z
+DTEND:20280115T081700Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:17.\nП
+ олное окно: пт 14.01 20:50 - сб 15.01 11:17.\nЛунный д
+ ень 19\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e33513d62ee220da@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280115T091900Z
+DTEND:20280115T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 12:19 - 20:00.\nП
+ олное окно: сб 15.01 12:19 - сб 15.01 22:20.\nЛунный д
+ ень 19\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b616e45d2240d206@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280115T192140Z
+DTEND:20280116T205005Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-01-16@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280115T210000Z
+DTEND:20280116T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:948c4a65447f521f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280117T050000Z
+DTEND:20280117T071600Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:16.\nП
+ олное окно: пн 17.01 00:00 - пн 17.01 10:16.\nЛунный д
+ ень 21\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:69263273780a2abc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280117T081800Z
+DTEND:20280117T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 11:18 - 20:00.\nП
+ олное окно: пн 17.01 11:18 - вт 18.01 15:21.\nЛунный д
+ ень 21\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:62d0e6eeb6bb03d1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280118T050000Z
+DTEND:20280118T122100Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 15:21.\nП
+ олное окно: пн 17.01 11:18 - вт 18.01 15:21.\nЛунный д
+ ень 21\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a6c7233504f29fb6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280118T132500Z
+DTEND:20280118T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 16:25 - 20:00.\nП
+ олное окно: вт 18.01 16:25 - вт 18.01 22:26.\nЛунный д
+ ень 22\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-01-23@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280122T210000Z
+DTEND:20280123T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:af2f695311488a72@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280125T054326Z
+DTEND:20280126T060435Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:581ebd981e756e21@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280126T151225Z
+DTEND:20280127T062015Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dcc47ee5459efeac@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280127T062015Z
+DTEND:20280128T063233Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-01-30@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280129T210000Z
+DTEND:20280130T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ab6eced40a97299b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280131T070159Z
+DTEND:20280201T071224Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4e2f4f00990833b2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280201T071224Z
+DTEND:20280202T072448Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d4abd8804bd2a388@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280202T153900Z
+DTEND:20280202T170000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 18:39 - 20:00.\nП
+ олное окно: ср 02.02 18:39 - чт 03.02 10:40.\nЛунный д
+ ень 8\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0fb00406607c0803@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280203T050000Z
+DTEND:20280203T074000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:40.\nП
+ олное окно: ср 02.02 18:39 - чт 03.02 10:40.\nЛунный д
+ ень 8\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-02-06@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280205T210000Z
+DTEND:20280206T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9309222a6537d5db@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280206T092431Z
+DTEND:20280207T103259Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3e2f410c25fa9e8e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280209T051400Z
+DTEND:20280209T102300Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:14 - 13:23.\nП
+ олное окно: ср 09.02 08:14 - ср 09.02 13:23.\nЛунный д
+ ень 14\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9cb1e836d834a6e0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280209T113600Z
+DTEND:20280209T133000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 14:36 - 16:30.\nП
+ олное окно: ср 09.02 14:36 - ср 09.02 16:30.\nЛунный д
+ ень 14\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-02-13@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280212T210000Z
+DTEND:20280213T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5a3b3ee9c9af2102@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280214T050000Z
+DTEND:20280214T064300Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:43.\nП
+ олное окно: пн 14.02 00:00 - пн 14.02 09:43.\nЛунный д
+ ень 19\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5b0b1fb82d88af74@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280214T075800Z
+DTEND:20280214T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 10:58 - 20:00.\nП
+ олное окно: пн 14.02 10:58 - вт 15.02 00:20.\nЛунный д
+ ень 19\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:86bbaccd4af4165e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280214T212030Z
+DTEND:20280215T224807Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-02-20@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280219T210000Z
+DTEND:20280220T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:281be402eccac11b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280224T044121Z
+DTEND:20280225T045223Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a7b4c58b895f847b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280225T103720Z
+DTEND:20280226T050215Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4413f4b15937a1bd@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280226T050215Z
+DTEND:20280227T051152Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-02-27@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280226T210000Z
+DTEND:20280227T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:faac97de6f11fb36@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280301T050000Z
+DTEND:20280301T054500Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 08:45.\nП
+ олное окно: ср 01.03 00:43 - ср 01.03 08:45.\nЛунный д
+ ень 5\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b248e71f4bf39d07@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280301T054826Z
+DTEND:20280302T060804Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:acf6549af42fd511@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280302T060804Z
+DTEND:20280303T063552Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-03-05@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280304T210000Z
+DTEND:20280305T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:da7d8db3309cf3b9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280307T105726Z
+DTEND:20280308T123118Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:29949faf15277e93@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280308T123100Z
+DTEND:20280308T170000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 15:31 - 20:00.\nП
+ олное окно: ср 08.03 15:31 - чт 09.03 12:19.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:06cd62e03375d84e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280309T050000Z
+DTEND:20280309T091900Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:19.\nП
+ олное окно: ср 08.03 15:31 - чт 09.03 12:19.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:802c3683bb3fc72e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280309T160100Z
+DTEND:20280309T170000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 19:01 - 20:00.\nП
+ олное окно: чт 09.03 19:01 - пт 10.03 11:52.\nЛунный д
+ ень 14\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2c22bbafb2497165@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280310T050000Z
+DTEND:20280310T085200Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:52.\nП
+ олное окно: чт 09.03 19:01 - пт 10.03 11:52.\nЛунный д
+ ень 14\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:92af0ab7721bd2c3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280310T102100Z
+DTEND:20280310T154000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 13:21 - 18:40.\nП
+ олное окно: пт 10.03 13:21 - пт 10.03 18:40.\nЛунный д
+ ень 14\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-03-12@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280311T210000Z
+DTEND:20280312T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f500e3f1a688970c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280315T230807Z
+DTEND:20280317T001709Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-03-19@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280318T210000Z
+DTEND:20280319T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a453ae38f8093c8e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280325T032116Z
+DTEND:20280326T033132Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-03-26@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280325T210000Z
+DTEND:20280326T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2a9287e53e0a50fe@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280326T043114Z
+DTEND:20280327T034304Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a8ce601917c0fb3e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280327T034304Z
+DTEND:20280328T035706Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7cd0e20e6ea8b06a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280330T050000Z
+DTEND:20280330T082200Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:22.\nП
+ олное окно: чт 30.03 07:40 - чт 30.03 11:22.\nЛунный д
+ ень 5\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a6fb89eccc8eae2d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280331T051650Z
+DTEND:20280401T060757Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3b760ac9fb1d6af0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280401T060757Z
+DTEND:20280402T071536Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-04-02@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280401T210000Z
+DTEND:20280402T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b0f218999b2dec37@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280405T115400Z
+DTEND:20280405T170000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 14:54 - 20:00.\nП
+ олное окно: ср 05.04 14:54 - чт 06.04 03:07.\nЛунный д
+ ень 11\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c2ec1957abcf5eee@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280406T050000Z
+DTEND:20280406T115200Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 14:52.\nП
+ олное окно: чт 06.04 04:38 - чт 06.04 14:52.\nЛунный д
+ ень 11\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:45a7534b1f63ec0b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280406T130643Z
+DTEND:20280407T143747Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:74cb364afc359d26@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280408T050000Z
+DTEND:20280408T064600Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:46.\nП
+ олное окно: сб 08.04 05:04 - сб 08.04 09:46.\nЛунный д
+ ень 13\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1007377af647d7b8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280408T083000Z
+DTEND:20280408T170000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 11:30 - 20:00.\nП
+ олное окно: сб 08.04 11:30 - сб 08.04 23:59.\nЛунный д
+ ень 13\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-04-09@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280408T210000Z
+DTEND:20280409T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:110c0e85a2210e4b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280414T234416Z
+DTEND:20280416T001553Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-04-16@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280415T210000Z
+DTEND:20280416T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-04-23@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280422T210000Z
+DTEND:20280423T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f556983b53f3e98a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280424T020425Z
+DTEND:20280424T194650Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:29df7ce83c88cbeb@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280424T194650Z
+DTEND:20280425T022140Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e6be94a28022947d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280425T022140Z
+DTEND:20280426T024506Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:afe86216b9772244@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280429T050838Z
+DTEND:20280430T062537Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-04-30@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280429T210000Z
+DTEND:20280430T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:627aaa4c71ca0ef2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280430T062537Z
+DTEND:20280501T075036Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:18b799924d6f0e03@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280501T075000Z
+DTEND:20280501T170000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 10:50 - 20:00.\nП
+ олное окно: пн 01.05 10:50 - вт 02.05 12:15.\nЛунный д
+ ень 8\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a3494e352984a3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280502T050000Z
+DTEND:20280502T091500Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:15.\nП
+ олное окно: пн 01.05 10:50 - вт 02.05 12:15.\nЛунный д
+ ень 8\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:880767c82f658554@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280504T135900Z
+DTEND:20280504T161300Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 16:59 - 19:13.\nП
+ олное окно: чт 04.05 16:59 - чт 04.05 19:13.\nЛунный д
+ ень 11\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:146ca45248e17d04@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280505T103500Z
+DTEND:20280505T134000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 13:35 - 16:40.\nП
+ олное окно: пт 05.05 13:35 - пт 05.05 16:40.\nЛунный д
+ ень 11\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:401d3a1b2e24c2bd@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280505T134204Z
+DTEND:20280506T151108Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3598285dc11a05f9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280506T151100Z
+DTEND:20280506T170000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 18:11 - 20:00.\nП
+ олное окно: сб 06.05 18:11 - сб 06.05 21:33.\nЛунный д
+ ень 13\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-05-07@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280506T210000Z
+DTEND:20280507T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-05-14@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280513T210000Z
+DTEND:20280514T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ac2e848215c7c57f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280513T223950Z
+DTEND:20280514T225852Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-05-21@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280520T210000Z
+DTEND:20280521T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b93834250791081b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280522T060100Z
+DTEND:20280522T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 09:01 - 20:00.\nП
+ олное окно: пн 22.05 09:01 - вт 23.05 03:45.\nЛунный д
+ ень 28\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:295843d477acacfd@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280523T004707Z
+DTEND:20280524T011657Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3db193e21e6edecb@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280524T081612Z
+DTEND:20280525T015943Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eeaec5e214bcf9f9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280525T015943Z
+DTEND:20280526T025853Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-05-28@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280527T210000Z
+DTEND:20280528T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:99ce9f625219949a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280529T055700Z
+DTEND:20280529T070500Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:57 - 10:05.\nП
+ олное окно: пн 29.05 08:57 - пн 29.05 10:05.\nЛунный д
+ ень 5\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:04da78c164977b7f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280529T070554Z
+DTEND:20280530T083342Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3285c9fd86916ba5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280530T083342Z
+DTEND:20280531T100018Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a866903a6387fcf8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280531T121500Z
+DTEND:20280531T170000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 15:15 - 20:00.\nП
+ олное окно: ср 31.05 15:15 - чт 01.06 12:00.\nЛунный д
+ ень 8\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:130d9c9038dbf322@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280601T050000Z
+DTEND:20280601T090000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:00.\nП
+ олное окно: ср 31.05 15:15 - чт 01.06 12:00.\nЛунный д
+ ень 8\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-06-04@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280603T210000Z
+DTEND:20280604T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e58a684ff05f52eb@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280604T154645Z
+DTEND:20280605T171034Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-06-11@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280610T210000Z
+DTEND:20280611T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a33bacec33ca5b09@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280612T213142Z
+DTEND:20280613T214250Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-06-18@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280617T210000Z
+DTEND:20280618T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:61eaa255b2c115d5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280619T055400Z
+DTEND:20280619T151000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 08:54 - 18:10.\nП
+ олное окно: пн 19.06 08:54 - пн 19.06 18:10.\nЛунный д
+ ень 26\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9822f650957ee8d2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280622T004336Z
+DTEND:20280622T182726Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5d5bcf81758733ef@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280622T182726Z
+DTEND:20280623T015350Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:13116e831e31d8ec@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280623T015350Z
+DTEND:20280624T031724Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-06-25@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280624T210000Z
+DTEND:20280625T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b45706b9d4398fd3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280627T050000Z
+DTEND:20280627T074500Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:45.\nП
+ олное окно: пн 26.06 22:59 - вт 27.06 10:45.\nЛунный д
+ ень 5\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9178cac8e8fa7a49@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280627T074624Z
+DTEND:20280628T091330Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f08a2a3b260d8b7e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280628T091330Z
+DTEND:20280629T103945Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:26fe89dc0058bd2c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280629T103900Z
+DTEND:20280629T122000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 13:39 - 15:20.\nП
+ олное окно: чт 29.06 13:39 - чт 29.06 15:20.\nЛунный д
+ ень 8\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e3674a25b2df6a9c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280629T143100Z
+DTEND:20280629T170000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 17:31 - 20:00.\nП
+ олное окно: чт 29.06 17:31 - пт 30.06 06:21.\nЛунный д
+ ень 8\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-07-02@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280701T210000Z
+DTEND:20280702T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:741e142408810c70@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280703T161237Z
+DTEND:20280704T171710Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8d917c983cfa71da@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280705T132700Z
+DTEND:20280705T170000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 16:27 - 20:00.\nП
+ олное окно: ср 05.07 16:27 - чт 06.07 15:20.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:760401366012b53b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280706T050000Z
+DTEND:20280706T122000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 15:20.\nП
+ олное окно: ср 05.07 16:27 - чт 06.07 15:20.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ef737765d959d348@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280706T142900Z
+DTEND:20280706T170000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 17:29 - 20:00.\nП
+ олное окно: чт 06.07 17:29 - чт 06.07 21:10.\nЛунный д
+ ень 14\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-07-09@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280708T210000Z
+DTEND:20280709T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b9ba349b73d27181@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280711T200100Z
+DTEND:20280712T201120Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-07-16@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280715T210000Z
+DTEND:20280716T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb48f637c43001@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280721T004820Z
+DTEND:20280722T021733Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ae9b957adaeb3d76@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280722T030135Z
+DTEND:20280723T035032Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-07-23@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280722T210000Z
+DTEND:20280723T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f0ac3acfd69aa922@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280723T035032Z
+DTEND:20280724T052302Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e61a7e822f2a307d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280726T082200Z
+DTEND:20280726T101500Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 11:22 - 13:15.\nП
+ олное окно: ср 26.07 11:22 - ср 26.07 13:15.\nЛунный д
+ ень 5\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:898748d77d01476e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280726T121700Z
+DTEND:20280726T170000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 15:17 - 20:00.\nП
+ олное окно: ср 26.07 15:17 - чт 27.07 12:50.\nЛунный д
+ ень 5\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bc7fd8abc6369b8d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280727T050000Z
+DTEND:20280727T095000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:50.\nП
+ олное окно: ср 26.07 15:17 - чт 27.07 12:50.\nЛунный д
+ ень 5\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6173757f59b1858f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280727T095106Z
+DTEND:20280728T111833Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:da61758ecfb5849e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280728T111833Z
+DTEND:20280729T124341Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-07-30@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280729T210000Z
+DTEND:20280730T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:42c9fb9486cc256d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280802T050000Z
+DTEND:20280802T101500Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 13:15.\nП
+ олное окно: вт 01.08 22:34 - ср 02.08 13:15.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:91207b301754975b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280802T121400Z
+DTEND:20280802T164000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 15:14 - 19:40.\nП
+ олное окно: ср 02.08 15:14 - ср 02.08 19:40.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1f453805f861e1fd@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280802T164320Z
+DTEND:20280803T171100Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-08-06@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280805T210000Z
+DTEND:20280806T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9c3d952b9d940eea@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280810T184254Z
+DTEND:20280811T185721Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c63eb20dab5f5d36@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280812T050000Z
+DTEND:20280812T062600Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:26.\nП
+ олное окно: пт 11.08 21:57 - сб 12.08 09:26.\nЛунный д
+ ень 21\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a228542e4a50331a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280812T082100Z
+DTEND:20280812T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 11:21 - 20:00.\nП
+ олное окно: сб 12.08 11:21 - сб 12.08 23:59.\nЛунный д
+ ень 21\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-08-13@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280812T210000Z
+DTEND:20280813T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:da496d4896920600@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280818T134700Z
+DTEND:20280818T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 16:47 - 20:00.\nП
+ олное окно: пт 18.08 16:47 - сб 19.08 09:32.\nЛунный д
+ ень 27\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f41fc67fbc2b6ae4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280819T050000Z
+DTEND:20280819T063200Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:32.\nП
+ олное окно: пт 18.08 16:47 - сб 19.08 09:32.\nЛунный д
+ ень 27\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:548a32726f9aba8b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280819T082300Z
+DTEND:20280819T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 11:23 - 20:00.\nП
+ олное окно: сб 19.08 11:23 - сб 19.08 23:59.\nЛунный д
+ ень 28\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-08-20@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280819T210000Z
+DTEND:20280820T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a19c63d7500723cc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280820T024836Z
+DTEND:20280820T104344Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e2b2139d3d532484@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280820T104344Z
+DTEND:20280821T042210Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d733f4d94814c8df@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280821T042210Z
+DTEND:20280822T055442Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9493bc1146ad20e3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280825T102615Z
+DTEND:20280826T114945Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:849b09a8cb993b6b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280826T114945Z
+DTEND:20280827T130252Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-08-27@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280826T210000Z
+DTEND:20280827T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c3c1000d64d5b1bf@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280830T151500Z
+DTEND:20280830T170000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 18:15 - 20:00.\nП
+ олное окно: ср 30.08 18:15 - чт 31.08 08:57.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecf2b515f3ec1e6e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280831T050000Z
+DTEND:20280831T055700Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 08:57.\nП
+ олное окно: ср 30.08 18:15 - чт 31.08 08:57.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:94144fc19f0960c3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280831T153728Z
+DTEND:20280901T155411Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-09-03@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280902T210000Z
+DTEND:20280903T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:637e412708c0502b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280908T050000Z
+DTEND:20280908T082600Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:26.\nП
+ олное окно: пт 08.09 03:36 - пт 08.09 11:26.\nЛунный д
+ ень 19\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f92f6a659223f9e0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280908T100700Z
+DTEND:20280908T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 13:07 - 20:00.\nП
+ олное окно: пт 08.09 13:07 - пт 08.09 20:20.\nЛунный д
+ ень 19\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:419b1f50b8915182@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280908T172251Z
+DTEND:20280909T174540Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-09-10@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280909T210000Z
+DTEND:20280910T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20469f8c477e170f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280915T050000Z
+DTEND:20280915T082700Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:27.\nП
+ олное окно: пт 15.09 02:50 - пт 15.09 11:27.\nЛунный д
+ ень 26\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f862420fec857ed2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280915T100500Z
+DTEND:20280915T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 13:05 - 20:00.\nП
+ олное окно: пт 15.09 13:05 - сб 16.09 08:32.\nЛунный д
+ ень 26\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5b230a7cb6dc44df@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280916T050000Z
+DTEND:20280916T053200Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 08:32.\nП
+ олное окно: пт 15.09 13:05 - сб 16.09 08:32.\nЛунный д
+ ень 26\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-09-17@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280916T210000Z
+DTEND:20280917T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f9e020fe2475da8a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280918T031740Z
+DTEND:20280918T182339Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:57cc04f93eb4102e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280918T182339Z
+DTEND:20280919T045053Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b1f9f7c5458c3a58@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280919T045053Z
+DTEND:20280920T062425Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f62bfa73381ad1f7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280923T104645Z
+DTEND:20280924T115239Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-09-24@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280923T210000Z
+DTEND:20280924T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7c867f0179d481ab@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280924T115239Z
+DTEND:20280925T124202Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cbcf2679ebe96eeb@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280925T124200Z
+DTEND:20280925T170000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 15:42 - 20:00.\nП
+ олное окно: пн 25.09 15:42 - вт 26.09 15:58.\nЛунный д
+ ень 8\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:95a60c607ac95650@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280926T050000Z
+DTEND:20280926T125800Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 15:58.\nП
+ олное окно: пн 25.09 15:42 - вт 26.09 15:58.\nЛунный д
+ ень 8\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6e825a19f8c0982e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280929T141515Z
+DTEND:20280930T142729Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-10-01@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280930T210000Z
+DTEND:20281001T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d1152587bd1a18b9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281006T155100Z
+DTEND:20281006T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 18:51 - 20:00.\nП
+ олное окно: пт 06.10 18:51 - сб 07.10 00:35.\nЛунный д
+ ень 19\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:74c08068d3b1b480@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281007T162046Z
+DTEND:20281008T170038Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-10-08@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281007T210000Z
+DTEND:20281008T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:deef3c1553ca4a90@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281014T103900Z
+DTEND:20281014T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 13:39 - 20:00.\nП
+ олное окно: сб 14.10 13:39 - сб 14.10 23:59.\nЛунный д
+ ень 26\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-10-15@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281014T210000Z
+DTEND:20281015T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a3288c122c356ccc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281016T105700Z
+DTEND:20281016T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 13:57 - 20:00.\nП
+ олное окно: пн 16.10 13:57 - вт 17.10 06:45.\nЛунный д
+ ень 28\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:45c7f1141d019bbd@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281017T034623Z
+DTEND:20281018T025642Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d2136df97f465a95@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281018T025642Z
+DTEND:20281018T051948Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:39bb12e7b894b6c3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281018T051948Z
+DTEND:20281019T065228Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-10-22@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281021T210000Z
+DTEND:20281022T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:43304e3887371673@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281022T103251Z
+DTEND:20281023T111437Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d374d073f0d15549@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281023T111437Z
+DTEND:20281024T114357Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5d665884fc901985@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281024T114300Z
+DTEND:20281024T122200Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 14:43 - 15:22.\nП
+ олное окно: вт 24.10 14:43 - вт 24.10 15:22.\nЛунный д
+ ень 8\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1a6ca2fb9af00abe@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281024T133900Z
+DTEND:20281024T170000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 16:39 - 20:00.\nП
+ олное окно: вт 24.10 16:39 - вт 24.10 20:42.\nЛунный д
+ ень 8\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7fd55d12d689be62@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281028T124608Z
+DTEND:20281029T125717Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-10-29@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281028T210000Z
+DTEND:20281029T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-11-05@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281104T210000Z
+DTEND:20281105T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:285a1de7ad86e91a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281105T155108Z
+DTEND:20281106T165505Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f127441abeb70fe6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281108T135200Z
+DTEND:20281108T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 16:52 - 20:00.\nП
+ олное окно: ср 08.11 16:52 - ср 08.11 22:30.\nЛунный д
+ ень 22\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-11-12@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281111T210000Z
+DTEND:20281112T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b24b373bfe55a18d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281113T050000Z
+DTEND:20281113T063600Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:36.\nП
+ олное окно: пн 13.11 00:00 - пн 13.11 09:36.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:41cd49b305a16b56@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281113T074300Z
+DTEND:20281113T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 10:43 - 20:00.\nП
+ олное окно: пн 13.11 10:43 - вт 14.11 10:18.\nЛунный д
+ ень 27\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:08bf57c6d3f9207c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281114T050000Z
+DTEND:20281114T071800Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:18.\nП
+ олное окно: пн 13.11 10:43 - вт 14.11 10:18.\nЛунный д
+ ень 27\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8981c051f6912211@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281115T041727Z
+DTEND:20281116T054703Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9435c725e9904842@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281116T131755Z
+DTEND:20281117T070900Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:13cc7db6f8493686@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281117T070900Z
+DTEND:20281118T081632Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-11-19@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281118T210000Z
+DTEND:20281119T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a71573169099aef9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281120T094200Z
+DTEND:20281120T170000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 12:42 - 20:00.\nП
+ олное окно: пн 20.11 12:42 - вт 21.11 11:04.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e08965b044a01a42@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281121T050000Z
+DTEND:20281121T080400Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:04.\nП
+ олное окно: пн 20.11 12:42 - вт 21.11 11:04.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:271e3647dc7c013d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281121T100709Z
+DTEND:20281122T102537Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:80d21b31184078b5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281122T102537Z
+DTEND:20281123T104011Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-11-26@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281125T210000Z
+DTEND:20281126T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:38b6dee9083232e0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281127T112750Z
+DTEND:20281128T114226Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e2174ed91fe87d82@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281129T050000Z
+DTEND:20281129T095700Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:57.\nП
+ олное окно: вт 28.11 23:19 - ср 29.11 12:57.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:81b876587d1cef6e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281129T105800Z
+DTEND:20281129T170000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 13:58 - 20:00.\nП
+ олное окно: ср 29.11 13:58 - чт 30.11 13:56.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d82b1bdfda6ec772@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281130T050000Z
+DTEND:20281130T105600Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 13:56.\nП
+ олное окно: ср 29.11 13:58 - чт 30.11 13:56.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-12-03@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281202T210000Z
+DTEND:20281203T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a62c9eaed7a7321f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281205T172018Z
+DTEND:20281206T184441Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d8310b0beca7b0c1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281207T050000Z
+DTEND:20281207T105700Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 13:57.\nП
+ олное окно: ср 06.12 21:44 - чт 07.12 13:57.\nЛунный д
+ ень 21\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bbdf38356b828c3a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281207T115700Z
+DTEND:20281207T161500Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 14:57 - 19:15.\nП
+ олное окно: чт 07.12 14:57 - чт 07.12 19:15.\nЛунный д
+ ень 21\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:de7b6d1ab5b1f95e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281208T050000Z
+DTEND:20281208T090300Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:03.\nП
+ олное окно: пт 08.12 02:30 - пт 08.12 12:03.\nЛунный д
+ ень 22\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7ff3d22466140524@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281208T100200Z
+DTEND:20281208T170000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 13:02 - 20:00.\nП
+ олное окно: пт 08.12 13:02 - сб 09.12 00:30.\nЛунный д
+ ень 22\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-12-10@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281209T210000Z
+DTEND:20281210T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ed99126144dea678@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281215T055805Z
+DTEND:20281216T020613Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c361e7ae4f4e1c84@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281216T020613Z
+DTEND:20281216T065559Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4368e4facc44f597@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281216T065559Z
+DTEND:20281217T073757Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-12-17@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281216T210000Z
+DTEND:20281217T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7941f982ec4bf584@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281220T084520Z
+DTEND:20281221T085843Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:97f4f4dc5db79ebc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281221T085843Z
+DTEND:20281222T091034Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-12-24@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281223T210000Z
+DTEND:20281224T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5d645fdcf232733f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281226T050000Z
+DTEND:20281226T100000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 13:00.\nП
+ олное окно: вт 26.12 07:48 - вт 26.12 13:00.\nЛунный д
+ ень 11\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:af2eed84ec4a2669@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281226T100344Z
+DTEND:20281227T102502Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:76b75edadee89364@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281227T110800Z
+DTEND:20281227T170000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 14:08 - 20:00.\nП
+ олное окно: ср 27.12 14:08 - чт 28.12 11:03.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e0d06f980bb0ea66@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281228T050000Z
+DTEND:20281228T080300Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:03.\nП
+ олное окно: ср 27.12 14:08 - чт 28.12 11:03.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsksun2028-12-31@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281230T210000Z
+DTEND:20281231T210000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Минск
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

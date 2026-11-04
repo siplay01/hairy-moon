@@ -1,0 +1,6343 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hairy Moon//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Hairy Moon (Сан-Диего)
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:P7D
+BEGIN:VEVENT
+UID:66367002393d114a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261105T160000Z
+DTEND:20261105T205100Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:51.\nП
+ олное окно: чт 05.11 06:39 - чт 05.11 12:51.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ca46205558dd95b0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261105T221400Z
+DTEND:20261106T040000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 14:14 - 20:00.\nП
+ олное окно: чт 05.11 14:14 - пт 06.11 10:10.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6cec0a99552d827c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261106T160000Z
+DTEND:20261106T181000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:10.\nП
+ олное окно: чт 05.11 14:14 - пт 06.11 10:10.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d6f6f09a9598e85a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261106T193300Z
+DTEND:20261107T040000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 11:33 - 20:00.\nП
+ олное окно: пт 06.11 11:33 - сб 07.11 05:19.\nЛунный д
+ ень 27\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2026-11-08@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261108T080000Z
+DTEND:20261109T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e0c29bd131f54199@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261108T134348Z
+DTEND:20261109T070203Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ce190408d0dc7fad@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261109T070203Z
+DTEND:20261109T144435Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1191eca314ff7a25@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261109T144435Z
+DTEND:20261110T154421Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4c7d919012f30708@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261112T221200Z
+DTEND:20261113T040000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 14:12 - 20:00.\nП
+ олное окно: чт 12.11 14:12 - пт 13.11 10:12.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b70fb5c64e817475@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261113T160000Z
+DTEND:20261113T181200Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:12.\nП
+ олное окно: чт 12.11 14:12 - пт 13.11 10:12.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:efb69e01e1f81403@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261113T182035Z
+DTEND:20261114T190126Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5117eb46dcb531ef@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261114T190126Z
+DTEND:20261115T193702Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2026-11-15@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261115T080000Z
+DTEND:20261116T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9fb4e0f3341c94f5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261119T213121Z
+DTEND:20261120T215936Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2026-11-22@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261122T080000Z
+DTEND:20261123T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:88c8ab9262e647ac@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261128T040903Z
+DTEND:20261129T052122Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2026-11-29@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261129T080000Z
+DTEND:20261130T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:452d6bfdf57586db@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261130T170500Z
+DTEND:20261201T040000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 09:05 - 20:00.\nП
+ олное окно: пн 30.11 09:05 - пн 30.11 23:35.\nЛунный д
+ ень 22\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9bb462f528129dc6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261204T160000Z
+DTEND:20261204T182100Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:21.\nП
+ олное окно: пт 04.12 02:36 - пт 04.12 10:21.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eb5ee37aa808d1cb@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261204T193900Z
+DTEND:20261204T223900Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 11:39 - 14:39.\nП
+ олное окно: пт 04.12 11:39 - пт 04.12 14:39.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2026-12-06@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261206T080000Z
+DTEND:20261207T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ac3d0c93670ffd85@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261207T133624Z
+DTEND:20261208T143406Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bfc13400f50bd406@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261209T005146Z
+DTEND:20261209T152802Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8e526e9f7d8043c1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261209T152802Z
+DTEND:20261210T161641Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2026-12-13@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261213T080000Z
+DTEND:20261214T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c58c5a5a01d7baf5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261213T180901Z
+DTEND:20261214T183806Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffc0072f964ce9e6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261214T183806Z
+DTEND:20261215T190504Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:71aaf60b99cab3de@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261219T205847Z
+DTEND:20261220T213708Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2026-12-20@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261220T080000Z
+DTEND:20261221T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2026-12-27@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261227T080000Z
+DTEND:20261228T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:faa187ad85166d49@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261228T052216Z
+DTEND:20261229T062732Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bb4e6750bfa87ab1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261230T022800Z
+DTEND:20261230T040000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 18:28 - 20:00.\nП
+ олное окно: вт 29.12 18:28 - ср 30.12 11:50.\nЛунный д
+ ень 21\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4a5c29b3a5074767@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261230T160000Z
+DTEND:20261230T195000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:50.\nП
+ олное окно: вт 29.12 18:28 - ср 30.12 11:50.\nЛунный д
+ ень 21\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fb42c66435284840@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20261230T210700Z
+DTEND:20261231T040000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 13:07 - 20:00.\nП
+ олное окно: ср 30.12 13:07 - чт 31.12 00:30.\nЛунный д
+ ень 22\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-01-03@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270103T080000Z
+DTEND:20270104T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f0b241aaade75eeb@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270106T141347Z
+DTEND:20270107T145818Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4933777e7af2bdf@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270107T202418Z
+DTEND:20270108T153707Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5699ba148da66e8a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270108T153707Z
+DTEND:20270109T161058Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-01-10@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270110T080000Z
+DTEND:20270111T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5730a425060da5f2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270112T173417Z
+DTEND:20270113T180004Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9fd75676bd84f8e8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270113T180004Z
+DTEND:20270114T182659Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-01-17@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270117T080000Z
+DTEND:20270118T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a95f4185e14972bc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270118T210150Z
+DTEND:20270119T220239Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-01-24@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270124T080000Z
+DTEND:20270125T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b991213dbf4c9649@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270126T160000Z
+DTEND:20270126T223800Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 14:38.\nП
+ олное окно: вт 26.01 03:14 - вт 26.01 14:38.\nЛунный д
+ ень 19\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fcded5fba63f143f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270126T235900Z
+DTEND:20270127T040000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 15:59 - 20:00.\nП
+ олное окно: вт 26.01 15:59 - вт 26.01 22:15.\nЛунный д
+ ень 19\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:223ae548dd2e9ce1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270127T061814Z
+DTEND:20270128T072039Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-01-31@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270131T080000Z
+DTEND:20270201T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a68e9926d70507a7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270205T141239Z
+DTEND:20270206T144356Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9c84ff2c334173e9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270206T155602Z
+DTEND:20270207T151213Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-02-07@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270207T080000Z
+DTEND:20270208T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f7c8d8120649b7b4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270207T151213Z
+DTEND:20270208T153841Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:24c7852d65ef9420@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270211T165914Z
+DTEND:20270212T173105Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:895a1e7612fb9950@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270212T173105Z
+DTEND:20270213T180822Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3fa1daebf67c9062@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270213T184100Z
+DTEND:20270214T040000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 10:41 - 20:00.\nП
+ олное окно: сб 13.02 10:41 - сб 13.02 23:59.\nЛунный д
+ ень 8\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-02-14@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270214T080000Z
+DTEND:20270215T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:218413cac0cd9d43@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270217T220220Z
+DTEND:20270218T231654Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ad88fdbfd3f94fac@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270218T231600Z
+DTEND:20270219T040000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 15:16 - 20:00.\nП
+ олное окно: чт 18.02 15:16 - пт 19.02 10:37.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4f9d09ebc41f28b5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270219T160000Z
+DTEND:20270219T183700Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:37.\nП
+ олное окно: чт 18.02 15:16 - пт 19.02 10:37.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:24b86298c5b61b1f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270219T200300Z
+DTEND:20270220T040000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 12:03 - 20:00.\nП
+ олное окно: пт 19.02 12:03 - сб 20.02 08:01.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9d0b7b9a3af0b7f5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270220T200000Z
+DTEND:20270220T232000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 12:00 - 15:20.\nП
+ олное окно: сб 20.02 12:00 - сб 20.02 15:20.\nЛунный д
+ ень 14\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:144aaf1ea2f149c9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270220T232500Z
+DTEND:20270221T014000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 15:25 - 17:40.\nП
+ олное окно: сб 20.02 15:25 - сб 20.02 17:40.\nЛунный д
+ ень 14\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-02-21@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270221T080000Z
+DTEND:20270222T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:62189599ee309826@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270226T070957Z
+DTEND:20270227T081124Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-02-28@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270228T080000Z
+DTEND:20270301T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-03-07@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270307T080000Z
+DTEND:20270308T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e2dfa2a6baa3f8b4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270307T134152Z
+DTEND:20270308T092924Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bce0148cff8d0921@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270308T092924Z
+DTEND:20270308T140812Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2d50951882b3aa5f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270308T140812Z
+DTEND:20270309T143446Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dd5d6887f04802f7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270311T161700Z
+DTEND:20270311T212600Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:17 - 13:26.\nП
+ олное окно: чт 11.03 08:17 - чт 11.03 13:26.\nЛунный д
+ ень 5\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2605c542e2c16cc4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270311T225700Z
+DTEND:20270312T040000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 14:57 - 20:00.\nП
+ олное окно: чт 11.03 14:57 - пт 12.03 08:05.\nЛунный д
+ ень 5\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:551f6053547b88bc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270312T160930Z
+DTEND:20270313T165143Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0c9fd2517cb69ad1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270313T165143Z
+DTEND:20270314T174207Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-03-14@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270314T080000Z
+DTEND:20270315T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9ba806aa6f11795f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270318T150000Z
+DTEND:20270318T212600Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 14:26.\nП
+ олное окно: ср 17.03 20:42 - чт 18.03 14:26.\nЛунный д
+ ень 11\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e2c4798125466dc5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270318T221048Z
+DTEND:20270319T232123Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-03-21@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270321T070000Z
+DTEND:20270322T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:189c62b0da28ff3f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270327T065645Z
+DTEND:20270328T075350Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-03-28@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270328T070000Z
+DTEND:20270329T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-04-04@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270404T070000Z
+DTEND:20270405T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1761bbc9f9f93b4a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270405T123617Z
+DTEND:20270406T130409Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8910d555e082ef91@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270406T235105Z
+DTEND:20270407T133438Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1943b890af22bcea@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270407T133438Z
+DTEND:20270408T140923Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-04-11@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270411T070000Z
+DTEND:20270412T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1fc99856791acdb3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270411T163607Z
+DTEND:20270412T174047Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e6b7ac9189fd33e2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270412T174047Z
+DTEND:20270413T184959Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b56a5159780f5bb5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270414T150000Z
+DTEND:20270414T194800Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:48.\nП
+ олное окно: ср 14.04 02:31 - ср 14.04 12:48.\nЛунный д
+ ень 8\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f51d532844f1fa84@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270416T221600Z
+DTEND:20270417T030000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 15:16 - 20:00.\nП
+ олное окно: пт 16.04 15:16 - сб 17.04 09:30.\nЛунный д
+ ень 11\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6919b6496fcaa2c0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270417T150000Z
+DTEND:20270417T163000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:30.\nП
+ олное окно: пт 16.04 15:16 - сб 17.04 09:30.\nЛунный д
+ ень 11\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:845332ff74baf994@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270417T181100Z
+DTEND:20270417T232000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 11:11 - 16:20.\nП
+ олное окно: сб 17.04 11:11 - сб 17.04 16:20.\nЛунный д
+ ень 11\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8319144783e54ab4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270417T232158Z
+DTEND:20270419T002619Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-04-18@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270418T070000Z
+DTEND:20270419T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:65f489707759cfe7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270419T163100Z
+DTEND:20270420T030000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 09:31 - 20:00.\nП
+ олное окно: пн 19.04 09:31 - вт 20.04 01:38.\nЛунный д
+ ень 13\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-04-25@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270425T070000Z
+DTEND:20270426T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e18aaba103a46c73@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270426T072351Z
+DTEND:20270427T080541Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-05-02@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270502T070000Z
+DTEND:20270503T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d1f6f30f59a303ba@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270505T120545Z
+DTEND:20270506T105832Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2cb1d35eaaa83b62@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270506T105832Z
+DTEND:20270506T124445Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:538a4d3d8682a0e7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270506T124445Z
+DTEND:20270507T133129Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-05-09@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270509T070000Z
+DTEND:20270510T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:16915ee6d615ada1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270510T164059Z
+DTEND:20270511T175216Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9e51d77afeac651d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270511T175216Z
+DTEND:20270512T190210Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feb0e88116b6687e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270512T190200Z
+DTEND:20270512T194500Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 12:02 - 12:45.\nП
+ олное окно: ср 12.05 12:02 - ср 12.05 12:45.\nЛунный д
+ ень 8\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8c096586b86e2a04@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270512T212900Z
+DTEND:20270513T030000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 14:29 - 20:00.\nП
+ олное окно: ср 12.05 14:29 - чт 13.05 10:31.\nЛунный д
+ ень 8\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f48c2daec2881f06@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270513T150000Z
+DTEND:20270513T173100Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:31.\nП
+ олное окно: ср 12.05 14:29 - чт 13.05 10:31.\nЛунный д
+ ень 8\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8f3819f7dde9b1c8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270513T180700Z
+DTEND:20270513T200500Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 11:07 - 13:05.\nП
+ олное окно: чт 13.05 11:07 - чт 13.05 13:05.\nЛунный д
+ ень 8\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eaf4a08d2fbaaa55@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270515T223500Z
+DTEND:20270516T030000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 15:35 - 20:00.\nП
+ олное окно: сб 15.05 15:35 - сб 15.05 23:59.\nЛунный д
+ ень 11\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-05-16@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270516T070000Z
+DTEND:20270517T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d67c7f77886568d8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270516T232020Z
+DTEND:20270518T002312Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-05-23@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270523T070000Z
+DTEND:20270524T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d757e0bf7cb77240@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270525T063931Z
+DTEND:20270526T071247Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-05-30@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270530T070000Z
+DTEND:20270531T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cf38ff1aad4b62f4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270601T173400Z
+DTEND:20270601T231800Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 10:34 - 16:18.\nП
+ олное окно: вт 01.06 10:34 - вт 01.06 16:18.\nЛунный д
+ ень 27\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffac8dd771eba8a7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270602T010700Z
+DTEND:20270602T030000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 18:07 - 20:00.\nП
+ олное окно: вт 01.06 18:07 - ср 02.06 12:45.\nЛунный д
+ ень 27\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1c09dd38eb8b6096@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270602T150000Z
+DTEND:20270602T194500Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:45.\nП
+ олное окно: вт 01.06 18:07 - ср 02.06 12:45.\nЛунный д
+ ень 27\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:81601e0fa4c0786b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270602T213400Z
+DTEND:20270603T030000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 14:34 - 20:00.\nП
+ олное окно: ср 02.06 14:34 - чт 03.06 03:23.\nЛунный д
+ ень 28\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d62f4a941b98e8fe@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270603T111953Z
+DTEND:20270604T121214Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:955e65e8a6dfcedf@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270604T194015Z
+DTEND:20270605T131422Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d09dfbfe361740ca@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270605T131422Z
+DTEND:20270606T142418Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-06-06@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270606T070000Z
+DTEND:20270607T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:11cc88296c5fa062@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270608T165000Z
+DTEND:20270608T232100Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 09:50 - 16:21.\nП
+ олное окно: вт 08.06 09:50 - вт 08.06 16:21.\nЛунный д
+ ень 5\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9e30e351ffabbcbd@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270609T011000Z
+DTEND:20270609T030000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 18:10 - 20:00.\nП
+ олное окно: вт 08.06 18:10 - ср 09.06 08:21.\nЛунный д
+ ень 5\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ba57b961fe98ab64@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270609T180042Z
+DTEND:20270610T190725Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4208108bc0536558@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270610T190725Z
+DTEND:20270611T201135Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4e12614c0142f840@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270612T150000Z
+DTEND:20270612T161200Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:12.\nП
+ олное окно: пт 11.06 20:58 - сб 12.06 09:12.\nЛунный д
+ ень 8\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:de41b2a031526361@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270612T180200Z
+DTEND:20270612T211000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 11:02 - 14:10.\nП
+ олное окно: сб 12.06 11:02 - сб 12.06 14:10.\nЛунный д
+ ень 8\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-06-13@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270613T070000Z
+DTEND:20270614T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:818fb2db46fb3f2d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270616T002055Z
+DTEND:20270617T012135Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-06-20@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270620T070000Z
+DTEND:20270621T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5e50945426d6a20d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270624T061118Z
+DTEND:20270625T063719Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-06-27@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270627T070000Z
+DTEND:20270628T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:881686e567d062e5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270630T150000Z
+DTEND:20270630T195100Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:51.\nП
+ олное окно: ср 30.06 02:09 - ср 30.06 12:51.\nЛунный д
+ ень 26\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f969c8fb3e025bf0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270630T214000Z
+DTEND:20270630T224100Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 14:40 - 15:41.\nП
+ олное окно: ср 30.06 14:40 - ср 30.06 15:41.\nЛунный д
+ ень 26\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:59d1bee961b3f82d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270703T120015Z
+DTEND:20270704T030158Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:355602a0f0f3bdf1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270704T030158Z
+DTEND:20270704T131356Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-07-04@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270704T070000Z
+DTEND:20270705T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:90ddd1863bf4f80c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270704T131356Z
+DTEND:20270705T142937Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fc0c53e46fbd8365@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270707T165400Z
+DTEND:20270707T195200Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 09:54 - 12:52.\nП
+ олное окно: ср 07.07 09:54 - ср 07.07 12:52.\nЛунный д
+ ень 5\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:affe3d35ec3b3671@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270707T214100Z
+DTEND:20270708T030000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 14:41 - 20:00.\nП
+ олное окно: ср 07.07 14:41 - чт 08.07 11:00.\nЛунный д
+ ень 5\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f4ca0da3e2d7ca37@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270708T150000Z
+DTEND:20270708T180000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:00.\nП
+ олное окно: ср 07.07 14:41 - чт 08.07 11:00.\nЛунный д
+ ень 5\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6365d4bf5ac99e7d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270708T180115Z
+DTEND:20270709T190607Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b103c6ce7a7ca548@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270709T190607Z
+DTEND:20270710T200938Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d22b87c1d6519db5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270710T200900Z
+DTEND:20270711T030000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 13:09 - 20:00.\nП
+ олное окно: сб 10.07 13:09 - сб 10.07 23:59.\nЛунный д
+ ень 8\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-07-11@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270711T070000Z
+DTEND:20270712T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:44775b4edf90a6c8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270715T001407Z
+DTEND:20270716T010753Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0ba331915eaf42b9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270716T150000Z
+DTEND:20270716T180700Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:07.\nП
+ олное окно: пт 16.07 04:40 - пт 16.07 11:07.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fd29e34a2334b5ad@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270716T195500Z
+DTEND:20270717T030000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 12:55 - 20:00.\nП
+ олное окно: пт 16.07 12:55 - сб 17.07 09:22.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c70deceb26968dc5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270717T150000Z
+DTEND:20270717T162200Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:22.\nП
+ олное окно: пт 16.07 12:55 - сб 17.07 09:22.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:232eb12cf4313eb3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270717T180900Z
+DTEND:20270718T023500Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 11:09 - 19:35.\nП
+ олное окно: сб 17.07 11:09 - сб 17.07 19:35.\nЛунный д
+ ень 14\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-07-18@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270718T070000Z
+DTEND:20270719T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fe7dd490179f71a0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270723T050617Z
+DTEND:20270724T053154Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-07-25@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270725T070000Z
+DTEND:20270726T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-08-01@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270801T070000Z
+DTEND:20270802T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6b00ee9783f28f95@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270801T120148Z
+DTEND:20270802T100508Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9a170325b2d36c45@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270802T100508Z
+DTEND:20270802T131741Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fe970a409929a7c1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270802T131741Z
+DTEND:20270803T143131Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f92fe73c3c16604b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270805T185600Z
+DTEND:20270805T213600Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 11:56 - 14:36.\nП
+ олное окно: чт 05.08 11:56 - чт 05.08 14:36.\nЛунный д
+ ень 5\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cd1e9e0faa7ab1cf@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270805T232000Z
+DTEND:20270806T030000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 16:20 - 20:00.\nП
+ олное окно: чт 05.08 16:20 - пт 06.08 10:55.\nЛунный д
+ ень 5\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3df4591640876ba8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270806T150000Z
+DTEND:20270806T175500Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:55.\nП
+ олное окно: чт 05.08 16:20 - пт 06.08 10:55.\nЛунный д
+ ень 5\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c13791b5637f19be@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270806T175646Z
+DTEND:20270807T190152Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c03f3083223f594d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270807T190152Z
+DTEND:20270808T200559Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-08-08@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270808T070000Z
+DTEND:20270809T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:661b2b25780df4e5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270812T173600Z
+DTEND:20270812T213300Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 10:36 - 14:33.\nП
+ олное окно: чт 12.08 10:36 - чт 12.08 14:33.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:28d5dc76613b39ac@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270812T231600Z
+DTEND:20270812T235000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 16:16 - 16:50.\nП
+ олное окно: чт 12.08 16:16 - чт 12.08 16:50.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bd337313137543a0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270812T235346Z
+DTEND:20270814T003730Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a64ac7ce19437d8f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270814T003700Z
+DTEND:20270814T030000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 17:37 - 20:00.\nП
+ олное окно: пт 13.08 17:37 - сб 14.08 09:30.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:68c285718d6e90f2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270814T150000Z
+DTEND:20270814T163000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:30.\nП
+ олное окно: пт 13.08 17:37 - сб 14.08 09:30.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ccfa6c89d2bd2ad1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270814T181300Z
+DTEND:20270815T015600Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 11:13 - 18:56.\nП
+ олное окно: сб 14.08 11:13 - сб 14.08 18:56.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-08-15@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270815T070000Z
+DTEND:20270816T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:18e882dfa3fcc2e4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270821T040253Z
+DTEND:20270822T043136Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-08-22@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270822T070000Z
+DTEND:20270823T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-08-29@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270829T070000Z
+DTEND:20270830T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1333165f53020e51@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270830T120505Z
+DTEND:20270831T131727Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:564e35284685e707@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270831T174105Z
+DTEND:20270901T142744Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:889197a3169d6c78@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270901T142744Z
+DTEND:20270902T153622Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-09-05@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270905T070000Z
+DTEND:20270906T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:314133311b06a83c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270905T185546Z
+DTEND:20270906T195821Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3b1ae1d5ce507cc6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270906T195821Z
+DTEND:20270907T205637Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9ee1bdc84cfac9ff@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270910T231500Z
+DTEND:20270911T030000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 16:15 - 20:00.\nП
+ олное окно: пт 10.09 16:15 - пт 10.09 23:41.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:608691ba2813f43c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270911T234956Z
+DTEND:20270913T002039Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-09-12@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270912T070000Z
+DTEND:20270913T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-09-19@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270919T070000Z
+DTEND:20270920T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7d619b062c75fe42@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270920T034312Z
+DTEND:20270921T042607Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-09-26@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270926T070000Z
+DTEND:20270927T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:106fef0f4e70340f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270927T164000Z
+DTEND:20270928T030000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 09:40 - 20:00.\nП
+ олное окно: пн 27.09 09:40 - вт 28.09 12:48.\nЛунный д
+ ень 27\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b400bb4e60c63bc3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270928T150000Z
+DTEND:20270928T194800Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:48.\nП
+ олное окно: пн 27.09 09:40 - вт 28.09 12:48.\nЛунный д
+ ень 27\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:18a7a0d4f8d8b6c0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270929T131330Z
+DTEND:20270930T023559Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:688f861efcb3d61c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270930T023559Z
+DTEND:20270930T142138Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8026296ec418e7d9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20270930T142138Z
+DTEND:20271001T152932Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-10-03@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271003T070000Z
+DTEND:20271004T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c529075f451f56c6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271004T184359Z
+DTEND:20271005T194005Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:497d840d27d925ec@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271005T194005Z
+DTEND:20271006T202928Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fa7b33fa77ccbb7c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271006T210500Z
+DTEND:20271007T030000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 14:05 - 20:00.\nП
+ олное окно: ср 06.10 14:05 - чт 07.10 14:02.\nЛунный д
+ ень 8\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1a224249959bbd76@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271007T150000Z
+DTEND:20271007T210200Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 14:02.\nП
+ олное окно: ср 06.10 14:05 - чт 07.10 14:02.\nЛунный д
+ ень 8\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-10-10@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271010T070000Z
+DTEND:20271011T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:371b7d44f71bf644@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271010T224959Z
+DTEND:20271011T231652Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-10-17@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271017T070000Z
+DTEND:20271018T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a94ae8f21caac490@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271019T031408Z
+DTEND:20271020T041112Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-10-24@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271024T070000Z
+DTEND:20271025T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:084d71a279890e4c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271025T164600Z
+DTEND:20271026T030000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 09:46 - 20:00.\nП
+ олное окно: пн 25.10 09:46 - вт 26.10 05:13.\nЛунный д
+ ень 26\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aaea2a94292ddff0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271027T002200Z
+DTEND:20271027T030000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 17:22 - 20:00.\nП
+ олное окно: вт 26.10 17:22 - ср 27.10 12:31.\nЛунный д
+ ень 27\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0f58104bfa043093@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271027T150000Z
+DTEND:20271027T193100Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:31.\nП
+ олное окно: вт 26.10 17:22 - ср 27.10 12:31.\nЛунный д
+ ень 27\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:95183ae9b0ce5595@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271027T205600Z
+DTEND:20271028T030000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 13:56 - 20:00.\nП
+ олное окно: ср 27.10 13:56 - чт 28.10 06:05.\nЛунный д
+ ень 28\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e68240384ff72d17@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271028T130933Z
+DTEND:20271029T133628Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:03ae30fef53c5004@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271029T133628Z
+DTEND:20271029T141639Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:335482f786ba069a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271029T141639Z
+DTEND:20271030T152313Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-10-31@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271031T070000Z
+DTEND:20271101T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2dc32733aec5f5c6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271102T164200Z
+DTEND:20271102T182000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 09:42 - 11:20.\nП
+ олное окно: вт 02.11 09:42 - вт 02.11 11:20.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d10af7fb9b028249@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271102T182005Z
+DTEND:20271103T190606Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:37ff0b2b8ab5fb43@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271103T190606Z
+DTEND:20271104T194532Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-11-07@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271107T070000Z
+DTEND:20271108T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:06fc5c42bcd236fb@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271108T214322Z
+DTEND:20271109T220928Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-11-14@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271114T080000Z
+DTEND:20271115T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:81075aeab5f40934@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271117T030643Z
+DTEND:20271118T041511Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d1b120ac180baf79@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271119T002900Z
+DTEND:20271119T040000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 16:29 - 20:00.\nП
+ олное окно: чт 18.11 16:29 - пт 19.11 10:15.\nЛунный д
+ ень 21\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1677e0213aa24a22@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271119T160000Z
+DTEND:20271119T181500Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:15.\nП
+ олное окно: чт 18.11 16:29 - пт 19.11 10:15.\nЛунный д
+ ень 21\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:795343be4e4af171@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271119T193400Z
+DTEND:20271120T040000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 11:34 - 20:00.\nП
+ олное окно: пт 19.11 11:34 - пт 19.11 22:30.\nЛунный д
+ ень 22\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-11-21@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271121T080000Z
+DTEND:20271122T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3df6997648d0e77d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271123T160000Z
+DTEND:20271123T221000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 14:10.\nП
+ олное окно: вт 23.11 01:52 - вт 23.11 14:10.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ebb9c4b13333ce36@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271123T232800Z
+DTEND:20271124T040000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 15:28 - 20:00.\nП
+ олное окно: вт 23.11 15:28 - ср 24.11 11:35.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4b178999762d1cb4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271124T160000Z
+DTEND:20271124T193500Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:35.\nП
+ олное окно: вт 23.11 15:28 - ср 24.11 11:35.\nЛунный д
+ ень 26\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8221ff8f26ba80ce@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271124T205300Z
+DTEND:20271125T040000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 12:53 - 20:00.\nП
+ олное окно: ср 24.11 12:53 - чт 25.11 03:05.\nЛунный д
+ ень 27\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b24ca67c32a074b0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271126T130738Z
+DTEND:20271127T141207Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:00cab63b178254e2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271128T032421Z
+DTEND:20271128T151328Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-11-28@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271128T080000Z
+DTEND:20271129T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:520107c0fadae4b4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271128T151328Z
+DTEND:20271129T160926Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5d83b83b9ed12151@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271201T174000Z
+DTEND:20271201T193600Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 09:40 - 11:36.\nП
+ олное окно: ср 01.12 09:40 - ср 01.12 11:36.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:640d8d607cdec63e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271201T205500Z
+DTEND:20271202T021600Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 12:55 - 18:16.\nП
+ олное окно: ср 01.12 12:55 - ср 01.12 18:16.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f182cc8cc16b41c5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271202T181716Z
+DTEND:20271203T184852Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f2e1d8eca526d011@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271203T184852Z
+DTEND:20271204T191712Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-12-05@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271205T080000Z
+DTEND:20271206T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ba14b9da72dd5ae9@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271208T210331Z
+DTEND:20271209T213458Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:69b89210dfab0455@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271209T223700Z
+DTEND:20271210T040000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 14:37 - 20:00.\nП
+ олное окно: чт 09.12 14:37 - пт 10.12 10:25.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:be9dd1607a572113@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271210T160000Z
+DTEND:20271210T182500Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:25.\nП
+ олное окно: чт 09.12 14:37 - пт 10.12 10:25.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6f9a3652030b2b4c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271210T194200Z
+DTEND:20271211T040000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 11:42 - 20:00.\nП
+ олное окно: пт 10.12 11:42 - сб 11.12 09:10.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3ba9fe7d6a27a392@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271211T160000Z
+DTEND:20271211T171000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:10.\nП
+ олное окно: пт 10.12 11:42 - сб 11.12 09:10.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:16fc4d748e1bae2c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271211T182700Z
+DTEND:20271211T205700Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 10:27 - 12:57.\nП
+ олное окно: сб 11.12 10:27 - сб 11.12 12:57.\nЛунный д
+ ень 14\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-12-12@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271212T080000Z
+DTEND:20271213T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:88926bcbf7212fbf@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271216T160000Z
+DTEND:20271216T205800Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:58.\nП
+ олное окно: ср 15.12 23:42 - чт 16.12 12:58.\nЛунный д
+ ень 19\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bbf6282be8d29dec@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271216T221600Z
+DTEND:20271217T040000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 14:16 - 20:00.\nП
+ олное окно: чт 16.12 14:16 - чт 16.12 20:20.\nЛунный д
+ ень 19\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:02a33c6b5d068a7f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271217T042320Z
+DTEND:20271218T053310Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:83febc39d5f3016e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271218T160000Z
+DTEND:20271218T171300Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:13.\nП
+ олное окно: сб 18.12 01:18 - сб 18.12 09:13.\nЛунный д
+ ень 21\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a71f6efa05d6b20a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271218T183000Z
+DTEND:20271219T040000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 10:30 - 20:00.\nП
+ олное окно: сб 18.12 10:30 - сб 18.12 23:59.\nЛунный д
+ ень 21\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-12-19@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271219T080000Z
+DTEND:20271220T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2027-12-26@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271226T080000Z
+DTEND:20271227T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:121cbd038cf86db2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271226T140109Z
+DTEND:20271227T145226Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3d18229d935e3cc8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271227T201214Z
+DTEND:20271228T153706Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5f76a4f4187cf078@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20271228T153706Z
+DTEND:20271229T161532Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:057895f2fa04bb93@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280101T174507Z
+DTEND:20280102T181041Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-01-02@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280102T080000Z
+DTEND:20280103T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:85f952785cc8fd98@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280102T181041Z
+DTEND:20280103T183608Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9ebec687909bcec2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280106T200400Z
+DTEND:20280106T211000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 12:04 - 13:10.\nП
+ олное окно: чт 06.01 12:04 - чт 06.01 13:10.\nЛунный д
+ ень 11\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7135a61021c722e8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280106T222700Z
+DTEND:20280107T040000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 14:27 - 20:00.\nП
+ олное окно: чт 06.01 14:27 - пт 07.01 10:37.\nЛунный д
+ ень 11\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cbe6f500a70bd207@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280107T160000Z
+DTEND:20280107T183700Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:37.\nП
+ олное окно: чт 06.01 14:27 - пт 07.01 10:37.\nЛунный д
+ ень 11\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:76cde28befbf63e2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280107T195500Z
+DTEND:20280107T204000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 11:55 - 12:40.\nП
+ олное окно: пт 07.01 11:55 - пт 07.01 12:40.\nЛунный д
+ ень 11\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:36b6276caa2ab05e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280107T204357Z
+DTEND:20280108T213111Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-01-09@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280109T080000Z
+DTEND:20280110T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:918a4324f1d3706f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280115T160000Z
+DTEND:20280115T172200Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:22.\nП
+ олное окно: пт 14.01 20:25 - сб 15.01 09:22.\nЛунный д
+ ень 19\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:945c912e0d3d564f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280115T184100Z
+DTEND:20280116T040000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 10:41 - 20:00.\nП
+ олное окно: сб 15.01 10:41 - сб 15.01 21:30.\nЛунный д
+ ень 19\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:70fed05ff7d7106d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280116T053420Z
+DTEND:20280117T064108Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-01-16@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280116T080000Z
+DTEND:20280117T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:50dd307f43e8ef74@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280117T172400Z
+DTEND:20280118T040000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 09:24 - 20:00.\nП
+ олное окно: пн 17.01 09:24 - вт 18.01 11:26.\nЛунный д
+ ень 21\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:79e633934fbaa00f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280118T160000Z
+DTEND:20280118T192600Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:26.\nП
+ олное окно: пн 17.01 09:24 - вт 18.01 11:26.\nЛунный д
+ ень 21\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-01-23@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280123T080000Z
+DTEND:20280124T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:88ce009f74d89d50@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280125T141513Z
+DTEND:20280126T144958Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c51ca189070b268f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280126T151225Z
+DTEND:20280127T152033Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:21d45796924105a3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280127T152033Z
+DTEND:20280128T154813Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-01-30@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280130T080000Z
+DTEND:20280131T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4bedec05cfa25fb2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280131T170510Z
+DTEND:20280201T173238Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:817c2da12af73aad@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280201T173238Z
+DTEND:20280202T180312Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:88f85646e7850114@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280202T180300Z
+DTEND:20280202T200100Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 10:03 - 12:01.\nП
+ олное окно: ср 02.02 10:03 - ср 02.02 12:01.\nЛунный д
+ ень 8\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6da1d9d02142fb51@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280202T212300Z
+DTEND:20280203T040000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 13:23 - 20:00.\nП
+ олное окно: ср 02.02 13:23 - чт 03.02 10:35.\nЛунный д
+ ень 8\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca14de999ccc5c2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280203T160000Z
+DTEND:20280203T183500Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 10:35.\nП
+ олное окно: ср 02.02 13:23 - чт 03.02 10:35.\nЛунный д
+ ень 8\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-02-06@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280206T080000Z
+DTEND:20280207T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2232cb7026d37fdb@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280206T211015Z
+DTEND:20280207T221801Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:64386ef10b79472a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280209T160000Z
+DTEND:20280209T200200Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:02.\nП
+ олное окно: вт 08.02 21:14 - ср 09.02 12:02.\nЛунный д
+ ень 14\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dcfa0161caa4a477@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280209T212500Z
+DTEND:20280210T004500Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 13:25 - 16:45.\nП
+ олное окно: ср 09.02 13:25 - ср 09.02 16:45.\nЛунный д
+ ень 14\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-02-13@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280213T080000Z
+DTEND:20280214T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:70a4431ae94e445f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280214T171800Z
+DTEND:20280214T224900Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 09:18 - 14:49.\nП
+ олное окно: пн 14.02 09:18 - пн 14.02 14:49.\nЛунный д
+ ень 19\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f475f6923fee2edb@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280215T063920Z
+DTEND:20280216T074603Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-02-20@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280220T080000Z
+DTEND:20280221T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:054fe24db648c8a5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280224T135154Z
+DTEND:20280225T103720Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b925c0b0d679fc96@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280225T103720Z
+DTEND:20280225T141823Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:449bbe2f58b448f5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280225T141823Z
+DTEND:20280226T144355Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-02-27@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280227T080000Z
+DTEND:20280228T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:31c01ec5b30513e1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280229T160549Z
+DTEND:20280301T163900Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d480a8c7c2df65eb@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280301T163900Z
+DTEND:20280302T171739Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bdc295fd55628b67@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280302T171700Z
+DTEND:20280302T191900Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 09:17 - 11:19.\nП
+ олное окно: чт 02.03 09:17 - чт 02.03 11:19.\nЛунный д
+ ень 8\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-03-05@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280305T080000Z
+DTEND:20280306T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:99ee14ffe0fe8ad1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280306T210706Z
+DTEND:20280307T221852Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:71ae8aeb88e90e01@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280307T221800Z
+DTEND:20280307T225500Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 14:18 - 14:55.\nП
+ олное окно: вт 07.03 14:18 - вт 07.03 14:55.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:702dcb917e691fbc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280308T002500Z
+DTEND:20280308T040000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 16:25 - 20:00.\nП
+ олное окно: вт 07.03 16:25 - ср 08.03 11:58.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:24fb002a6cc6d9ae@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280308T160000Z
+DTEND:20280308T195800Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:58.\nП
+ олное окно: вт 07.03 16:25 - ср 08.03 11:58.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4d09da29a591ae69@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280308T212800Z
+DTEND:20280309T040000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 13:28 - 20:00.\nП
+ олное окно: ср 08.03 13:28 - чт 09.03 01:19.\nЛунный д
+ ень 13\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9770a9a8f2e2ba3d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280309T160100Z
+DTEND:20280309T212600Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 08:01 - 13:26.\nП
+ олное окно: чт 09.03 08:01 - чт 09.03 13:26.\nЛунный д
+ ень 14\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dac279dba632933c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280309T225700Z
+DTEND:20280310T004000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 14:57 - 16:40.\nП
+ олное окно: чт 09.03 14:57 - чт 09.03 16:40.\nЛунный д
+ ень 14\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-03-12@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280312T080000Z
+DTEND:20280313T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6892f8aa3fbbc27d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280315T063504Z
+DTEND:20280316T073920Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-03-19@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280319T070000Z
+DTEND:20280320T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f36d682cb6cef449@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280324T124753Z
+DTEND:20280325T131340Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0a960c2f51a6da98@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280326T043114Z
+DTEND:20280326T134024Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-03-26@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280326T070000Z
+DTEND:20280327T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9dac2c72dbe02a24@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280326T134024Z
+DTEND:20280327T140915Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:845d404764c73160@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280329T151800Z
+DTEND:20280329T195200Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:18 - 12:52.\nП
+ олное окно: ср 29.03 08:18 - ср 29.03 12:52.\nЛунный д
+ ень 5\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ebdb810a64d8771b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280329T212800Z
+DTEND:20280330T030000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 14:28 - 20:00.\nП
+ олное окно: ср 29.03 14:28 - чт 30.03 01:22.\nЛунный д
+ ень 5\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:22967bc439f75446@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280330T160156Z
+DTEND:20280331T165234Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4e0c46b883fcd919@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280331T165234Z
+DTEND:20280401T175033Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-04-02@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280402T070000Z
+DTEND:20280403T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e2863165ef7f9cbe@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280404T211200Z
+DTEND:20280404T230100Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 14:12 - 16:01.\nП
+ олное окно: вт 04.04 14:12 - вт 04.04 16:01.\nЛунный д
+ ень 11\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:98d179cc7c9c167e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280405T003800Z
+DTEND:20280405T030000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 17:38 - 20:00.\nП
+ олное окно: вт 04.04 17:38 - ср 05.04 12:50.\nЛунный д
+ ень 11\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f81f5dd33223d721@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280405T150000Z
+DTEND:20280405T195000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:50.\nП
+ олное окно: вт 04.04 17:38 - ср 05.04 12:50.\nЛунный д
+ ень 11\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:335652987018f399@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280405T212700Z
+DTEND:20280405T222000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 14:27 - 15:20.\nП
+ олное окно: ср 05.04 14:27 - ср 05.04 15:20.\nЛунный д
+ ень 11\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:34aab8ab6b60191b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280405T222209Z
+DTEND:20280406T233151Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e487013f5a972dab@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280406T233100Z
+DTEND:20280407T030000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 16:31 - 20:00.\nП
+ олное окно: чт 06.04 16:31 - пт 07.04 02:08.\nЛунный д
+ ень 13\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1bd69a2c44dddc71@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280408T020400Z
+DTEND:20280408T030000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 19:04 - 20:00.\nП
+ олное окно: пт 07.04 19:04 - сб 08.04 09:37.\nЛунный д
+ ень 14\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ea0463f59f4dcabc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280408T150000Z
+DTEND:20280408T163700Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:37.\nП
+ олное окно: пт 07.04 19:04 - сб 08.04 09:37.\nЛунный д
+ ень 14\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:49be88ba626c15ae@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280408T181500Z
+DTEND:20280409T015000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 11:15 - 18:50.\nП
+ олное окно: сб 08.04 11:15 - сб 08.04 18:50.\nЛунный д
+ ень 14\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-04-09@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280409T070000Z
+DTEND:20280410T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ac03af77294a64dc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280414T071945Z
+DTEND:20280415T080813Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-04-16@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280416T070000Z
+DTEND:20280417T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-04-23@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280423T070000Z
+DTEND:20280424T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ab4900bbc9bc3930@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280423T121104Z
+DTEND:20280424T124231Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cab5c0dd51089c0a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280424T194650Z
+DTEND:20280425T131830Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9219cf79da252fb1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280425T131830Z
+DTEND:20280426T140029Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6381b104ea285718@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280429T164821Z
+DTEND:20280430T175440Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-04-30@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280430T070000Z
+DTEND:20280501T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a62d1204b1bf4cd0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280430T175440Z
+DTEND:20280501T190231Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cd4db56c2f88bc57@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280501T190200Z
+DTEND:20280502T030000Z
+SUMMARY:🟢 Стрижка: рост (Лев)
+DESCRIPTION:Лучшее время для записи: 12:02 - 20:00.\nП
+ олное окно: пн 01.05 12:02 - вт 02.05 05:53.\nЛунный д
+ ень 8\, Луна в знаке Лев\, Луна растёт.\nОкн
+ о уже без Луны без курса\, Раху-калы и вос
+ кресенья. Научных данных о влиянии Луны 
+ на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f9f57bc3c5510f29@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280505T150000Z
+DTEND:20280505T180200Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:02.\nП
+ олное окно: пт 05.05 03:35 - пт 05.05 11:02.\nЛунный д
+ ень 11\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dec544ca9ddda10b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280505T194600Z
+DTEND:20280505T233000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 12:46 - 16:30.\nП
+ олное окно: пт 05.05 12:46 - пт 05.05 16:30.\nЛунный д
+ ень 11\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f96838a2a8742524@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280505T233238Z
+DTEND:20280507T004117Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-05-07@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280507T070000Z
+DTEND:20280508T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-05-14@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280514T070000Z
+DTEND:20280515T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bb4230beaa3e82a1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280514T072157Z
+DTEND:20280515T075502Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-05-21@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280521T070000Z
+DTEND:20280522T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d2104bbf51a4772b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280522T161500Z
+DTEND:20280523T030000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 09:15 - 20:00.\nП
+ олное окно: пн 22.05 09:15 - пн 22.05 21:59.\nЛунный д
+ ень 28\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fb834d94bfa94499@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280523T115545Z
+DTEND:20280524T081612Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0205daa995b3e0ca@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280524T081612Z
+DTEND:20280524T124300Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ae0581a394a0a74f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280524T124300Z
+DTEND:20280525T133801Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-05-28@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280528T070000Z
+DTEND:20280529T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:68edd597818a6d53@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280528T165501Z
+DTEND:20280529T180312Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5733fc7868dfd290@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280529T180312Z
+DTEND:20280530T191015Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e1abf91ebae8b8b0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280530T191000Z
+DTEND:20280530T231800Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 12:10 - 16:18.\nП
+ олное окно: вт 30.05 12:10 - вт 30.05 16:18.\nЛунный д
+ ень 8\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8fb47a989c3a8db0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280531T010600Z
+DTEND:20280531T030000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 18:06 - 20:00.\nП
+ олное окно: вт 30.05 18:06 - ср 31.05 12:45.\nЛунный д
+ ень 8\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4a6ceffbb06b8b80@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280531T150000Z
+DTEND:20280531T194500Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:45.\nП
+ олное окно: вт 30.05 18:06 - ср 31.05 12:45.\nЛунный д
+ ень 8\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0e916c5c98f078f1@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280603T233558Z
+DTEND:20280605T004331Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-06-04@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280604T070000Z
+DTEND:20280605T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-06-11@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280611T070000Z
+DTEND:20280612T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7460d87e28642ed2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280612T062405Z
+DTEND:20280613T065204Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-06-18@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280618T070000Z
+DTEND:20280619T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0ed8b61c03b45016@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280621T112509Z
+DTEND:20280622T122522Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2152560eaef8979a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280622T182726Z
+DTEND:20280623T133156Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:548d4658e9415cfb@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280623T133156Z
+DTEND:20280624T144151Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-06-25@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280625T070000Z
+DTEND:20280626T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0d4036f592ac88df@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280626T195900Z
+DTEND:20280627T030000Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 12:59 - 20:00.\nП
+ олное окно: пн 26.06 12:59 - вт 27.06 11:05.\nЛунный д
+ ень 5\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:71b8f297d710f44f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280627T150000Z
+DTEND:20280627T180500Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:05.\nП
+ олное окно: пн 26.06 12:59 - вт 27.06 11:05.\nЛунный д
+ ень 5\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5df834fa28d4cf4d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280627T180853Z
+DTEND:20280628T191518Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d8030e99f7e94e4c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280628T191518Z
+DTEND:20280629T202123Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9340993a2777860c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280629T202100Z
+DTEND:20280629T213800Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 13:21 - 14:38.\nП
+ олное окно: чт 29.06 13:21 - чт 29.06 14:38.\nЛунный д
+ ень 8\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:51f1d6bd3fecc4cc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280629T232800Z
+DTEND:20280630T030000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 16:28 - 20:00.\nП
+ олное окно: чт 29.06 16:28 - чт 29.06 20:21.\nЛунный д
+ ень 8\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-07-02@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280702T070000Z
+DTEND:20280703T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5cb0f1b97b93dead@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280704T004209Z
+DTEND:20280705T013933Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7d705aecff339859@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280705T150000Z
+DTEND:20280705T195200Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:52.\nП
+ олное окно: ср 05.07 06:27 - ср 05.07 12:52.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:afc68158251da540@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280705T214100Z
+DTEND:20280706T030000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 14:41 - 20:00.\nП
+ олное окно: ср 05.07 14:41 - чт 06.07 11:10.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b3ae9b36a5afc1c7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280706T150000Z
+DTEND:20280706T181000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:10.\nП
+ олное окно: ср 05.07 14:41 - чт 06.07 11:10.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-07-09@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280709T070000Z
+DTEND:20280710T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6c20951f2e99cf0e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280712T054601Z
+DTEND:20280713T061203Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-07-16@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280716T070000Z
+DTEND:20280717T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe4bcb1a6943af7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280721T122045Z
+DTEND:20280722T030135Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a4f11faf43451322@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280722T030135Z
+DTEND:20280722T133242Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:77dff8d07210001f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280722T133242Z
+DTEND:20280723T144432Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-07-23@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280723T070000Z
+DTEND:20280724T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:95c6b17431ae73ef@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280725T170300Z
+DTEND:20280725T193900Z
+SUMMARY:🟢 Стрижка: рост (Дева)
+DESCRIPTION:Лучшее время для записи: 10:03 - 12:39.\nП
+ олное окно: вт 25.07 10:03 - вт 25.07 12:39.\nЛунный д
+ ень 5\, Луна в знаке Дева\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c3c445f8bf32d24b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280726T150000Z
+DTEND:20280726T181000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:10.\nП
+ олное окно: вт 25.07 21:42 - ср 26.07 11:10.\nЛунный д
+ ень 5\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6d15a4fbb9942c52@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280726T181200Z
+DTEND:20280727T191934Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:803cdf999a8aaa4e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280727T191934Z
+DTEND:20280728T202644Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-07-30@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280730T070000Z
+DTEND:20280731T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3a0bd2c443e2dcbc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280801T193400Z
+DTEND:20280801T232000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 12:34 - 16:20.\nП
+ олное окно: вт 01.08 12:34 - вт 01.08 16:20.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:791a36417d4f7483@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280802T002643Z
+DTEND:20280803T011210Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eeed473ba0e3285c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280803T011200Z
+DTEND:20280803T030000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 18:12 - 20:00.\nП
+ олное окно: ср 02.08 18:12 - чт 03.08 14:36.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fb4321373b59e8ae@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280803T150000Z
+DTEND:20280803T213600Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 14:36.\nП
+ олное окно: ср 02.08 18:12 - чт 03.08 14:36.\nЛунный д
+ ень 13\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-08-06@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280806T070000Z
+DTEND:20280807T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:df7f72a284a47036@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280810T044142Z
+DTEND:20280811T051018Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:40e0dfd6685e0705@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280811T195400Z
+DTEND:20280812T030000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 12:54 - 20:00.\nП
+ олное окно: пт 11.08 12:54 - сб 12.08 09:30.\nЛунный д
+ ень 21\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0b4487466ff3cd12@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280812T150000Z
+DTEND:20280812T163000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:30.\nП
+ олное окно: пт 11.08 12:54 - сб 12.08 09:30.\nЛунный д
+ ень 21\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7d80290677c30d12@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280812T181300Z
+DTEND:20280813T030000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 11:13 - 20:00.\nП
+ олное окно: сб 12.08 11:13 - сб 12.08 23:15.\nЛунный д
+ ень 22\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-08-13@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280813T070000Z
+DTEND:20280814T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ff9f11b66a2711c2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280818T150000Z
+DTEND:20280818T181100Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:11.\nП
+ олное окно: пт 18.08 06:47 - пт 18.08 11:11.\nЛунный д
+ ень 28\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9a8ba133f15f08d8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280818T195300Z
+DTEND:20280819T030000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 12:53 - 20:00.\nП
+ олное окно: пт 18.08 12:53 - сб 19.08 05:15.\nЛунный д
+ ень 28\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ba26d97e8bf5bdcd@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280819T121957Z
+DTEND:20280820T104344Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-08-20@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280820T070000Z
+DTEND:20280821T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cfac14e97ea16d38@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280820T104344Z
+DTEND:20280820T133214Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:97cbca6cd6c7fbf8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280820T133214Z
+DTEND:20280821T144343Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:781812e68bd082ea@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280823T170400Z
+DTEND:20280823T195000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 10:04 - 12:50.\nП
+ олное окно: ср 23.08 10:04 - ср 23.08 12:50.\nЛунный д
+ ень 5\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:304115474934b89d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280823T213000Z
+DTEND:20280824T020000Z
+SUMMARY:🟢 Стрижка: рост (Весы)
+DESCRIPTION:Лучшее время для записи: 14:30 - 19:00.\nП
+ олное окно: ср 23.08 14:30 - ср 23.08 19:00.\nЛунный д
+ ень 5\, Луна в знаке Весы\, Луна растёт.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c256855f755c1568@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280824T181423Z
+DTEND:20280825T192250Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f606bb7ee848aeed@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280825T192250Z
+DTEND:20280826T202828Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-08-27@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280827T070000Z
+DTEND:20280828T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f87ebd0cd89e2073@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280830T004100Z
+DTEND:20280830T030000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 17:41 - 20:00.\nП
+ олное окно: вт 29.08 17:41 - ср 30.08 12:47.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5eac246f9289527e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280830T150000Z
+DTEND:20280830T194700Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:47.\nП
+ олное окно: вт 29.08 17:41 - ср 30.08 12:47.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1aff043b4e9176d7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280830T212600Z
+DTEND:20280830T235000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 14:26 - 16:50.\nП
+ олное окно: ср 30.08 14:26 - ср 30.08 16:50.\nЛунный д
+ ень 11\, Луна в знаке Козерог\, Луна растёт.
+ \nОкно уже без Луны без курса\, Раху-калы и
+  воскресенья. Научных данных о влиянии Л
+ уны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ce79a6f8693ca968@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280830T235155Z
+DTEND:20280901T002714Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-09-03@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280903T070000Z
+DTEND:20280904T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d2352d0b598aadfc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280908T003600Z
+DTEND:20280908T030000Z
+SUMMARY:🟢 Стрижка: подрезка (Телец)
+DESCRIPTION:Лучшее время для записи: 17:36 - 20:00.\nП
+ олное окно: чт 07.09 17:36 - чт 07.09 20:40.\nЛунный д
+ ень 19\, Луна в знаке Телец\, Луна убывает.\n
+ Окно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f5c74a5a1ac8e0a0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280908T034408Z
+DTEND:20280909T041843Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-09-10@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280910T070000Z
+DTEND:20280911T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ea2b749e3efc99d0@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280914T235000Z
+DTEND:20280915T030000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 16:50 - 20:00.\nП
+ олное окно: чт 14.09 16:50 - пт 15.09 11:10.\nЛунный д
+ ень 26\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ad248c70a2ce7560@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280915T150000Z
+DTEND:20280915T181000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:10.\nП
+ олное окно: чт 14.09 16:50 - пт 15.09 11:10.\nЛунный д
+ ень 26\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f6b548f1bf8ce037@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280915T194400Z
+DTEND:20280916T030000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 12:44 - 20:00.\nП
+ олное окно: пт 15.09 12:44 - пт 15.09 22:32.\nЛунный д
+ ень 27\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7b312e95ae5c21f8@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280917T005300Z
+DTEND:20280917T030000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 17:53 - 20:00.\nП
+ олное окно: сб 16.09 17:53 - сб 16.09 23:59.\nЛунный д
+ ень 28\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-09-17@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280917T070000Z
+DTEND:20280918T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3f53aba0a6efebfa@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280917T121743Z
+DTEND:20280918T132912Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f80d3314594c3925@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280918T182339Z
+DTEND:20280919T144057Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3de159dbdc75c461@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280919T144057Z
+DTEND:20280920T155258Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:45694e5fdb465f26@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280923T191850Z
+DTEND:20280924T201709Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-09-24@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280924T070000Z
+DTEND:20280925T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c0f2c4f0feb8e148@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280924T201709Z
+DTEND:20280925T210750Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2ed8d84705c17e8b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280925T210700Z
+DTEND:20280926T030000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 14:07 - 20:00.\nП
+ олное окно: пн 25.09 14:07 - вт 26.09 06:39.\nЛунный д
+ ень 8\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c5f27f0249d90a29@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20280929T232954Z
+DTEND:20280930T235700Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-10-01@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281001T070000Z
+DTEND:20281002T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:426f9eb2c27e2c4b@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281008T034312Z
+DTEND:20281009T043359Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-10-08@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281008T070000Z
+DTEND:20281009T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b04ae1bd2d6ac7a7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281014T150000Z
+DTEND:20281014T164100Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 08:00 - 09:41.\nП
+ олное окно: сб 14.10 03:39 - сб 14.10 09:41.\nЛунный д
+ ень 26\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:db86d42906073f80@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281014T180900Z
+DTEND:20281015T030000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 11:09 - 20:00.\nП
+ олное окно: сб 14.10 11:09 - сб 14.10 23:59.\nЛунный д
+ ень 26\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-10-15@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281015T070000Z
+DTEND:20281016T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:86aa9d1ee9f03f07@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281016T164400Z
+DTEND:20281017T030000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 09:44 - 20:00.\nП
+ олное окно: пн 16.10 09:44 - вт 17.10 06:25.\nЛунный д
+ ень 28\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aae365bfe1a87b31@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281017T132620Z
+DTEND:20281018T025642Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e6c3aee1e7443ebc@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281018T025642Z
+DTEND:20281018T143846Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0b150b75c8b186ed@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281018T143846Z
+DTEND:20281019T155049Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-10-22@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281022T070000Z
+DTEND:20281023T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7078d8819ddcf254@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281022T185900Z
+DTEND:20281023T194626Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b433093748aad6ac@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281023T194626Z
+DTEND:20281024T202638Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:edb06236ccb6c93f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281028T222559Z
+DTEND:20281029T225221Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-10-29@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281029T070000Z
+DTEND:20281030T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-11-05@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281105T070000Z
+DTEND:20281106T070000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5715bf7c3adacc3f@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281106T032642Z
+DTEND:20281107T042724Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1d5d87ac5f9366c6@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281108T160000Z
+DTEND:20281108T193100Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:31.\nП
+ олное окно: ср 08.11 05:52 - ср 08.11 11:31.\nЛунный д
+ ень 22\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d1716b08f662f6b3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281108T205300Z
+DTEND:20281109T040000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 12:53 - 20:00.\nП
+ олное окно: ср 08.11 12:53 - ср 08.11 22:35.\nЛунный д
+ ень 22\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-11-12@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281112T080000Z
+DTEND:20281113T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ff217c63eafd277e@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281113T165500Z
+DTEND:20281114T040000Z
+SUMMARY:🟢 Стрижка: подрезка (Весы)
+DESCRIPTION:Лучшее время для записи: 08:55 - 20:00.\nП
+ олное окно: пн 13.11 08:55 - пн 13.11 23:18.\nЛунный д
+ ень 27\, Луна в знаке Весы\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:58c157bb76b98201@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281115T132544Z
+DTEND:20281116T131755Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7867bea784be039a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281116T131755Z
+DTEND:20281116T143621Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b3b0db634f187010@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281116T143621Z
+DTEND:20281117T154326Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-11-19@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281119T080000Z
+DTEND:20281120T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:00a1639132301ecb@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281120T165900Z
+DTEND:20281120T182000Z
+SUMMARY:🟢 Стрижка: рост (Козерог)
+DESCRIPTION:Лучшее время для записи: 08:59 - 10:20.\nП
+ олное окно: пн 20.11 08:59 - пн 20.11 10:20.\nЛунный д
+ ень 5\, Луна в знаке Козерог\, Луна растёт.\
+ nОкно уже без Луны без курса\, Раху-калы и 
+ воскресенья. Научных данных о влиянии Лу
+ ны на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5b6e2b23e68ee08a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281120T182046Z
+DTEND:20281121T185825Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4b43d538c8d08108@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281121T185825Z
+DTEND:20281122T193100Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-11-26@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281126T080000Z
+DTEND:20281127T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:21afa3d4535d0be7@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281126T212033Z
+DTEND:20281127T214902Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:debc2d7cfb9a64ce@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281128T201900Z
+DTEND:20281128T221000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 12:19 - 14:10.\nП
+ олное окно: вт 28.11 12:19 - вт 28.11 14:10.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:70c52bf1ce0115e2@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281128T232800Z
+DTEND:20281129T040000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 15:28 - 20:00.\nП
+ олное окно: вт 28.11 15:28 - ср 29.11 11:36.\nЛунный д
+ ень 14\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a9064a3ad7b3f9c5@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281129T160000Z
+DTEND:20281129T193600Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:36.\nП
+ олное окно: вт 28.11 15:28 - ср 29.11 11:36.\nЛунный д
+ ень 14\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1f7ad384021c5efd@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281129T205400Z
+DTEND:20281129T225500Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 12:54 - 14:55.\nП
+ олное окно: ср 29.11 12:54 - ср 29.11 14:55.\nЛунный д
+ ень 14\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-12-03@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281203T080000Z
+DTEND:20281204T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2737fa1c481dc33c@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281205T032413Z
+DTEND:20281206T043005Z
+SUMMARY:🔴 Не стричься: лунный день 20
+DESCRIPTION:Лунный день 20 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:480ea49dc3752281@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281206T160000Z
+DTEND:20281206T193800Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 08:00 - 11:38.\nП
+ олное окно: вт 05.12 20:30 - ср 06.12 11:38.\nЛунный д
+ ень 21\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7af3cbaef43a6cd4@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281206T205600Z
+DTEND:20281207T040000Z
+SUMMARY:🟢 Стрижка: подрезка (Лев)
+DESCRIPTION:Лучшее время для записи: 12:56 - 20:00.\nП
+ олное окно: ср 06.12 12:56 - чт 07.12 08:15.\nЛунный д
+ ень 21\, Луна в знаке Лев\, Луна убывает.\nОк
+ но уже без Луны без курса\, Раху-калы и во
+ скресенья. Научных данных о влиянии Луны
+  на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2e360e7dfdb0f9ff@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281207T233000Z
+DTEND:20281208T040000Z
+SUMMARY:🟢 Стрижка: подрезка (Дева)
+DESCRIPTION:Лучшее время для записи: 15:30 - 20:00.\nП
+ олное окно: чт 07.12 15:30 - чт 07.12 22:40.\nЛунный д
+ ень 22\, Луна в знаке Дева\, Луна убывает.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-12-10@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281210T080000Z
+DTEND:20281211T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cbab01456b485afe@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281214T132432Z
+DTEND:20281215T142732Z
+SUMMARY:🔴 Не стричься: лунный день 29
+DESCRIPTION:Лунный день 29 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f28022195a5ab656@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281216T020613Z
+DTEND:20281216T152342Z
+SUMMARY:🔴 Не стричься: лунный день 1
+DESCRIPTION:Лунный день 1 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3127a2da5eaa823d@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281216T152342Z
+DTEND:20281217T161204Z
+SUMMARY:🔴 Не стричься: лунный день 2
+DESCRIPTION:Лунный день 2 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-12-17@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281217T080000Z
+DTEND:20281218T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3c977f9e4c90bdfb@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281220T175923Z
+DTEND:20281221T182737Z
+SUMMARY:🔴 Не стричься: лунный день 6
+DESCRIPTION:Лунный день 6 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:449c9941cba0dd9a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281221T182737Z
+DTEND:20281222T185424Z
+SUMMARY:🔴 Не стричься: лунный день 7
+DESCRIPTION:Лунный день 7 (от восхода Луны до сл
+ едующего). Метод календаря не пускает эт
+ от день\, тибетский текст (перевод Ламы З
+ опы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-12-24@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281224T080000Z
+DTEND:20281225T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:14fb288d8b450993@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281226T160000Z
+DTEND:20281226T205000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 08:00 - 12:50.\nП
+ олное окно: пн 25.12 20:48 - вт 26.12 12:50.\nЛунный д
+ ень 11\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:22463c7692223a0a@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281226T205144Z
+DTEND:20281227T213009Z
+SUMMARY:🔴 Не стричься: лунный день 12
+DESCRIPTION:Лунный день 12 (от восхода Луны до с
+ ледующего). Метод календаря не пускает э
+ тот день\, тибетский текст (перевод Ламы 
+ Зопы) называет его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aa82eecb3e9940c3@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281227T213000Z
+DTEND:20281228T040000Z
+SUMMARY:🟢 Стрижка: рост (Телец)
+DESCRIPTION:Лучшее время для записи: 13:30 - 20:00.\nП
+ олное окно: ср 27.12 13:30 - чт 28.12 00:03.\nЛунный д
+ ень 13\, Луна в знаке Телец\, Луна растёт.\nО
+ кно уже без Луны без курса\, Раху-калы и в
+ оскресенья. Научных данных о влиянии Лун
+ ы на волосы нет.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san_diegosun2028-12-31@hairymoon
+DTSTAMP:20261104T000000Z
+DTSTART:20281231T080000Z
+DTEND:20290101T080000Z
+SUMMARY:🔴 Не стричься: воскресенье
+DESCRIPTION:Воскресенье исключено методом кал
+ ендаря\; индийский текст Prashna Deepakam тоже с
+ читает его плохим для стрижки.
+LOCATION:Сан-Диего
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
