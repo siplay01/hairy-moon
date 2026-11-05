@@ -27,10 +27,10 @@ button,input{font:inherit;color:inherit}
 header.top{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:16px 0 4px}
 .brand{display:flex;align-items:center;gap:8px;font-weight:700;font-size:1.1rem;letter-spacing:-.01em;white-space:nowrap}
 .tools{display:flex;gap:6px;align-items:center;min-width:0}
-.chip{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:0 12px;font-size:.86rem;min-height:40px;cursor:pointer;color:var(--ink);white-space:nowrap;max-width:44vw;overflow:hidden;text-overflow:ellipsis}
+.chip{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:0 12px;font-size:.86rem;min-height:44px;cursor:pointer;color:var(--ink);white-space:nowrap;max-width:44vw;overflow:hidden;text-overflow:ellipsis}
 .chip[aria-expanded="true"]{border-color:var(--ink)}
 .seg{display:inline-flex;border:1px solid var(--line);border-radius:999px;background:var(--surface);overflow:hidden}
-.seg button{border:0;background:transparent;min-height:38px;min-width:38px;padding:0 8px;font-size:.82rem;font-weight:650;letter-spacing:.04em;cursor:pointer;color:var(--mut)}
+.seg button{border:0;background:transparent;min-height:42px;min-width:44px;padding:0 8px;font-size:.82rem;font-weight:650;letter-spacing:.04em;cursor:pointer;color:var(--mut)}
 .seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
 h1,h2{font-weight:700;letter-spacing:-.02em;line-height:1.15;margin:0}
 h2{font-size:1.1rem}
@@ -55,7 +55,7 @@ h2{font-size:1.1rem}
 .btn{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:0 18px;border-radius:12px;border:1px solid var(--ink);background:var(--ink);color:var(--bg);text-decoration:none;font-weight:600;cursor:pointer;font-size:.92rem}
 .btn.ghost{background:transparent;color:var(--ink);border-color:var(--line)}
 .actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:12px}
-.layout{display:grid;gap:16px;margin-top:2px}
+.layout{display:grid;grid-template-columns:minmax(0,1fr);gap:16px;margin-top:2px}
 @media(min-width:920px){
   .layout{grid-template-columns:minmax(0,1.12fr) minmax(380px,.95fr);grid-template-areas:"cal day" "up day";column-gap:28px;align-items:start}
   #secCal{grid-area:cal}#secUp{grid-area:up}
@@ -66,11 +66,11 @@ h2{font-size:1.1rem}
 .calhead{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:8px}
 .calhead .title{font-weight:700;font-size:1.2rem;text-align:center;flex:1;letter-spacing:-.01em}
 .nav{width:44px;height:44px;border-radius:50%;border:1px solid var(--line);background:transparent;cursor:pointer;display:grid;place-items:center}
-.nav.sm{width:40px;height:40px}
+.nav.sm{width:44px;height:44px}
 .nav:disabled{opacity:.35;cursor:default}
-.grid{display:grid;grid-template-columns:repeat(7,1fr);gap:6px}
+.grid{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:5px}
 .dow{font-size:.72rem;color:var(--mut);text-align:center;padding:4px 0;text-transform:uppercase;letter-spacing:.06em}
-.cell{position:relative;aspect-ratio:1;min-height:46px;border-radius:14px;border:1px solid transparent;background:var(--c-none);padding:0;display:grid;place-items:center;cursor:pointer;color:var(--ink)}
+.cell{position:relative;aspect-ratio:1;min-height:0;min-width:0;border-radius:14px;border:1px solid transparent;background:var(--c-none);padding:0;display:grid;place-items:center;cursor:pointer;color:var(--ink)}
 .cell.good{background:var(--g-grad);border-color:var(--good)}
 .cell.bad{background:linear-gradient(135deg,rgba(184,60,40,.20) 25%,transparent 25% 50%,rgba(184,60,40,.20) 50% 75%,transparent 75%) 0 0/9px 9px,var(--c-bad)}
 .cell.out{background:transparent;opacity:.45;cursor:default;pointer-events:none}
@@ -208,3 +208,5 @@ details.how ul{padding-left:1.1em}
 footer{margin-top:26px;color:var(--mut);font-size:.88rem;max-width:70ch}
 .msg{padding:14px;color:var(--mut)}
 @media(prefers-reduced-motion:no-preference){.cell,.upcoming li,.btn,.chip{transition:background .15s,border-color .15s,filter .15s}}
+
+@media(prefers-reduced-motion:reduce){.sheet,.sheet.open{transition:none}}
