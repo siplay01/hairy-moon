@@ -1,9 +1,11 @@
+@font-face{font-family:"Alegreya";src:url(fonts/alegreya.woff2) format("woff2");font-weight:500 800;font-style:normal;font-display:swap}
+@font-face{font-family:"Alegreya";src:url(fonts/alegreya-italic.woff2) format("woff2");font-weight:500 800;font-style:italic;font-display:swap}
 /* Hairy Moon v4: celestial barber's grimoire. Deep space, gold-leaf linework, luminous threads. Calendar first; the day screen has three views. */
 :root{
   --bg:#efe9f6;--surface:rgba(255,252,247,.9);--surface2:#e4dcf1;--ink:#211a3b;--mut:#5b5679;--line:rgba(150,105,30,.38);--hair:#c9b88f;
   --gold:#a8791f;--gold-ink:#6f4f0c;--good:#0c7a5e;--bad:#b73a26;--warn:#8c6410;--voc:#5b4bb0;--focus:#5b3fd0;--sel:#211a3b;
   --cell-none:#ece3f4;--cell-good:#c6efe0;--cell-bad:#f3c3b7;--rim:rgba(33,26,59,.16);--star:rgba(33,26,59,.5);--thread:#7a5fc0;--thread2:#b88a2a;
-  --serif:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;
+  --serif:"Alegreya","Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;
   --font:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",system-ui,sans-serif;
 }
 @media(prefers-color-scheme:dark){:root{
@@ -14,7 +16,7 @@
 *{box-sizing:border-box}
 html,body{overflow-x:clip}
 html{-webkit-text-size-adjust:100%;scrollbar-color:var(--line) transparent}
-body{margin:0;color:var(--ink);font:16px/1.5 var(--font);font-variant-numeric:tabular-nums;min-height:100vh;
+body{margin:0;color:var(--ink);font:16px/1.5 var(--font);font-variant-numeric:lining-nums tabular-nums;min-height:100vh;
   background:radial-gradient(1000px 520px at 85% -8%,rgba(255,190,150,.45),transparent 62%),radial-gradient(900px 560px at -6% 22%,rgba(150,120,230,.28),transparent 60%),radial-gradient(800px 500px at 55% 112%,rgba(255,170,200,.25),transparent 60%),var(--bg);background-attachment:fixed}
 @media(prefers-color-scheme:dark){body{background:radial-gradient(1000px 620px at 84% -12%,rgba(122,60,196,.42),transparent 62%),radial-gradient(820px 560px at -8% 24%,rgba(18,168,150,.24),transparent 60%),radial-gradient(900px 520px at 56% 115%,rgba(196,48,134,.20),transparent 60%),var(--bg);background-attachment:fixed}}
 ::selection{background:var(--gold);color:#120d00}
@@ -68,7 +70,9 @@ h2{font-size:1.1rem}
 .sa #sub{background:var(--gold);color:#140e00;border-color:var(--gold)}
 .layout{display:grid;grid-template-columns:minmax(0,1fr);gap:16px;margin-top:2px}
 @media(min-width:920px){
-  .layout{grid-template-columns:minmax(0,1.12fr) minmax(400px,.95fr);grid-template-areas:"cal day" "up day";column-gap:28px;align-items:start}
+  .layout{grid-template-columns:minmax(0,1.12fr) minmax(400px,.95fr);grid-template-areas:"cal day" "up up";column-gap:28px;align-items:start}
+  #secUp .upcoming{display:grid;grid-template-columns:1fr 1fr;column-gap:28px}
+  #secUp .upcoming li:nth-child(2){border-top:0}
   #secCal{grid-area:cal}#secUp{grid-area:up}
 }
 
@@ -176,7 +180,7 @@ h2{font-size:1.1rem}
 
 /* the clock: an astrolabe */
 .dial{display:block;width:100%;max-width:420px;height:auto;margin:6px auto 0;touch-action:pan-y;cursor:crosshair;overflow:visible}
-.dial text{font-family:var(--font);font-variant-numeric:tabular-nums}
+.dial text{font-family:var(--font);font-variant-numeric:lining-nums tabular-nums}
 .dial .hl{fill:#f1ebdc;font:500 22px var(--serif);text-anchor:middle;dominant-baseline:central}
 .dial .hl.mj{font-weight:700;font-size:25px;fill:#fff}
 .dial .tk{stroke:#8b88b8;stroke-width:1}
@@ -269,3 +273,5 @@ footer{margin-top:26px;color:var(--mut);font-size:.88rem;max-width:70ch}
 .msg{padding:14px;color:var(--mut)}
 @media(prefers-reduced-motion:no-preference){.cell,.upcoming li,.btn,.chip{transition:background .15s,border-color .15s,filter .15s}}
 @media(prefers-reduced-motion:reduce){.sheet,.sheet.open{transition:none}}
+/* the font shorthand resets numeric variants: restore lining, tabular figures where the serif is used */
+.calhead .title,.upcoming .dn b,.slots .tm,.tip .tt,.dial .hl,details.upd summary,details.how summary,.brand,h1,h2{font-variant-numeric:lining-nums tabular-nums}

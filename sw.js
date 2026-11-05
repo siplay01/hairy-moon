@@ -1,5 +1,5 @@
-const V='hm-v8';
-const SHELL=['./','index.html','style.css','app.js','sky.js','cities.json'];
+const V='hm-v9';
+const SHELL=['./','index.html','style.css','app.js','sky.js','cities.json','fonts/alegreya.woff2','fonts/alegreya-italic.woff2'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(V).then(c=>c.addAll(SHELL)));self.skipWaiting();});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!==V).map(x=>caches.delete(x)))).then(()=>self.clients.claim()));});
 // network first, fall back to cache: data stays fresh when online and works offline after first visit
