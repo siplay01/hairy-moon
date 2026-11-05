@@ -9,7 +9,13 @@ var SIGNS = {
 };
 var T = {
   ru: {
-    loc: 'ru-RU', nowLbl: 'Сейчас хорошее время', nextLbl: 'Ближайшее окно:', sunday: 'воскресенье', cap: 'Один оборот циферблата это день салона: с 8:00 до 20:00. Ночь не показана. От 8 до 12 стрелка идёт слева вверх, от 12 до 8 справа вниз.', rNight: 'Хорошее время есть только ночью, вне часов салона.', legOut: 'хорошее вне часов салона', legNew: 'новолуние', legFull: 'полнолуние', note: 'Научных данных о влиянии Луны на волосы нет: это традиция, а не доказанный эффект.', next: 'Следующее хорошее время', now: 'Сейчас хорошее время', until: 'до', none: 'Окон в выбранном периоде нет',
+    loc: 'ru-RU', nowLbl: 'Сейчас хорошее время', nextLbl: 'Ближайшее окно:', sunday: 'воскресенье',
+    tGood: function (r, m, sg, ld) { return 'Хорошее время ' + r + '. ' + m + ', Луна в знаке ' + sg + ', ' + ldText(ld) + '. Лунный день и знак подходят, Раху-калы и Луны без курса нет.'; },
+    tBadLd: function (r, ld) { return 'Лучше не стричься ' + r + '. ' + ldText(ld) + ': календарь не пускает этот день, а тибетский текст называет его плохим для стрижки.'; },
+    tBadSun: function (r) { return 'Лучше не стричься' + (r ? ' ' + r : '') + '. Воскресенье: календарь исключает его, индийский текст тоже считает его плохим.'; },
+    tRahu: function (r) { return 'Раху-кала ' + r + '. Неблагоприятный отрезок дня в индийской традиции, окна в это время вычитаются.'; },
+    tVoc: function (r) { return 'Луна без курса ' + r + '. Луна закончила последнее сближение с планетами и ждёт перехода в новый знак, окна в это время вычитаются.'; },
+    tNone: 'Окна нет. В этот час сочетание лунного дня и знака Луны не из подходящих.', cap: 'Один оборот часов это день салона: с 8:00 до 20:00, ночь не показана. Наведите на цветной сектор, чтобы узнать, что он значит.', rNight: 'Хорошее время есть только ночью, вне часов салона.', legOut: 'хорошее вне часов салона', legNew: 'новолуние', legFull: 'полнолуние', note: 'Научных данных о влиянии Луны на волосы нет: это традиция, а не доказанный эффект.', next: 'Следующее хорошее время', now: 'Сейчас хорошее время', until: 'до', none: 'Окон в выбранном периоде нет',
     growth: 'Рост', trim: 'Подрезка', moonIn: 'Луна в знаке', ldn: 'лунный день', book: 'Запись в салон', full: 'полное окно',
     add: 'Добавить в календарь', ics: 'Скачать .ics', show: 'Показать день', cal: 'Календарь', day: 'День', up: 'Ближайшие окна',
     today: 'Сегодня', legGood: 'хорошее время', legBad: 'лучше не стричься', legToday: 'сегодня',
@@ -30,7 +36,13 @@ var T = {
     wd: ['пн', 'вт', 'ср', 'чт', 'пт', 'сб', 'вс']
   },
   en: {
-    loc: 'en-US', nowLbl: 'Good time right now', nextLbl: 'Next window:', sunday: 'Sunday', cap: 'One turn of the dial is the salon day, 8:00 AM to 8:00 PM. Night is not shown. From 8 to 12 the hand goes up the left side, from 12 to 8 down the right.', rNight: 'Good time exists only at night, outside salon hours.', legOut: 'good, outside salon hours', legNew: 'new moon', legFull: 'full moon', note: 'There is no scientific evidence that the Moon affects hair: this is a tradition, not a proven effect.', next: 'Next good time', now: 'Good time right now', until: 'until', none: 'No windows in this period',
+    loc: 'en-US', nowLbl: 'Good time right now', nextLbl: 'Next window:', sunday: 'Sunday',
+    tGood: function (r, m, sg, ld) { return 'Good time ' + r + '. ' + m + ', Moon in ' + sg + ', ' + ldText(ld) + '. The lunar day and sign fit, no Rahu Kala or void-of-course Moon.'; },
+    tBadLd: function (r, ld) { return 'Better not to cut ' + r + '. ' + ldText(ld) + ': the calendar excludes this day and the Tibetan text calls it bad for haircuts.'; },
+    tBadSun: function (r) { return 'Better not to cut' + (r ? ' ' + r : '') + '. Sunday: the calendar excludes it and the Indian text also calls it bad.'; },
+    tRahu: function (r) { return 'Rahu Kala ' + r + '. An inauspicious part of the day in the Indian tradition; windows are subtracted then.'; },
+    tVoc: function (r) { return 'Void-of-course Moon ' + r + '. The Moon has finished its last aspect and waits to enter a new sign; windows are subtracted then.'; },
+    tNone: 'No window. At this hour the lunar day and Moon sign are not on the allowed list.', cap: 'One turn of the clock is the salon day, 8:00 AM to 8:00 PM; night is not shown. Hover a coloured sector to see what it means.', rNight: 'Good time exists only at night, outside salon hours.', legOut: 'good, outside salon hours', legNew: 'new moon', legFull: 'full moon', note: 'There is no scientific evidence that the Moon affects hair: this is a tradition, not a proven effect.', next: 'Next good time', now: 'Good time right now', until: 'until', none: 'No windows in this period',
     growth: 'Growth', trim: 'Trim', moonIn: 'Moon in', ldn: 'lunar day', book: 'Salon booking', full: 'full window',
     add: 'Add to calendar', ics: 'Download .ics', show: 'Show day', cal: 'Calendar', day: 'Day', up: 'Coming up',
     today: 'Today', legGood: 'good time', legBad: 'better not to cut', legToday: 'today',
@@ -220,31 +232,104 @@ function renderMonth() {
   }).catch(function () { $('grid').innerHTML = '<div class="msg" style="grid-column:1/-1">' + (view.y < YMIN || view.y > YMAX ? t().outRange : t().offline) + '</div>'; });
 }
 
-/* ---------- the dial: one 12 h turn = the salon day, 8:00 to 20:00 ---------- */
+/* ---------- the clock: one 12 h turn = the salon day, 8:00 to 20:00 ---------- */
+function pie(a0, a1, r, cls, a, b) {
+  if (a1 - a0 < 0.004) return '';
+  if (a1 - a0 > 2 * Math.PI - 0.004) return pie(a0, a0 + Math.PI, r, cls, a, b) + pie(a0 + Math.PI, a1, r, cls, a, b);
+  return '<path class="' + cls + '" data-a="' + a + '" data-b="' + b + '" d="M0 0L' + px(r, a0) + 'A' + r + ' ' + r + ' 0 ' + (a1 - a0 > Math.PI ? 1 : 0) + ' 1 ' + px(r, a1) + 'Z"/>';
+}
 function dialSVG(o) {
-  var R0 = 112, R1 = 146, TAU = 2 * Math.PI, a, i, h = '';
-  var a0 = ang(at(o.sel, OPEN)), aN = TAU, a1 = ang(at(o.sel, CLOSE));
-  h += '<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect class="hatch-bg" width="6" height="6"/><line class="hatch-ln" x1="0" y1="0" x2="0" y2="6"/></pattern>' +
-       '<pattern id="dots" width="4" height="4" patternUnits="userSpaceOnUse"><rect class="dots-bg" width="4" height="4"/><circle class="dots-dot" cx="2" cy="2" r="1.1"/></pattern></defs>';
-  h += '<g class="dial-arcs">' + bandArc(R0, R1, a0, aN, 'trk-am', '') + bandArc(R0, R1, aN, a1, 'trk-pm', '');
-  o.avoids.forEach(function (x) { h += bandArc(R0, R1, ang(x.s), ang(x.e), 'arc-bad', o.avoidTitle(x)); });
-  o.book.forEach(function (x) { h += bandArc(R0, R1, ang(x.a), ang(x.b), 'arc-good', t().legGood + ' ' + clock(x.a) + ' - ' + clock(x.b)); });
-  h += '<circle class="guide" r="102"/><circle class="guide" r="90"/>';
-  if (o.rahu[1] > o.rahu[0]) h += bandArc(98, 106, ang(o.rahu[0]), ang(o.rahu[1]), 'arc-rahu', t().tlRahu + ' ' + clock(o.info.rahu[0]) + ' - ' + clock(o.info.rahu[1]));
-  o.vocs.forEach(function (x) { h += bandArc(86, 94, ang(x.s), ang(x.e), 'arc-voc', t().tlVoc); });
-  h += '</g>';
-  h += '<line class="seam" x1="' + (80 * Math.sin(a0)).toFixed(2) + '" y1="' + (-80 * Math.cos(a0)).toFixed(2) + '" x2="' + (170 * Math.sin(a0)).toFixed(2) + '" y2="' + (-170 * Math.cos(a0)).toFixed(2) + '"/>';
-  for (i = 1; i <= 12; i++) {
-    a = TAU * i / 12;
-    h += '<line class="tk mj" x1="' + (158 * Math.sin(a)).toFixed(2) + '" y1="' + (-158 * Math.cos(a)).toFixed(2) + '" x2="' + (167 * Math.sin(a)).toFixed(2) + '" y2="' + (-167 * Math.cos(a)).toFixed(2) + '"/>';
-    var b2 = TAU * (i - 0.5) / 12;
-    h += '<line class="tk" x1="' + (158 * Math.sin(b2)).toFixed(2) + '" y1="' + (-158 * Math.cos(b2)).toFixed(2) + '" x2="' + (162 * Math.sin(b2)).toFixed(2) + '" y2="' + (-162 * Math.cos(b2)).toFixed(2) + '"/>';
-    h += '<text class="hl' + (i % 3 === 0 ? ' mj' : '') + '" x="' + (184 * Math.sin(a)).toFixed(2) + '" y="' + (-184 * Math.cos(a)).toFixed(2) + '">' + i + '</text>';
+  var TAU = 2 * Math.PI, a, i, h = '', S = function (v) { return v.toFixed(2); };
+  var a0 = ang(at(o.sel, OPEN));
+  h += '<defs>' +
+    '<linearGradient id="bz" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dfe9ef"/><stop offset=".35" stop-color="#7f95a6"/><stop offset=".6" stop-color="#2c3f4e"/><stop offset="1" stop-color="#a9bccb"/></linearGradient>' +
+    '<linearGradient id="bzi" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#d3dfe7"/><stop offset=".5" stop-color="#3b5163"/><stop offset="1" stop-color="#0d1b27"/></linearGradient>' +
+    '<radialGradient id="face" cx=".42" cy=".36" r=".8"><stop offset="0" stop-color="#1c3b55"/><stop offset=".7" stop-color="#0d2336"/><stop offset="1" stop-color="#07131f"/></radialGradient>' +
+    '<radialGradient id="gGood" cx="0" cy="0" r="126" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1b8a69"/><stop offset=".7" stop-color="#34c796"/><stop offset="1" stop-color="#58e6b6"/></radialGradient>' +
+    '<linearGradient id="hand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8fa4b3"/><stop offset=".5" stop-color="#f4f8fa"/><stop offset="1" stop-color="#7d93a3"/></linearGradient>' +
+    '<radialGradient id="cap" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#fff"/><stop offset=".5" stop-color="#9db0bd"/><stop offset="1" stop-color="#3a4f60"/></radialGradient>' +
+    '<linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".30"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>' +
+    '<pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect class="hatch-bg" width="7" height="7"/><line class="hatch-ln" x1="0" y1="0" x2="0" y2="7"/></pattern>' +
+    '<pattern id="dots" width="4" height="4" patternUnits="userSpaceOnUse"><rect class="dots-bg" width="4" height="4"/><circle class="dots-dot" cx="2" cy="2" r="1.1"/></pattern>' +
+    '<filter id="drop" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="6" stdDeviation="7" flood-color="#000" flood-opacity=".55"/></filter>' +
+    '<filter id="hshadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="2" dy="3" stdDeviation="2.2" flood-color="#000" flood-opacity=".55"/></filter>' +
+    '<filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" seed="4"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .55 -.16"/></filter>' +
+    '<clipPath id="faceclip"><circle r="190"/></clipPath></defs>';
+  h += '<g filter="url(#drop)"><circle r="207" fill="url(#bz)"/><circle r="196" fill="url(#bzi)"/></g><circle r="190" fill="url(#face)"/>';
+  h += '<rect x="-190" y="-190" width="380" height="380" filter="url(#grain)" clip-path="url(#faceclip)" opacity=".5"/>';
+  h += '<g class="dial-arcs">';
+  o.avoids.forEach(function (x) { h += pie(ang(x.s), ang(x.e), 126, 'arc-bad', x.s, x.e); });
+  o.book.forEach(function (x) { h += pie(ang(x.a), ang(x.b), 126, 'arc-good', x.a, x.b); });
+  h += '<circle class="guide" r="127"/>';
+  if (o.rahu[1] > o.rahu[0]) h += bandArc(130, 138, ang(o.rahu[0]), ang(o.rahu[1]), 'arc-rahu', '');
+  o.vocs.forEach(function (x) { h += bandArc(141, 149, ang(x.s), ang(x.e), 'arc-voc', ''); });
+  h += '</g><circle class="guide" r="150"/>';
+  h += '<line class="seam" x1="' + S(34 * Math.sin(a0)) + '" y1="' + S(-34 * Math.cos(a0)) + '" x2="' + S(126 * Math.sin(a0)) + '" y2="' + S(-126 * Math.cos(a0)) + '"/>';
+  for (i = 0; i < 60; i++) {
+    a = TAU * i / 60; var hr = i % 5 === 0, r0 = hr ? 177 : 181, r1 = 187;
+    h += '<line class="tk' + (hr ? ' mj' : '') + '" x1="' + S(r0 * Math.sin(a)) + '" y1="' + S(-r0 * Math.cos(a)) + '" x2="' + S(r1 * Math.sin(a)) + '" y2="' + S(-r1 * Math.cos(a)) + '"/>';
   }
-  if (o.nowHand != null) { a = ang(o.nowHand); h += '<line class="hand" x1="' + (70 * Math.sin(a)).toFixed(2) + '" y1="' + (-70 * Math.cos(a)).toFixed(2) + '" x2="' + (156 * Math.sin(a)).toFixed(2) + '" y2="' + (-156 * Math.cos(a)).toFixed(2) + '"/><circle class="hand-dot" cx="' + (156 * Math.sin(a)).toFixed(2) + '" cy="' + (-156 * Math.cos(a)).toFixed(2) + '" r="5.5"/>'; }
-  h += moon(o.info.illum, o.info.waxing, 30).replace('<svg ', '<svg x="-15" y="-60" ');
-  h += '<text class="d-num" y="-4">' + +o.sel.slice(8) + '</text><text class="d-mon" y="26">' + dateLabel(o.sel, { month: 'short' }).replace('.', '') + '</text><text class="d-sub" y="44">' + ldText(o.info.ld) + '</text>';
-  return '<svg class="dial" viewBox="-204 -204 408 408" role="img" aria-label="' + o.summary.replace(/"/g, '&quot;') + '">' + h + '</svg>';
+  for (i = 1; i <= 12; i++) { a = TAU * i / 12; h += '<text class="hl' + (i % 3 === 0 ? ' mj' : '') + '" x="' + S(163 * Math.sin(a)) + '" y="' + S(-163 * Math.cos(a)) + '">' + i + '</text>'; }
+  h += '<circle class="sub" cx="0" cy="84" r="30"/>' + moon(o.info.illum, o.info.waxing, 38).replace('<svg ', '<svg x="-19" y="65" ');
+  h += '<rect class="win" x="74" y="-15" width="46" height="30" rx="5"/><text class="win-n" x="97" y="1">' + +o.sel.slice(8) + '</text>';
+  h += '<line id="ghost" class="ghost" x1="0" y1="0" x2="0" y2="-140" visibility="hidden"/>';
+  if (o.nowHand != null) {
+    var lm = lmin(o.nowHand);
+    h += '<g filter="url(#hshadow)"><g transform="rotate(' + S((lm % 720) / 2) + ')"><path class="hh" d="M-5.5 16 L-3.4 -88 L0 -100 L3.4 -88 L5.5 16Z"/></g><g transform="rotate(' + S((lm % 60) * 6) + ')"><path class="hh" d="M-3.6 20 L-2 -138 L0 -150 L2 -138 L3.6 20Z"/></g></g>';
+  }
+  h += '<circle class="cap" r="9.5"/><circle r="3" fill="#0b1b29"/>';
+  h += '<path d="M-150 -96 A190 190 0 0 1 150 -96 Q0 -38 -150 -96Z" fill="url(#gloss)" clip-path="url(#faceclip)" pointer-events="none"/>';
+  return '<svg class="dial" id="dialsvg" viewBox="-212 -212 424 424" tabindex="0" role="group" aria-label="' + o.summary.replace(/"/g, '&quot;') + '">' + h + '</svg>';
+}
+/* tooltip: time under the pointer -> which layers are active there and why */
+function dayStamp(m) { var k = keyOf(m); return (k === sel ? '' : dateLabel(k, { day: 'numeric', month: 'short' }) + ' ') + clock(m); }
+function layersAt(c, m) {
+  var out = [];
+  c.avoids.forEach(function (x) { if (m >= x.s && m < x.e) out.push({ k: 'bad', h: x.x[2] === 1 ? t().tBadSun(clock(x.s) + ' - ' + clock(x.e)) : t().tBadLd(clock(x.s) + ' - ' + clock(x.e), x.x[3]) }); });
+  c.book.forEach(function (x) { if (m >= x.a && m < x.b) out.push({ k: 'good', h: t().tGood(clock(x.a) + ' - ' + clock(x.b), modeName(x.x[2]), SIGNS[lang][x.x[4]], x.x[3]) }); });
+  if (c.rahu[1] > c.rahu[0] && m >= c.rahu[0] && m < c.rahu[1]) out.push({ k: 'rahu', h: t().tRahu(clock(c.info.rahu[0]) + ' - ' + clock(c.info.rahu[1])) });
+  c.vocs.forEach(function (x) { if (m >= x.s && m < x.e) out.push({ k: 'voc', h: t().tVoc(dayStamp(x.x[0]) + ' - ' + dayStamp(x.x[1])) }); });
+  if (!out.length) out.push({ k: 'none', h: c.sun ? t().tBadSun('') : t().tNone });
+  return out;
+}
+function attachDial(box, c) {
+  var svg = box.querySelector('#dialsvg'), tip = box.querySelector('.tip'), ghost = svg.querySelector('#ghost'), kb = null;
+  function show(theta, px_, py_) {
+    var cm = theta * 720 / (2 * Math.PI), tt = cm >= 480 ? cm : cm + 720, m = at(sel, tt / 60);
+    var ls = layersAt(c, m);
+    tip.innerHTML = '<div class="tt">' + clock(m) + '</div>' + ls.map(function (l) { return '<div class="tl ' + l.k + '"><i></i><span>' + l.h + '</span></div>'; }).join('');
+    tip.hidden = false;
+    var cr = box.getBoundingClientRect(), tw = tip.offsetWidth, th = tip.offsetHeight;
+    var x = px_ - cr.left + 14, y = py_ - cr.top - th - 12;
+    if (x + tw > cr.width - 8) x = px_ - cr.left - tw - 14;
+    if (x < 8) x = 8;
+    if (y < 8) y = py_ - cr.top + 18;
+    tip.style.left = x + 'px'; tip.style.top = y + 'px';
+    ghost.setAttribute('transform', 'rotate(' + (theta * 180 / Math.PI).toFixed(2) + ')'); ghost.setAttribute('visibility', 'visible');
+    Array.prototype.forEach.call(svg.querySelectorAll('.arc-good,.arc-bad'), function (p) { p.classList.toggle('hot', m >= +p.getAttribute('data-a') && m < +p.getAttribute('data-b')); });
+  }
+  function hide() { tip.hidden = true; ghost.setAttribute('visibility', 'hidden'); Array.prototype.forEach.call(svg.querySelectorAll('.hot'), function (p) { p.classList.remove('hot'); }); }
+  function fromEvent(e) {
+    var r = svg.getBoundingClientRect(), cx = r.left + r.width / 2, cy = r.top + r.height / 2, dx = e.clientX - cx, dy = e.clientY - cy;
+    var rr = Math.sqrt(dx * dx + dy * dy) / (r.width / 2) * 212;
+    if (rr > 200 || rr < 14) { hide(); return; }
+    var th = Math.atan2(dx, -dy); if (th < 0) th += 2 * Math.PI;
+    show(th, e.clientX, e.clientY);
+  }
+  svg.addEventListener('pointermove', fromEvent);
+  svg.addEventListener('pointerdown', fromEvent);
+  svg.addEventListener('pointerleave', function (e) { if (e.pointerType === 'mouse') hide(); });
+  document.addEventListener('pointerdown', function (e) { if (!box.contains(e.target)) hide(); });
+  svg.addEventListener('keydown', function (e) {
+    var step = e.key === 'ArrowRight' || e.key === 'ArrowUp' ? 15 : e.key === 'ArrowLeft' || e.key === 'ArrowDown' ? -15 : e.key === 'Home' ? 'home' : e.key === 'End' ? 'end' : e.key === 'Escape' ? 'esc' : null;
+    if (step === null) return; e.preventDefault();
+    if (step === 'esc') { hide(); return; }
+    if (kb === null) kb = 8 * 60;
+    kb = step === 'home' ? 8 * 60 : step === 'end' ? 19 * 60 + 45 : Math.min(19 * 60 + 59, Math.max(8 * 60, kb + step));
+    var th = 2 * Math.PI * (kb % 720) / 720, r = svg.getBoundingClientRect(), k = r.width / 424, rad = 100 * k;
+    show(th, r.left + r.width / 2 + rad * Math.sin(th), r.top + r.height / 2 - rad * Math.cos(th));
+  });
+  svg.addEventListener('blur', hide);
 }
 function renderDay() {
   var y = +sel.slice(0, 4), box = $('day');
@@ -271,10 +356,11 @@ function renderDay() {
     function stamp(m) { var k = keyOf(m); return (k === sel ? '' : dateLabel(k, { day: 'numeric', month: 'short' }) + ' ') + clock(m); }
     var vocTxt = vocs.length ? vocs.map(function (o) { return stamp(o.x[0]) + ' - ' + stamp(o.x[1]); }).join('; ') : t().none2;
     box.innerHTML = '<div class="dhead"><h3>' + dateLabel(sel, { weekday: 'long', day: 'numeric', month: 'long' }) + '</h3><span class="ph">' + (info.waxing ? t().wax : t().wan) + ', ' + info.illum + '%</span></div>' +
-      dialSVG({ sel: sel, info: info, me: me, goods: goods, book: book, avoids: avoids, vocs: vocs, rahu: rahu, nowHand: (sel === todayKey && now >= lo && now <= hi ? now : null), summary: summary, avoidTitle: avoidTitle }) +
+      '<div class="tip" role="status" aria-live="polite" hidden></div>' + dialSVG({ sel: sel, info: info, me: me, goods: goods, book: book, avoids: avoids, vocs: vocs, rahu: rahu, nowHand: (sel === todayKey && now >= lo && now <= hi ? now : null), summary: summary, avoidTitle: avoidTitle }) +
       '<p class="dcap">' + t().cap + '</p><ul class="verdict">' + rows + '</ul>' +
       '<div class="legend"><span><i class="g"></i>' + t().legGood + '</span><span><i class="b"></i>' + t().legBad + '</span><span><i class="r"></i>' + t().tlRahu + '</span><span><i class="v"></i>' + t().tlVoc + '</span></div>' +
       '<dl class="facts"><dt>' + t().ld + '</dt><dd>' + info.ld + '</dd><dt>' + t().sign + '</dt><dd>' + SIGNS[lang][info.sign] + '</dd><dt>' + t().rahu + '</dt><dd>' + clock(info.rahu[0]) + ' - ' + clock(info.rahu[1]) + '</dd><dt>' + t().voc + '</dt><dd>' + vocTxt + '</dd></dl>';
+    attachDial(box, { avoids: avoids, book: book, vocs: vocs, rahu: rahu, info: info, sun: sun });
   }).catch(function () { box.innerHTML = '<div class="msg">' + t().offline + '</div>'; });
 }
 
