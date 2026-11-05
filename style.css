@@ -48,12 +48,13 @@ h2{font-size:1.1rem;margin:26px 0 10px}
 .dhead .ph{color:var(--mut);font-size:.84rem;white-space:nowrap}
 .dial{display:block;width:100%;max-width:440px;height:auto;margin:6px auto 0}
 .dial text{font-family:var(--font);font-variant-numeric:tabular-nums}
-.dial .hl{fill:var(--mut);font-size:12.5px;text-anchor:middle;dominant-baseline:central}
+.dial .hl{fill:var(--mut);font-size:15px;text-anchor:middle;dominant-baseline:central}
 .dial .hl.mj{fill:var(--ink);font-weight:600}
 .dial .tk{stroke:#4a6a82;stroke-width:1}
 .dial .tk.mj{stroke:#9ab3c2;stroke-width:1.6}
-.dial .trk-night{fill:#10283b}
-.dial .trk-day{fill:#1b3b54}
+.dial .trk-am{fill:#1d3f59}
+.dial .trk-pm{fill:#142f46}
+.dial .seam{stroke:var(--ink);stroke-width:1.4;stroke-dasharray:3 3;opacity:.55}
 .dial .arc-good{fill:var(--good)}
 .dial .arc-good-out{fill:var(--good);opacity:.4}
 .dial .salon-arc{fill:var(--ink);opacity:.85}
@@ -150,3 +151,5 @@ details.how ul{padding-left:1.1em}
 footer{margin-top:28px;color:var(--mut);font-size:.9rem;max-width:70ch}
 .msg{padding:14px;color:var(--mut)}
 @media(prefers-reduced-motion:no-preference){.cell,.upcoming li,.btn,.chip{transition:background .15s,border-color .15s}}
+
+.dcap{margin:8px 0 0;color:var(--mut);font-size:.82rem}

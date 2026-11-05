@@ -9,7 +9,7 @@ var SIGNS = {
 };
 var T = {
   ru: {
-    loc: 'ru-RU', nowLbl: 'Сейчас хорошее время', nextLbl: 'Ближайшее окно:', sunday: 'воскресенье', legOut: 'хорошее вне часов салона', legNew: 'новолуние', legFull: 'полнолуние', note: 'Научных данных о влиянии Луны на волосы нет: это традиция, а не доказанный эффект.', next: 'Следующее хорошее время', now: 'Сейчас хорошее время', until: 'до', none: 'Окон в выбранном периоде нет',
+    loc: 'ru-RU', nowLbl: 'Сейчас хорошее время', nextLbl: 'Ближайшее окно:', sunday: 'воскресенье', cap: 'Один оборот циферблата это день салона: с 8:00 до 20:00. Ночь не показана. От 8 до 12 стрелка идёт слева вверх, от 12 до 8 справа вниз.', rNight: 'Хорошее время есть только ночью, вне часов салона.', legOut: 'хорошее вне часов салона', legNew: 'новолуние', legFull: 'полнолуние', note: 'Научных данных о влиянии Луны на волосы нет: это традиция, а не доказанный эффект.', next: 'Следующее хорошее время', now: 'Сейчас хорошее время', until: 'до', none: 'Окон в выбранном периоде нет',
     growth: 'Рост', trim: 'Подрезка', moonIn: 'Луна в знаке', ldn: 'лунный день', book: 'Запись в салон', full: 'полное окно',
     add: 'Добавить в календарь', ics: 'Скачать .ics', show: 'Показать день', cal: 'Календарь', day: 'День', up: 'Ближайшие окна',
     today: 'Сегодня', legGood: 'хорошее время', legBad: 'лучше не стричься', legToday: 'сегодня',
@@ -30,7 +30,7 @@ var T = {
     wd: ['пн', 'вт', 'ср', 'чт', 'пт', 'сб', 'вс']
   },
   en: {
-    loc: 'en-US', nowLbl: 'Good time right now', nextLbl: 'Next window:', sunday: 'Sunday', legOut: 'good, outside salon hours', legNew: 'new moon', legFull: 'full moon', note: 'There is no scientific evidence that the Moon affects hair: this is a tradition, not a proven effect.', next: 'Next good time', now: 'Good time right now', until: 'until', none: 'No windows in this period',
+    loc: 'en-US', nowLbl: 'Good time right now', nextLbl: 'Next window:', sunday: 'Sunday', cap: 'One turn of the dial is the salon day, 8:00 AM to 8:00 PM. Night is not shown. From 8 to 12 the hand goes up the left side, from 12 to 8 down the right.', rNight: 'Good time exists only at night, outside salon hours.', legOut: 'good, outside salon hours', legNew: 'new moon', legFull: 'full moon', note: 'There is no scientific evidence that the Moon affects hair: this is a tradition, not a proven effect.', next: 'Next good time', now: 'Good time right now', until: 'until', none: 'No windows in this period',
     growth: 'Growth', trim: 'Trim', moonIn: 'Moon in', ldn: 'lunar day', book: 'Salon booking', full: 'full window',
     add: 'Add to calendar', ics: 'Download .ics', show: 'Show day', cal: 'Calendar', day: 'Day', up: 'Coming up',
     today: 'Today', legGood: 'good time', legBad: 'better not to cut', legToday: 'today',
@@ -93,7 +93,7 @@ function around(y) {
 function bookable(w) {   // w = [s,e,mode,ld,sign] -> list of [s,e] inside salon hours
   var out = [], key = keyOf(w[0]), last = keyOf(w[1] - 1);
   for (;;) {
-    var ms = midnight(key), a = Math.max(w[0], ms + OPEN * 60), b = Math.min(w[1], ms + CLOSE * 60);
+    var a = Math.max(w[0], at(key, OPEN)), b = Math.min(w[1], at(key, CLOSE));
     if (b - a >= MIN_BOOK) out.push([a, b]);
     if (key >= last) break; key = addDays(key, 1);
   }
@@ -127,8 +127,10 @@ function ldText(n) { return lang === 'ru' ? n + '-й лунный день' : 'l
 function modeName(m) { return m === 0 ? t().growth : t().trim; }
 
 /* ---------- arcs ---------- */
-function lmin(m, me) { if (m >= me) return 1440; var p = parts(m); return (+p.hour % 24) * 60 + +p.minute; }
-function ang(m, me) { return 2 * Math.PI * lmin(m, me) / 1440; }
+function lmin(m) { var p = parts(m); return (+p.hour % 24) * 60 + +p.minute; }
+function ang(m) { return 2 * Math.PI * lmin(m) / 720; }   // 12 h face, unwrapped: 8:00 -> 4pi/3 ... 20:00 -> 10pi/3
+function at(key, h) { var ms = midnight(key), L0 = ms + offset(ms), T = L0 + h * 60 - offset(ms); return L0 + h * 60 - offset(T); }
+function clipTo(list, lo, hi) { var o = []; list.forEach(function (x) { var s = Math.max(x.s, lo), e = Math.min(x.e, hi); if (e > s) o.push({ s: s, e: e, x: x.x }); }); return o; }
 function px(r, a) { return (r * Math.sin(a)).toFixed(2) + ' ' + (-r * Math.cos(a)).toFixed(2); }
 function dayBook(s, ms, me) {
   var out = [];
@@ -147,10 +149,10 @@ function bandArc(r0, r1, a0, a1, cls, title) {
   return '<path class="' + cls + '" d="M' + px(r1, a0) + 'A' + r1 + ' ' + r1 + ' 0 ' + large + ' 1 ' + px(r1, a1) + 'L' + px(r0, a1) + 'A' + r0 + ' ' + r0 + ' 0 ' + large + ' 0 ' + px(r0, a0) + 'Z">' + (title ? '<title>' + title + '</title>' : '') + '</path>';
 }
 function moonGlyph(cls, cx, cy) { return '<g class="' + cls + '"><circle class="mm-ring" cx="' + cx + '" cy="' + cy + '" r="4"/><circle class="mm-disc" cx="' + cx + '" cy="' + cy + '" r="2.4"/></g>'; }
-function micro(d, book, av, me, mk) {
+function micro(d, book, av, mk) {
   var h = '<svg viewBox="-20 -20 40 40" aria-hidden="true"><circle class="trk" r="15"/>';
-  av.forEach(function (o) { h += strokeArc(15, ang(o.s, me), ang(o.e, me), 'b'); });
-  book.forEach(function (o) { h += strokeArc(15, ang(o.a, me), ang(o.b, me), 'g'); });
+  av.forEach(function (o) { h += strokeArc(15, ang(o.s), ang(o.e), 'b'); });
+  book.forEach(function (o) { h += strokeArc(15, ang(o.a), ang(o.b), 'g'); });
   if (mk) h += moonGlyph(mk, 15.8, -15.8);
   return h + '<text class="num" y="0.5">' + d + '</text></svg>';
 }
@@ -204,41 +206,42 @@ function renderMonth() {
     for (var d = 1; d <= n; d++) {
       var k = y + '-' + pad(m) + '-' + pad(d), info = s.by[k];
       if (!info) { html += '<div class="cell out" aria-hidden="true"><span class="num">' + d + '</span></div>'; continue; }
-      var ms = midnight(k), me = midnight(addDays(k, 1)), book = dayBook(s, ms, me), av = overlap(s.avoid, ms, me), bad = 0;
+      var ms = midnight(k), me = midnight(addDays(k, 1)), book = dayBook(s, ms, me), av = clipTo(overlap(s.avoid, ms, me), at(k, OPEN), at(k, CLOSE)), bad = 0;
       av.forEach(function (o) { bad += o.e - o.s; });
       var pv = s.by[addDays(k, -1)], nx = s.by[addDays(k, 1)], mk = '', mkl = '';
       if (info.illum <= 3 && (!pv || info.illum <= pv.illum) && (!nx || info.illum < nx.illum)) { mk = 'mm-new'; mkl = ', ' + t().legNew; }
       else if (info.illum >= 97 && (!pv || info.illum >= pv.illum) && (!nx || info.illum > nx.illum)) { mk = 'mm-full'; mkl = ', ' + t().legFull; }
       var good = book.length > 0, cls = 'cell' + (k === todayKey ? ' today' : '') + (k === sel ? ' sel' : '');
-      var label = dateLabel(k, { weekday: 'long', day: 'numeric', month: 'long' }) + (good ? ', ' + t().legGood : '') + (bad >= 12 * 60 ? ', ' + t().legBad : '') + mkl;
-      html += '<button type="button" class="' + cls + '" data-k="' + k + '" aria-label="' + label + '"' + (k === sel ? ' aria-current="date"' : '') + '>' + micro(d, book, av, me, mk) + '</button>';
+      var label = dateLabel(k, { weekday: 'long', day: 'numeric', month: 'long' }) + (good ? ', ' + t().legGood : '') + (bad >= 6 * 60 ? ', ' + t().legBad : '') + mkl;
+      html += '<button type="button" class="' + cls + '" data-k="' + k + '" aria-label="' + label + '"' + (k === sel ? ' aria-current="date"' : '') + '>' + micro(d, book, av, mk) + '</button>';
     }
     $('grid').innerHTML = html;
     Array.prototype.forEach.call($('grid').querySelectorAll('button'), function (b) { b.onclick = function () { sel = b.getAttribute('data-k'); renderMonth(); renderDay().then(function () { if (innerWidth < 920) $('day').scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'nearest' }); }); }; });
   }).catch(function () { $('grid').innerHTML = '<div class="msg" style="grid-column:1/-1">' + (view.y < YMIN || view.y > YMAX ? t().outRange : t().offline) + '</div>'; });
 }
 
-/* ---------- the 24 h dial ---------- */
+/* ---------- the dial: one 12 h turn = the salon day, 8:00 to 20:00 ---------- */
 function dialSVG(o) {
-  var R0 = 112, R1 = 146, a, i, h = '';
-  var aOpen = 2 * Math.PI * OPEN / 24, aClose = 2 * Math.PI * CLOSE / 24, TAU = 2 * Math.PI;
-  h += '<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect class="hatch-bg" width="6" height="6"/><line class="hatch-ln" x1="0" y1="0" x2="0" y2="6"/></pattern></defs>';
-  h += '<defs><pattern id="dots" width="4" height="4" patternUnits="userSpaceOnUse"><rect class="dots-bg" width="4" height="4"/><circle class="dots-dot" cx="2" cy="2" r="1.1"/></pattern></defs>';
-  h += '<g class="dial-arcs">' + bandArc(R0, R1, 0, TAU, 'trk-night', '') + bandArc(R0, R1, aOpen, aClose, 'trk-day', '');
-  o.avoids.forEach(function (x) { var a0 = ang(x.s, o.me), a1 = ang(x.e, o.me); h += bandArc(R0, R1, a0, a1, 'arc-bad', o.avoidTitle(x)); });
-  o.goods.forEach(function (x) { h += bandArc(R0, R1, ang(x.s, o.me), ang(x.e, o.me), 'arc-good-out', t().legOut + ' ' + clock(x.x[0]) + ' - ' + clock(x.x[1])); });
-  o.book.forEach(function (x) { h += bandArc(R0, R1, ang(x.a, o.me), ang(x.b, o.me), 'arc-good', t().legGood + ' ' + clock(x.a) + ' - ' + clock(x.b)); });
-  h += bandArc(149, 154, aOpen, aClose, 'salon-arc', t().salon + ' ' + OPEN + ':00-' + CLOSE + ':00');
+  var R0 = 112, R1 = 146, TAU = 2 * Math.PI, a, i, h = '';
+  var a0 = ang(at(o.sel, OPEN)), aN = TAU, a1 = ang(at(o.sel, CLOSE));
+  h += '<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect class="hatch-bg" width="6" height="6"/><line class="hatch-ln" x1="0" y1="0" x2="0" y2="6"/></pattern>' +
+       '<pattern id="dots" width="4" height="4" patternUnits="userSpaceOnUse"><rect class="dots-bg" width="4" height="4"/><circle class="dots-dot" cx="2" cy="2" r="1.1"/></pattern></defs>';
+  h += '<g class="dial-arcs">' + bandArc(R0, R1, a0, aN, 'trk-am', '') + bandArc(R0, R1, aN, a1, 'trk-pm', '');
+  o.avoids.forEach(function (x) { h += bandArc(R0, R1, ang(x.s), ang(x.e), 'arc-bad', o.avoidTitle(x)); });
+  o.book.forEach(function (x) { h += bandArc(R0, R1, ang(x.a), ang(x.b), 'arc-good', t().legGood + ' ' + clock(x.a) + ' - ' + clock(x.b)); });
   h += '<circle class="guide" r="102"/><circle class="guide" r="90"/>';
-  if (o.rahu[1] > o.rahu[0]) h += bandArc(98, 106, ang(o.rahu[0], o.me), ang(o.rahu[1], o.me), 'arc-rahu', t().tlRahu + ' ' + clock(o.info.rahu[0]) + ' - ' + clock(o.info.rahu[1]));
-  o.vocs.forEach(function (x) { h += bandArc(86, 94, ang(x.s, o.me), ang(x.e, o.me), 'arc-voc', t().tlVoc); });
+  if (o.rahu[1] > o.rahu[0]) h += bandArc(98, 106, ang(o.rahu[0]), ang(o.rahu[1]), 'arc-rahu', t().tlRahu + ' ' + clock(o.info.rahu[0]) + ' - ' + clock(o.info.rahu[1]));
+  o.vocs.forEach(function (x) { h += bandArc(86, 94, ang(x.s), ang(x.e), 'arc-voc', t().tlVoc); });
   h += '</g>';
-  for (i = 0; i < 24; i++) {
-    a = TAU * i / 24; var mj = i % 3 === 0;
-    h += '<line class="tk' + (mj ? ' mj' : '') + '" x1="' + (158 * Math.sin(a)).toFixed(2) + '" y1="' + (-158 * Math.cos(a)).toFixed(2) + '" x2="' + ((mj ? 167 : 162) * Math.sin(a)).toFixed(2) + '" y2="' + (-(mj ? 167 : 162) * Math.cos(a)).toFixed(2) + '"/>';
-    if (mj) h += '<text class="hl' + (i % 6 === 0 ? ' mj' : '') + '" x="' + (183 * Math.sin(a)).toFixed(2) + '" y="' + (-183 * Math.cos(a)).toFixed(2) + '">' + pad(i) + '</text>';
+  h += '<line class="seam" x1="' + (80 * Math.sin(a0)).toFixed(2) + '" y1="' + (-80 * Math.cos(a0)).toFixed(2) + '" x2="' + (170 * Math.sin(a0)).toFixed(2) + '" y2="' + (-170 * Math.cos(a0)).toFixed(2) + '"/>';
+  for (i = 1; i <= 12; i++) {
+    a = TAU * i / 12;
+    h += '<line class="tk mj" x1="' + (158 * Math.sin(a)).toFixed(2) + '" y1="' + (-158 * Math.cos(a)).toFixed(2) + '" x2="' + (167 * Math.sin(a)).toFixed(2) + '" y2="' + (-167 * Math.cos(a)).toFixed(2) + '"/>';
+    var b2 = TAU * (i - 0.5) / 12;
+    h += '<line class="tk" x1="' + (158 * Math.sin(b2)).toFixed(2) + '" y1="' + (-158 * Math.cos(b2)).toFixed(2) + '" x2="' + (162 * Math.sin(b2)).toFixed(2) + '" y2="' + (-162 * Math.cos(b2)).toFixed(2) + '"/>';
+    h += '<text class="hl' + (i % 3 === 0 ? ' mj' : '') + '" x="' + (184 * Math.sin(a)).toFixed(2) + '" y="' + (-184 * Math.cos(a)).toFixed(2) + '">' + i + '</text>';
   }
-  if (o.nowHand != null) { a = ang(o.nowHand, o.me); h += '<line class="hand" x1="' + (70 * Math.sin(a)).toFixed(2) + '" y1="' + (-70 * Math.cos(a)).toFixed(2) + '" x2="' + (156 * Math.sin(a)).toFixed(2) + '" y2="' + (-156 * Math.cos(a)).toFixed(2) + '"/><circle class="hand-dot" cx="' + (156 * Math.sin(a)).toFixed(2) + '" cy="' + (-156 * Math.cos(a)).toFixed(2) + '" r="5.5"/>'; }
+  if (o.nowHand != null) { a = ang(o.nowHand); h += '<line class="hand" x1="' + (70 * Math.sin(a)).toFixed(2) + '" y1="' + (-70 * Math.cos(a)).toFixed(2) + '" x2="' + (156 * Math.sin(a)).toFixed(2) + '" y2="' + (-156 * Math.cos(a)).toFixed(2) + '"/><circle class="hand-dot" cx="' + (156 * Math.sin(a)).toFixed(2) + '" cy="' + (-156 * Math.cos(a)).toFixed(2) + '" r="5.5"/>'; }
   h += moon(o.info.illum, o.info.waxing, 30).replace('<svg ', '<svg x="-15" y="-60" ');
   h += '<text class="d-num" y="-4">' + +o.sel.slice(8) + '</text><text class="d-mon" y="26">' + dateLabel(o.sel, { month: 'short' }).replace('.', '') + '</text><text class="d-sub" y="44">' + ldText(o.info.ld) + '</text>';
   return '<svg class="dial" viewBox="-204 -204 408 408" role="img" aria-label="' + o.summary.replace(/"/g, '&quot;') + '">' + h + '</svg>';
@@ -249,8 +252,8 @@ function renderDay() {
     var info = s.by[sel];
     if (!info) { box.innerHTML = '<div class="msg">' + t().outRange + '</div>'; return; }
     var ms = midnight(sel), me = midnight(addDays(sel, 1));
-    var goods = overlap(s.good, ms, me), avoids = overlap(s.avoid, ms, me), vocs = overlap(s.voc, ms, me), book = dayBook(s, ms, me);
-    var rahu = [Math.max(info.rahu[0], ms), Math.min(info.rahu[1], me)], sun = weekday(sel) === 6;
+    var lo = at(sel, OPEN), hi = at(sel, CLOSE), goods = overlap(s.good, ms, me), avoids = clipTo(overlap(s.avoid, ms, me), lo, hi), vocs = clipTo(overlap(s.voc, ms, me), lo, hi), book = dayBook(s, ms, me);
+    var rahu = [Math.max(info.rahu[0], lo), Math.min(info.rahu[1], hi)], sun = weekday(sel) === 6;
     function avoidTitle(x) { return t().legBad + ': ' + (x.x[2] === 1 ? t().sunday : ldText(x.x[3])); }
     // text verdict rows
     var rows = '';
@@ -258,7 +261,8 @@ function renderDay() {
     avoids.forEach(function (x) { rows += '<li><i class="b"></i><div><b>' + t().badV + '</b> <span>' + (x.x[2] === 1 ? t().rBadSun : t().rBad(x.x[3])) + '</span></div></li>'; });
     if (!book.length && !avoids.length) {
       var reason;
-      if (ALLOWED_LD.indexOf(info.ld) < 0) reason = t().rLd(info.ld);
+      if (goods.length) reason = t().rNight;
+      else if (ALLOWED_LD.indexOf(info.ld) < 0) reason = t().rLd(info.ld);
       else if (GOOD_SIGNS.indexOf(info.sign) < 0 || (!info.waxing && info.sign === 9)) reason = t().rSign(SIGNS[lang][info.sign]);
       else reason = t().rCut;
       rows += '<li><i class="n"></i><div><b>' + t().neutV + '</b> <span>' + reason + '</span></div></li>';
@@ -267,9 +271,9 @@ function renderDay() {
     function stamp(m) { var k = keyOf(m); return (k === sel ? '' : dateLabel(k, { day: 'numeric', month: 'short' }) + ' ') + clock(m); }
     var vocTxt = vocs.length ? vocs.map(function (o) { return stamp(o.x[0]) + ' - ' + stamp(o.x[1]); }).join('; ') : t().none2;
     box.innerHTML = '<div class="dhead"><h3>' + dateLabel(sel, { weekday: 'long', day: 'numeric', month: 'long' }) + '</h3><span class="ph">' + (info.waxing ? t().wax : t().wan) + ', ' + info.illum + '%</span></div>' +
-      dialSVG({ sel: sel, info: info, me: me, goods: goods, book: book, avoids: avoids, vocs: vocs, rahu: rahu, nowHand: (sel === todayKey ? now : null), summary: summary, avoidTitle: avoidTitle }) +
-      '<ul class="verdict">' + rows + '</ul>' +
-      '<div class="legend"><span><i class="g"></i>' + t().legGood + '</span><span><i class="go"></i>' + t().legOut + '</span><span><i class="b"></i>' + t().legBad + '</span><span><i class="s"></i>' + t().salon + ' ' + OPEN + ':00-' + CLOSE + ':00</span><span><i class="r"></i>' + t().tlRahu + '</span><span><i class="v"></i>' + t().tlVoc + '</span></div>' +
+      dialSVG({ sel: sel, info: info, me: me, goods: goods, book: book, avoids: avoids, vocs: vocs, rahu: rahu, nowHand: (sel === todayKey && now >= lo && now <= hi ? now : null), summary: summary, avoidTitle: avoidTitle }) +
+      '<p class="dcap">' + t().cap + '</p><ul class="verdict">' + rows + '</ul>' +
+      '<div class="legend"><span><i class="g"></i>' + t().legGood + '</span><span><i class="b"></i>' + t().legBad + '</span><span><i class="r"></i>' + t().tlRahu + '</span><span><i class="v"></i>' + t().tlVoc + '</span></div>' +
       '<dl class="facts"><dt>' + t().ld + '</dt><dd>' + info.ld + '</dd><dt>' + t().sign + '</dt><dd>' + SIGNS[lang][info.sign] + '</dd><dt>' + t().rahu + '</dt><dd>' + clock(info.rahu[0]) + ' - ' + clock(info.rahu[1]) + '</dd><dt>' + t().voc + '</dt><dd>' + vocTxt + '</dd></dl>';
   }).catch(function () { box.innerHTML = '<div class="msg">' + t().offline + '</div>'; });
 }
