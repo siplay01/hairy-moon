@@ -9,7 +9,7 @@ var SIGNS = {
 };
 var T = {
   ru: {
-    loc: 'ru-RU', next: 'Следующее хорошее время', now: 'Сейчас хорошее время', until: 'до', none: 'Окон в выбранном периоде нет',
+    loc: 'ru-RU', nowLbl: 'Сейчас хорошее время', nextLbl: 'Ближайшее окно:', sunday: 'воскресенье', legOut: 'хорошее вне часов салона', legNew: 'новолуние', legFull: 'полнолуние', note: 'Научных данных о влиянии Луны на волосы нет: это традиция, а не доказанный эффект.', next: 'Следующее хорошее время', now: 'Сейчас хорошее время', until: 'до', none: 'Окон в выбранном периоде нет',
     growth: 'Рост', trim: 'Подрезка', moonIn: 'Луна в знаке', ldn: 'лунный день', book: 'Запись в салон', full: 'полное окно',
     add: 'Добавить в календарь', ics: 'Скачать .ics', show: 'Показать день', cal: 'Календарь', day: 'День', up: 'Ближайшие окна',
     today: 'Сегодня', legGood: 'хорошее время', legBad: 'лучше не стричься', legToday: 'сегодня',
@@ -30,7 +30,7 @@ var T = {
     wd: ['пн', 'вт', 'ср', 'чт', 'пт', 'сб', 'вс']
   },
   en: {
-    loc: 'en-US', next: 'Next good time', now: 'Good time right now', until: 'until', none: 'No windows in this period',
+    loc: 'en-US', nowLbl: 'Good time right now', nextLbl: 'Next window:', sunday: 'Sunday', legOut: 'good, outside salon hours', legNew: 'new moon', legFull: 'full moon', note: 'There is no scientific evidence that the Moon affects hair: this is a tradition, not a proven effect.', next: 'Next good time', now: 'Good time right now', until: 'until', none: 'No windows in this period',
     growth: 'Growth', trim: 'Trim', moonIn: 'Moon in', ldn: 'lunar day', book: 'Salon booking', full: 'full window',
     add: 'Add to calendar', ics: 'Download .ics', show: 'Show day', cal: 'Calendar', day: 'Day', up: 'Coming up',
     today: 'Today', legGood: 'good time', legBad: 'better not to cut', legToday: 'today',
@@ -115,10 +115,10 @@ function moon(illum, waxing, size) {
 
 /* ---------- state ---------- */
 var $ = function (id) { return document.getElementById(id); };
-var now, todayKey, view, sel;
+var now, todayKey, view, sel, autoSel = true;
 function initState() {
   now = Math.floor(Date.now() / 60000); todayKey = keyOf(now);
-  view = { y: +todayKey.slice(0, 4), m: +todayKey.slice(5, 7) }; sel = todayKey;
+  autoSel = true; view = { y: +todayKey.slice(0, 4), m: +todayKey.slice(5, 7) }; sel = todayKey;
   if (view.y < YMIN || (view.y === YMIN && view.m < 11)) { view.y = YMIN; view.m = 11; sel = '2026-11-05'; }
   if (view.y > YMAX) { view.y = YMAX; view.m = 12; sel = YMAX + '-12-15'; }
 }
@@ -126,26 +126,55 @@ function cityName(c) { return lang === 'ru' ? c.ru : c.en; }
 function ldText(n) { return lang === 'ru' ? n + '-й лунный день' : 'lunar day ' + n; }
 function modeName(m) { return m === 0 ? t().growth : t().trim; }
 
+/* ---------- arcs ---------- */
+function lmin(m, me) { if (m >= me) return 1440; var p = parts(m); return (+p.hour % 24) * 60 + +p.minute; }
+function ang(m, me) { return 2 * Math.PI * lmin(m, me) / 1440; }
+function px(r, a) { return (r * Math.sin(a)).toFixed(2) + ' ' + (-r * Math.cos(a)).toFixed(2); }
+function dayBook(s, ms, me) {
+  var out = [];
+  overlap(s.good, ms, me).forEach(function (o) { bookable(o.x).forEach(function (p) { var a = Math.max(p[0], ms), b = Math.min(p[1], me); if (b > a) out.push({ a: a, b: b, x: o.x }); }); });
+  return out;
+}
+function strokeArc(r, a0, a1, cls) {
+  if (a1 - a0 < 0.01) return '';
+  if (a1 - a0 > 2 * Math.PI - 0.01) return '<circle class="' + cls + '" r="' + r + '"/>';
+  return '<path class="' + cls + '" d="M' + px(r, a0) + 'A' + r + ' ' + r + ' 0 ' + (a1 - a0 > Math.PI ? 1 : 0) + ' 1 ' + px(r, a1) + '"/>';
+}
+function bandArc(r0, r1, a0, a1, cls, title) {
+  if (a1 - a0 < 0.004) return '';
+  if (a1 - a0 > 2 * Math.PI - 0.004) return bandArc(r0, r1, a0, a0 + Math.PI, cls, title) + bandArc(r0, r1, a0 + Math.PI, a1, cls, '');
+  var large = a1 - a0 > Math.PI ? 1 : 0;
+  return '<path class="' + cls + '" d="M' + px(r1, a0) + 'A' + r1 + ' ' + r1 + ' 0 ' + large + ' 1 ' + px(r1, a1) + 'L' + px(r0, a1) + 'A' + r0 + ' ' + r0 + ' 0 ' + large + ' 0 ' + px(r0, a0) + 'Z">' + (title ? '<title>' + title + '</title>' : '') + '</path>';
+}
+function moonGlyph(cls, cx, cy) { return '<g class="' + cls + '"><circle class="mm-ring" cx="' + cx + '" cy="' + cy + '" r="4"/><circle class="mm-disc" cx="' + cx + '" cy="' + cy + '" r="2.4"/></g>'; }
+function micro(d, book, av, me, mk) {
+  var h = '<svg viewBox="-20 -20 40 40" aria-hidden="true"><circle class="trk" r="15"/>';
+  av.forEach(function (o) { h += strokeArc(15, ang(o.s, me), ang(o.e, me), 'b'); });
+  book.forEach(function (o) { h += strokeArc(15, ang(o.a, me), ang(o.b, me), 'g'); });
+  if (mk) h += moonGlyph(mk, 15.8, -15.8);
+  return h + '<text class="num" y="0.5">' + d + '</text></svg>';
+}
+
 /* ---------- hero + upcoming ---------- */
 function stampWd(m) { return dateLabel(keyOf(m), { weekday: 'short' }) + ' ' + clock(m); }
 function renderHero() {
   var hero = $('hero');
   var y0 = Math.min(Math.max(+todayKey.slice(0, 4), YMIN), YMAX);
   return Promise.all([around(y0), around(Math.min(y0 + 1, YMAX))]).then(function (r) {
-    var pieces = [];
-    var seen = {};
+    var pieces = [], seen = {};
     r.forEach(function (s) { s.good.forEach(function (w) { if (seen[w[0]]) return; seen[w[0]] = 1; bookable(w).forEach(function (p) { pieces.push({ s: p[0], e: p[1], w: w }); }); }); });
     pieces.sort(function (a, b) { return a.s - b.s; });
-    var upc = pieces.filter(function (p) { return p.e > now; });
-    var first = upc[0];
+    var upc = pieces.filter(function (p) { return p.e > now; }), first = upc[0];
     if (!first) { hero.className = 'hero'; hero.innerHTML = '<div class="msg">' + t().none + '</div>'; $('upcoming').innerHTML = ''; return; }
-    var inside = first.s <= now;
-    var key = keyOf(first.s);
+    var inside = first.s <= now, key = keyOf(first.s), w = first.w;
+    if (autoSel) {   // first view: if today has nothing bookable, open the dial on the next good day
+      autoSel = false;
+      if (!dayBook(r[0], midnight(todayKey), midnight(addDays(todayKey, 1))).length && key !== sel) { sel = key; view.y = +key.slice(0, 4); view.m = +key.slice(5, 7); renderMonth().then(renderDay); }
+    }
     hero.className = 'hero' + (inside ? ' now' : '');
-    var w = first.w, sg = SIGNS[lang][w[4]];
-    var head = inside ? t().now + ' ' + t().until + ' ' + clock(first.e) : dateLabel(key, { weekday: 'long', day: 'numeric', month: 'long' }) + ', ' + clock(first.s) + ' - ' + clock(first.e);
-    hero.innerHTML = '<div class="kicker">' + (inside ? t().now : t().next) + '</div><h1>' + head + '</h1>' +
-      '<p class="sub">' + modeName(w[2]) + ' &middot; ' + t().moonIn + ' ' + sg + ' &middot; ' + ldText(w[3]) + '<br>' + t().full + ': ' + stampWd(w[0]) + ' - ' + stampWd(w[1]) + '</p>' +
+    var when = inside ? t().until + ' ' + clock(first.e) : dateLabel(key, { weekday: 'long', day: 'numeric', month: 'long' }) + ', ' + clock(first.s) + ' - ' + clock(first.e);
+    hero.innerHTML = '<h1><span>' + (inside ? t().nowLbl : t().nextLbl) + '</span> ' + when + '</h1>' +
+      '<p class="sub">' + modeName(w[2]) + ' &middot; ' + t().moonIn + ' ' + SIGNS[lang][w[4]] + ' &middot; ' + ldText(w[3]) + '. ' + t().full.charAt(0).toUpperCase() + t().full.slice(1) + ': ' + stampWd(w[0]) + ' - ' + stampWd(w[1]) + '</p>' +
       '<div class="actions"><a class="btn" id="sub" href="ics/' + CITY.key + '.ics">' + t().add + '</a><button class="btn ghost" id="showDay" type="button">' + t().show + '</button></div>';
     var h = location.protocol.indexOf('http') === 0 && !/^(localhost|127\.|\[::1\])/.test(location.hostname);
     if (h) $('sub').href = 'webcal://' + location.host + location.pathname.replace(/[^\/]*$/, '') + 'ics/' + CITY.key + '.ics';
@@ -153,7 +182,7 @@ function renderHero() {
     $('showDay').onclick = function () { goto(key); };
     $('upcoming').innerHTML = upc.slice(0, 8).map(function (p) {
       var k = keyOf(p.s);
-      return '<li data-k="' + k + '" tabindex="0"><span class="d">' + dateLabel(k, { weekday: 'short', day: 'numeric', month: 'short' }) + '<span class="badge">' + modeName(p.w[2]) + '</span></span><span class="t">' + clock(p.s) + ' - ' + clock(p.e) + '</span><span class="m">' + t().moonIn + ' ' + SIGNS[lang][p.w[4]] + ' &middot; ' + ldText(p.w[3]) + '</span></li>';
+      return '<li data-k="' + k + '" tabindex="0"><span class="dn"><b>' + +k.slice(8) + '</b><small>' + dateLabel(k, { weekday: 'short' }) + '</small></span><span class="t">' + clock(p.s) + ' - ' + clock(p.e) + '</span><span class="mode">' + modeName(p.w[2]) + '</span><span class="m">' + t().moonIn + ' ' + SIGNS[lang][p.w[4]] + ' &middot; ' + ldText(p.w[3]) + '</span></li>';
     }).join('');
     Array.prototype.forEach.call($('upcoming').children, function (li) {
       var go = function () { goto(li.getAttribute('data-k')); };
@@ -162,13 +191,7 @@ function renderHero() {
   }).catch(function () { hero.innerHTML = '<div class="msg">' + t().offline + '</div>'; });
 }
 
-/* ---------- month grid ---------- */
-function status(key, s) {
-  var ms = midnight(key), me = midnight(addDays(key, 1));
-  var g = 0; s.good.forEach(function (w) { bookable(w).forEach(function (p) { var a = Math.max(p[0], ms), b = Math.min(p[1], me); if (b > a) g += b - a; }); });
-  var bad = 0; overlap(s.avoid, ms, me).forEach(function (o) { bad += o.e - o.s; });
-  return { good: g >= MIN_BOOK, bad: bad >= 12 * 60 };
-}
+/* ---------- month of micro-dials ---------- */
 function renderMonth() {
   var y = view.y, m = view.m;
   var mt = new Date(Date.UTC(y, m - 1, 15)).toLocaleDateString(t().loc, { month: 'long', year: 'numeric', timeZone: 'UTC' }).replace(/\s*г\.$/, '');
@@ -180,52 +203,73 @@ function renderMonth() {
     for (var i = 0; i < lead; i++) html += '<div class="cell empty"></div>';
     for (var d = 1; d <= n; d++) {
       var k = y + '-' + pad(m) + '-' + pad(d), info = s.by[k];
-      if (!info) { html += '<div class="cell out"><span class="n">' + d + '</span></div>'; continue; }
-      var st = status(k, s), cls = 'cell' + (st.good ? ' good' : st.bad ? ' bad' : '') + (k === todayKey ? ' today' : '') + (k === sel ? ' sel' : '');
-      var mark = st.good ? '&#10003;' : st.bad ? '&times;' : '';
-      var label = dateLabel(k, { weekday: 'long', day: 'numeric', month: 'long' }) + (st.good ? ', ' + t().legGood : st.bad ? ', ' + t().legBad : '');
-      html += '<button type="button" class="' + cls + '" data-k="' + k + '" aria-label="' + label + '"' + (k === sel ? ' aria-current="date"' : '') + '><span class="n">' + d + '</span><span class="mark">' + mark + '</span></button>';
+      if (!info) { html += '<div class="cell out" aria-hidden="true"><span class="num">' + d + '</span></div>'; continue; }
+      var ms = midnight(k), me = midnight(addDays(k, 1)), book = dayBook(s, ms, me), av = overlap(s.avoid, ms, me), bad = 0;
+      av.forEach(function (o) { bad += o.e - o.s; });
+      var pv = s.by[addDays(k, -1)], nx = s.by[addDays(k, 1)], mk = '', mkl = '';
+      if (info.illum <= 3 && (!pv || info.illum <= pv.illum) && (!nx || info.illum < nx.illum)) { mk = 'mm-new'; mkl = ', ' + t().legNew; }
+      else if (info.illum >= 97 && (!pv || info.illum >= pv.illum) && (!nx || info.illum > nx.illum)) { mk = 'mm-full'; mkl = ', ' + t().legFull; }
+      var good = book.length > 0, cls = 'cell' + (k === todayKey ? ' today' : '') + (k === sel ? ' sel' : '');
+      var label = dateLabel(k, { weekday: 'long', day: 'numeric', month: 'long' }) + (good ? ', ' + t().legGood : '') + (bad >= 12 * 60 ? ', ' + t().legBad : '') + mkl;
+      html += '<button type="button" class="' + cls + '" data-k="' + k + '" aria-label="' + label + '"' + (k === sel ? ' aria-current="date"' : '') + '>' + micro(d, book, av, me, mk) + '</button>';
     }
     $('grid').innerHTML = html;
-    Array.prototype.forEach.call($('grid').querySelectorAll('button'), function (b) { b.onclick = function () { sel = b.getAttribute('data-k'); renderMonth(); renderDay().then(function () { if (innerWidth < 900) $('day').scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'nearest' }); }); }; });
+    Array.prototype.forEach.call($('grid').querySelectorAll('button'), function (b) { b.onclick = function () { sel = b.getAttribute('data-k'); renderMonth(); renderDay().then(function () { if (innerWidth < 920) $('day').scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'nearest' }); }); }; });
   }).catch(function () { $('grid').innerHTML = '<div class="msg" style="grid-column:1/-1">' + (view.y < YMIN || view.y > YMAX ? t().outRange : t().offline) + '</div>'; });
 }
 
-/* ---------- day panel ---------- */
-function pct(v, len) { return (100 * v / len).toFixed(2) + '%'; }
+/* ---------- the 24 h dial ---------- */
+function dialSVG(o) {
+  var R0 = 112, R1 = 146, a, i, h = '';
+  var aOpen = 2 * Math.PI * OPEN / 24, aClose = 2 * Math.PI * CLOSE / 24, TAU = 2 * Math.PI;
+  h += '<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect class="hatch-bg" width="6" height="6"/><line class="hatch-ln" x1="0" y1="0" x2="0" y2="6"/></pattern></defs>';
+  h += '<defs><pattern id="dots" width="4" height="4" patternUnits="userSpaceOnUse"><rect class="dots-bg" width="4" height="4"/><circle class="dots-dot" cx="2" cy="2" r="1.1"/></pattern></defs>';
+  h += '<g class="dial-arcs">' + bandArc(R0, R1, 0, TAU, 'trk-night', '') + bandArc(R0, R1, aOpen, aClose, 'trk-day', '');
+  o.avoids.forEach(function (x) { var a0 = ang(x.s, o.me), a1 = ang(x.e, o.me); h += bandArc(R0, R1, a0, a1, 'arc-bad', o.avoidTitle(x)); });
+  o.goods.forEach(function (x) { h += bandArc(R0, R1, ang(x.s, o.me), ang(x.e, o.me), 'arc-good-out', t().legOut + ' ' + clock(x.x[0]) + ' - ' + clock(x.x[1])); });
+  o.book.forEach(function (x) { h += bandArc(R0, R1, ang(x.a, o.me), ang(x.b, o.me), 'arc-good', t().legGood + ' ' + clock(x.a) + ' - ' + clock(x.b)); });
+  h += bandArc(149, 154, aOpen, aClose, 'salon-arc', t().salon + ' ' + OPEN + ':00-' + CLOSE + ':00');
+  h += '<circle class="guide" r="102"/><circle class="guide" r="90"/>';
+  if (o.rahu[1] > o.rahu[0]) h += bandArc(98, 106, ang(o.rahu[0], o.me), ang(o.rahu[1], o.me), 'arc-rahu', t().tlRahu + ' ' + clock(o.info.rahu[0]) + ' - ' + clock(o.info.rahu[1]));
+  o.vocs.forEach(function (x) { h += bandArc(86, 94, ang(x.s, o.me), ang(x.e, o.me), 'arc-voc', t().tlVoc); });
+  h += '</g>';
+  for (i = 0; i < 24; i++) {
+    a = TAU * i / 24; var mj = i % 3 === 0;
+    h += '<line class="tk' + (mj ? ' mj' : '') + '" x1="' + (158 * Math.sin(a)).toFixed(2) + '" y1="' + (-158 * Math.cos(a)).toFixed(2) + '" x2="' + ((mj ? 167 : 162) * Math.sin(a)).toFixed(2) + '" y2="' + (-(mj ? 167 : 162) * Math.cos(a)).toFixed(2) + '"/>';
+    if (mj) h += '<text class="hl' + (i % 6 === 0 ? ' mj' : '') + '" x="' + (183 * Math.sin(a)).toFixed(2) + '" y="' + (-183 * Math.cos(a)).toFixed(2) + '">' + pad(i) + '</text>';
+  }
+  if (o.nowHand != null) { a = ang(o.nowHand, o.me); h += '<line class="hand" x1="' + (70 * Math.sin(a)).toFixed(2) + '" y1="' + (-70 * Math.cos(a)).toFixed(2) + '" x2="' + (156 * Math.sin(a)).toFixed(2) + '" y2="' + (-156 * Math.cos(a)).toFixed(2) + '"/><circle class="hand-dot" cx="' + (156 * Math.sin(a)).toFixed(2) + '" cy="' + (-156 * Math.cos(a)).toFixed(2) + '" r="5.5"/>'; }
+  h += moon(o.info.illum, o.info.waxing, 30).replace('<svg ', '<svg x="-15" y="-60" ');
+  h += '<text class="d-num" y="-4">' + +o.sel.slice(8) + '</text><text class="d-mon" y="26">' + dateLabel(o.sel, { month: 'short' }).replace('.', '') + '</text><text class="d-sub" y="44">' + ldText(o.info.ld) + '</text>';
+  return '<svg class="dial" viewBox="-204 -204 408 408" role="img" aria-label="' + o.summary.replace(/"/g, '&quot;') + '">' + h + '</svg>';
+}
 function renderDay() {
   var y = +sel.slice(0, 4), box = $('day');
   return around(y).then(function (s) {
     var info = s.by[sel];
     if (!info) { box.innerHTML = '<div class="msg">' + t().outRange + '</div>'; return; }
-    var ms = midnight(sel), me = midnight(addDays(sel, 1)), len = me - ms;
-    var goods = overlap(s.good, ms, me), avoids = overlap(s.avoid, ms, me), vocs = overlap(s.voc, ms, me);
-    var book = []; goods.forEach(function (o) { bookable(o.x).forEach(function (p) { var a = Math.max(p[0], ms), b = Math.min(p[1], me); if (b > a) book.push({ a: a, b: b, x: o.x }); }); });
-    var rahu = [Math.max(info.rahu[0], ms), Math.min(info.rahu[1], me)];
-    var sun = weekday(sel) === 6, verdict = '', vcls = '';
-    if (book.length) {
-      vcls = 'good';
-      verdict = '<b>' + t().goodV + ':</b> ' + book.map(function (b) { return clock(b.a) + ' - ' + clock(b.b) + ' (' + modeName(b.x[2]) + ', ' + SIGNS[lang][b.x[4]] + ')'; }).join('; ');
-    } else {
+    var ms = midnight(sel), me = midnight(addDays(sel, 1));
+    var goods = overlap(s.good, ms, me), avoids = overlap(s.avoid, ms, me), vocs = overlap(s.voc, ms, me), book = dayBook(s, ms, me);
+    var rahu = [Math.max(info.rahu[0], ms), Math.min(info.rahu[1], me)], sun = weekday(sel) === 6;
+    function avoidTitle(x) { return t().legBad + ': ' + (x.x[2] === 1 ? t().sunday : ldText(x.x[3])); }
+    // text verdict rows
+    var rows = '';
+    book.forEach(function (b) { rows += '<li><i></i><div><b>' + clock(b.a) + ' - ' + clock(b.b) + '</b> <span>' + modeName(b.x[2]) + ' &middot; ' + SIGNS[lang][b.x[4]] + '</span></div></li>'; });
+    avoids.forEach(function (x) { rows += '<li><i class="b"></i><div><b>' + t().badV + '</b> <span>' + (x.x[2] === 1 ? t().rBadSun : t().rBad(x.x[3])) + '</span></div></li>'; });
+    if (!book.length && !avoids.length) {
       var reason;
-      if (sun) { reason = t().rBadSun; vcls = 'bad'; }
-      else if (avoids.length) { reason = t().rBad(avoids[0].x[3]); vcls = 'bad'; }
-      else if (ALLOWED_LD.indexOf(info.ld) < 0) reason = t().rLd(info.ld);
+      if (ALLOWED_LD.indexOf(info.ld) < 0) reason = t().rLd(info.ld);
       else if (GOOD_SIGNS.indexOf(info.sign) < 0 || (!info.waxing && info.sign === 9)) reason = t().rSign(SIGNS[lang][info.sign]);
       else reason = t().rCut;
-      verdict = '<b>' + (vcls === 'bad' ? t().badV : t().neutV) + '.</b> ' + reason;
+      rows += '<li><i class="n"></i><div><b>' + t().neutV + '</b> <span>' + reason + '</span></div></li>';
     }
-    var segs = '<div class="seg salon" style="left:' + pct(OPEN * 60, len) + ';width:' + pct((CLOSE - OPEN) * 60, len) + '" title="' + t().salon + '"></div>';
-    avoids.forEach(function (o) { segs += '<div class="seg b" style="left:' + pct(o.s - ms, len) + ';width:' + pct(o.e - o.s, len) + '"></div>'; });
-    goods.forEach(function (o) { segs += '<div class="seg g" style="left:' + pct(o.s - ms, len) + ';width:' + pct(o.e - o.s, len) + '"></div>'; });
-    vocs.forEach(function (o) { segs += '<div class="seg v" style="left:' + pct(o.s - ms, len) + ';width:' + pct(o.e - o.s, len) + '"></div>'; });
-    if (rahu[1] > rahu[0]) segs += '<div class="seg r" style="left:' + pct(rahu[0] - ms, len) + ';width:' + pct(rahu[1] - rahu[0], len) + '"></div>';
+    var summary = dateLabel(sel, { weekday: 'long', day: 'numeric', month: 'long' }) + '. ' + (book.length ? t().goodV + ': ' + book.map(function (b) { return clock(b.a) + ' - ' + clock(b.b); }).join(', ') : t().neutV) + (avoids.length ? '. ' + t().badV : '');
     function stamp(m) { var k = keyOf(m); return (k === sel ? '' : dateLabel(k, { day: 'numeric', month: 'short' }) + ' ') + clock(m); }
     var vocTxt = vocs.length ? vocs.map(function (o) { return stamp(o.x[0]) + ' - ' + stamp(o.x[1]); }).join('; ') : t().none2;
-    box.innerHTML = '<div class="dayhead">' + moon(info.illum, info.waxing, 44) + '<div><h3>' + dateLabel(sel, { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' }) + '</h3><div class="mut" style="color:var(--mut);font-size:.88rem">' + (info.waxing ? t().wax : t().wan) + ', ' + info.illum + '%</div></div></div>' +
-      '<div class="verdict ' + vcls + '">' + verdict + '</div>' +
-      '<div class="tl" role="img" aria-label="' + t().day + '">' + segs + '</div><div class="ax"><span>0</span><span>6</span><span>12</span><span>18</span><span>24</span></div>' +
-      '<div class="legend"><span><i style="background:var(--good)"></i>' + t().legGood + '</span><span><i style="background:var(--bad);opacity:.55"></i>' + t().legBad + '</span><span><i style="background:var(--warn)"></i>' + t().tlRahu + '</span><span><i style="background:var(--voc)"></i>' + t().tlVoc + '</span><span><i style="background:rgba(127,127,127,.25)"></i>' + t().salon + ' ' + OPEN + ':00-' + CLOSE + ':00</span></div>' +
+    box.innerHTML = '<div class="dhead"><h3>' + dateLabel(sel, { weekday: 'long', day: 'numeric', month: 'long' }) + '</h3><span class="ph">' + (info.waxing ? t().wax : t().wan) + ', ' + info.illum + '%</span></div>' +
+      dialSVG({ sel: sel, info: info, me: me, goods: goods, book: book, avoids: avoids, vocs: vocs, rahu: rahu, nowHand: (sel === todayKey ? now : null), summary: summary, avoidTitle: avoidTitle }) +
+      '<ul class="verdict">' + rows + '</ul>' +
+      '<div class="legend"><span><i class="g"></i>' + t().legGood + '</span><span><i class="go"></i>' + t().legOut + '</span><span><i class="b"></i>' + t().legBad + '</span><span><i class="s"></i>' + t().salon + ' ' + OPEN + ':00-' + CLOSE + ':00</span><span><i class="r"></i>' + t().tlRahu + '</span><span><i class="v"></i>' + t().tlVoc + '</span></div>' +
       '<dl class="facts"><dt>' + t().ld + '</dt><dd>' + info.ld + '</dd><dt>' + t().sign + '</dt><dd>' + SIGNS[lang][info.sign] + '</dd><dt>' + t().rahu + '</dt><dd>' + clock(info.rahu[0]) + ' - ' + clock(info.rahu[1]) + '</dd><dt>' + t().voc + '</dt><dd>' + vocTxt + '</dd></dl>';
   }).catch(function () { box.innerHTML = '<div class="msg">' + t().offline + '</div>'; });
 }
@@ -242,8 +286,8 @@ function renderStatic() {
   $('lang').textContent = lang === 'ru' ? 'EN' : 'RU';
   $('lang').setAttribute('aria-label', lang === 'ru' ? 'Switch to English' : 'Переключить на русский');
   $('hCal').textContent = t().cal; $('hDay').textContent = t().day; $('hUp').textContent = t().up;
-  $('today').textContent = t().today; $('hHow').textContent = t().hHow; $('how').innerHTML = t().how; $('foot').textContent = t().calc(cityName(CITY), TZ) + ' ' + t().foot; $('cityBtn').textContent = cityName(CITY); $('cityBtn').setAttribute('aria-label', t().city + ': ' + cityName(CITY)); $('citySearch').placeholder = t().search; $('locBtn').textContent = t().useLoc;
-  $('legend').innerHTML = '<span><i style="background:var(--good)"></i>&#10003; ' + t().legGood + '</span><span><i style="background:var(--bad);opacity:.6"></i>&times; ' + t().legBad + '</span><span><i style="background:var(--ink)"></i>' + t().legToday + '</span>';
+  $('today').textContent = t().today; $('hHow').textContent = t().hHow; $('how').innerHTML = t().how; $('foot').textContent = t().note + ' ' + t().calc(cityName(CITY), TZ) + ' ' + t().foot; $('cityBtn').textContent = cityName(CITY); $('cityBtn').setAttribute('aria-label', t().city + ': ' + cityName(CITY)); $('citySearch').placeholder = t().search; $('locBtn').textContent = t().useLoc;
+  $('legend').innerHTML = '<span><i class="g"></i>' + t().legGood + '</span><span><i class="b"></i>' + t().legBad + '</span><span><i class="t"></i>' + t().legToday + '</span><span><svg class="mm" viewBox="0 0 12 12" aria-hidden="true">' + moonGlyph('mm-new', 6, 6) + '</svg>' + t().legNew + '</span><span><svg class="mm" viewBox="0 0 12 12" aria-hidden="true">' + moonGlyph('mm-full', 6, 6) + '</svg>' + t().legFull + '</span>';
   $('logo').innerHTML = moon(55, 1, 28);
   document.title = lang === 'ru' ? 'Hairy Moon: когда стричься' : 'Hairy Moon: when to cut hair';
 }
