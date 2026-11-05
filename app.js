@@ -9,13 +9,13 @@ var SIGNS = {
 };
 var T = {
   ru: {
-    loc: 'ru-RU', nowLbl: 'Сейчас хорошее время', nextLbl: 'Ближайшее окно:', sunday: 'воскресенье',
-    tGood: function (r, m, sg, ld) { return 'Хорошее время ' + r + '. ' + m + ', Луна в знаке ' + sg + ', ' + ldText(ld) + '. Лунный день и знак подходят, Раху-калы и Луны без курса нет.'; },
-    tBadLd: function (r, ld) { return 'Лучше не стричься ' + r + '. ' + ldText(ld) + ': календарь не пускает этот день, а тибетский текст называет его плохим для стрижки.'; },
-    tBadSun: function (r) { return 'Лучше не стричься' + (r ? ' ' + r : '') + '. Воскресенье: календарь исключает его, индийский текст тоже считает его плохим.'; },
-    tRahu: function (r) { return 'Раху-кала ' + r + '. Неблагоприятный отрезок дня в индийской традиции, окна в это время вычитаются.'; },
-    tVoc: function (r) { return 'Луна без курса ' + r + '. Луна закончила последнее сближение с планетами и ждёт перехода в новый знак, окна в это время вычитаются.'; },
-    tNone: 'Окна нет. В этот час сочетание лунного дня и знака Луны не из подходящих.', cap: 'Один оборот часов это день салона: с 8:00 до 20:00, ночь не показана. Наведите на цветной сектор, чтобы узнать, что он значит.', rNight: 'Хорошее время есть только ночью, вне часов салона.', legOut: 'хорошее вне часов салона', legNew: 'новолуние', legFull: 'полнолуние', note: 'Научных данных о влиянии Луны на волосы нет: это традиция, а не доказанный эффект.', next: 'Следующее хорошее время', now: 'Сейчас хорошее время', until: 'до', none: 'Окон в выбранном периоде нет',
+    loc: 'ru-RU', legRim: 'ободок: окно / пунктир: не стричься', moonNoon: 'в полдень Луна в знаке', showBtn: 'Показать', addBtn: 'В календарь', todayNone: 'Сегодня окон нет', todayNow: function (e) { return 'Сегодня сейчас хорошее время до ' + e; }, todayLater: function (r) { return 'Сегодня ещё: ' + r; }, legHas: 'есть окно', legNo: 'нет окна', legAvoid: 'не стричься', prevDay: 'Предыдущий день', nextDay: 'Следующий день', closeL: 'Закрыть', nowLbl: 'Сейчас хорошее время', nextLbl: 'Ближайшее окно:', sunday: 'воскресенье',
+    tGood: function (r, m, sg, ld) { return '<b>Хорошее время</b> ' + r + '<br>' + m + ' · ' + sg + ' · ' + ldText(ld); },
+    tBadLd: function (r, ld) { return '<b>Не стричься</b> ' + r + '<br>' + ldText(ld) + ': календарь исключает, тибетский текст: плохо'; },
+    tBadSun: function (r) { return '<b>Не стричься</b>' + (r ? ' ' + r : '') + '<br>Воскресенье: исключено календарём и индийским текстом'; },
+    tRahu: function (r) { return '<b>Раху-кала</b> ' + r + '<br>Неблагоприятный отрезок дня (Индия), окна вычитаются'; },
+    tVoc: function (r) { return '<b>Луна без курса</b> ' + r + '<br>Луна ждёт входа в новый знак, окна вычитаются'; },
+    tNone: '<b>Окна нет</b><br>Лунный день или знак Луны сейчас не подходят', cap: 'Один оборот часов это день салона: с 8:00 до 20:00, ночь не показана. Наведите или коснитесь дуги, чтобы узнать, что она значит.', rNight: 'Хорошее время есть только ночью, вне часов салона.', legOut: 'хорошее вне часов салона', legNew: 'новолуние', legFull: 'полнолуние', note: 'Научных данных о влиянии Луны на волосы нет: это традиция, а не доказанный эффект.', next: 'Следующее хорошее время', now: 'Сейчас хорошее время', until: 'до', none: 'Окон в выбранном периоде нет',
     growth: 'Рост', trim: 'Подрезка', moonIn: 'Луна в знаке', ldn: 'лунный день', book: 'Запись в салон', full: 'полное окно',
     add: 'Добавить в календарь', ics: 'Скачать .ics', show: 'Показать день', cal: 'Календарь', day: 'День', up: 'Ближайшие окна',
     today: 'Сегодня', legGood: 'хорошее время', legBad: 'лучше не стричься', legToday: 'сегодня',
@@ -36,13 +36,13 @@ var T = {
     wd: ['пн', 'вт', 'ср', 'чт', 'пт', 'сб', 'вс']
   },
   en: {
-    loc: 'en-US', nowLbl: 'Good time right now', nextLbl: 'Next window:', sunday: 'Sunday',
-    tGood: function (r, m, sg, ld) { return 'Good time ' + r + '. ' + m + ', Moon in ' + sg + ', ' + ldText(ld) + '. The lunar day and sign fit, no Rahu Kala or void-of-course Moon.'; },
-    tBadLd: function (r, ld) { return 'Better not to cut ' + r + '. ' + ldText(ld) + ': the calendar excludes this day and the Tibetan text calls it bad for haircuts.'; },
-    tBadSun: function (r) { return 'Better not to cut' + (r ? ' ' + r : '') + '. Sunday: the calendar excludes it and the Indian text also calls it bad.'; },
-    tRahu: function (r) { return 'Rahu Kala ' + r + '. An inauspicious part of the day in the Indian tradition; windows are subtracted then.'; },
-    tVoc: function (r) { return 'Void-of-course Moon ' + r + '. The Moon has finished its last aspect and waits to enter a new sign; windows are subtracted then.'; },
-    tNone: 'No window. At this hour the lunar day and Moon sign are not on the allowed list.', cap: 'One turn of the clock is the salon day, 8:00 AM to 8:00 PM; night is not shown. Hover a coloured sector to see what it means.', rNight: 'Good time exists only at night, outside salon hours.', legOut: 'good, outside salon hours', legNew: 'new moon', legFull: 'full moon', note: 'There is no scientific evidence that the Moon affects hair: this is a tradition, not a proven effect.', next: 'Next good time', now: 'Good time right now', until: 'until', none: 'No windows in this period',
+    loc: 'en-US', legRim: 'rim: window / dashes: avoid', moonNoon: 'at noon the Moon is in', showBtn: 'Show', addBtn: 'Add to calendar', todayNone: 'No window today', todayNow: function (e) { return 'Good time right now until ' + e; }, todayLater: function (r) { return 'Later today: ' + r; }, legHas: 'has a window', legNo: 'no window', legAvoid: 'avoid', prevDay: 'Previous day', nextDay: 'Next day', closeL: 'Close', nowLbl: 'Good time right now', nextLbl: 'Next window:', sunday: 'Sunday',
+    tGood: function (r, m, sg, ld) { return '<b>Good time</b> ' + r + '<br>' + m + ' · ' + sg + ' · ' + ldText(ld); },
+    tBadLd: function (r, ld) { return '<b>Better not to cut</b> ' + r + '<br>' + ldText(ld) + ': the calendar excludes it, the Tibetan text says bad'; },
+    tBadSun: function (r) { return '<b>Better not to cut</b>' + (r ? ' ' + r : '') + '<br>Sunday: excluded by the calendar and the Indian text'; },
+    tRahu: function (r) { return '<b>Rahu Kala</b> ' + r + '<br>Inauspicious part of the day (India), windows are subtracted'; },
+    tVoc: function (r) { return '<b>Void-of-course Moon</b> ' + r + '<br>The Moon waits to enter a new sign, windows are subtracted'; },
+    tNone: '<b>No window</b><br>The lunar day or Moon sign does not fit right now', cap: 'One turn of the clock is the salon day, 8:00 AM to 8:00 PM; night is not shown. Hover or tap an arc to see what it means.', rNight: 'Good time exists only at night, outside salon hours.', legOut: 'good, outside salon hours', legNew: 'new moon', legFull: 'full moon', note: 'There is no scientific evidence that the Moon affects hair: this is a tradition, not a proven effect.', next: 'Next good time', now: 'Good time right now', until: 'until', none: 'No windows in this period',
     growth: 'Growth', trim: 'Trim', moonIn: 'Moon in', ldn: 'lunar day', book: 'Salon booking', full: 'full window',
     add: 'Add to calendar', ics: 'Download .ics', show: 'Show day', cal: 'Calendar', day: 'Day', up: 'Coming up',
     today: 'Today', legGood: 'good time', legBad: 'better not to cut', legToday: 'today',
@@ -64,7 +64,7 @@ var T = {
   }
 };
 var lang = 'ru';
-try { lang = localStorage.getItem('hm-lang') || (/^ru|^uk|^be/.test(navigator.language || '') ? 'ru' : 'en'); } catch (e) { lang = 'ru'; }
+try { lang = localStorage.getItem('hm-lang') || ((navigator.languages || [navigator.language || '']).some(function (l) { return /^(ru|uk|be|kk)/i.test(l); }) ? 'ru' : (/^en/i.test((navigator.languages || [navigator.language || ''])[0] || '') ? 'en' : 'ru')); } catch (e) { lang = 'ru'; }
 function t() { return T[lang]; }
 
 /* ---------- time in Los Angeles ---------- */
@@ -122,25 +122,29 @@ function moon(illum, waxing, size) {
   if (CITY && CITY.lat < 0) waxing = !waxing;   // southern hemisphere sees the lit side mirrored
   var r = 15, f = illum / 100, rx = Math.abs(1 - 2 * f) * r, sweep = (f < 0.5) ? 0 : 1;
   var d = 'M16 1 A15 15 0 0 1 16 31 A' + rx.toFixed(2) + ' 15 0 0 ' + sweep + ' 16 1 Z';
-  return '<svg width="' + size + '" height="' + size + '" viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15" fill="none" stroke="currentColor" stroke-opacity=".35"/><path d="' + d + '" fill="#e9e2cf" ' + (waxing ? '' : 'transform="translate(32 0) scale(-1 1)"') + '/></svg>';
+  return '<svg width="' + size + '" height="' + size + '" viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15" fill="#12263a" stroke="#9db4c4" stroke-opacity=".6"/><path d="' + d + '" fill="#e9e2cf" ' + (waxing ? '' : 'transform="translate(32 0) scale(-1 1)"') + '/></svg>';
 }
 
 /* ---------- state ---------- */
 var $ = function (id) { return document.getElementById(id); };
-var now, todayKey, view, sel, autoSel = true;
+var now, todayKey, view, sel, autoSel = true, sheetOpen = false;
+var ZOD = ['♈', '♉', '♊', '♋', '♌', '♍', '♎', '♏', '♐', '♑', '♒', '♓'].map(function (g) { return g + '︎'; });
+function desk() { return matchMedia('(min-width: 920px)').matches; }
 function initState() {
   now = Math.floor(Date.now() / 60000); todayKey = keyOf(now);
-  autoSel = true; view = { y: +todayKey.slice(0, 4), m: +todayKey.slice(5, 7) }; sel = todayKey;
+  autoSel = true; sheetOpen = false;
+  view = { y: +todayKey.slice(0, 4), m: +todayKey.slice(5, 7) }; sel = todayKey;
   if (view.y < YMIN || (view.y === YMIN && view.m < 11)) { view.y = YMIN; view.m = 11; sel = '2026-11-05'; }
   if (view.y > YMAX) { view.y = YMAX; view.m = 12; sel = YMAX + '-12-15'; }
 }
 function cityName(c) { return lang === 'ru' ? c.ru : c.en; }
 function ldText(n) { return lang === 'ru' ? n + '-й лунный день' : 'lunar day ' + n; }
 function modeName(m) { return m === 0 ? t().growth : t().trim; }
+function stampWd(m) { return dateLabel(keyOf(m), { weekday: 'short' }) + ' ' + clock(m); }
 
-/* ---------- arcs ---------- */
+/* ---------- arcs: one turn of the clock = OPEN..CLOSE (12 h) ---------- */
 function lmin(m) { var p = parts(m); return (+p.hour % 24) * 60 + +p.minute; }
-function ang(m) { return 2 * Math.PI * lmin(m) / 720; }   // 12 h face, unwrapped: 8:00 -> 4pi/3 ... 20:00 -> 10pi/3
+function ang(m) { return 2 * Math.PI * lmin(m) / 720; }   // unwrapped: 8:00 -> 4pi/3 ... 20:00 -> 10pi/3
 function at(key, h) { var ms = midnight(key), L0 = ms + offset(ms), T = L0 + h * 60 - offset(ms); return L0 + h * 60 - offset(T); }
 function clipTo(list, lo, hi) { var o = []; list.forEach(function (x) { var s = Math.max(x.s, lo), e = Math.min(x.e, hi); if (e > s) o.push({ s: s, e: e, x: x.x }); }); return o; }
 function px(r, a) { return (r * Math.sin(a)).toFixed(2) + ' ' + (-r * Math.cos(a)).toFixed(2); }
@@ -154,23 +158,27 @@ function strokeArc(r, a0, a1, cls) {
   if (a1 - a0 > 2 * Math.PI - 0.01) return '<circle class="' + cls + '" r="' + r + '"/>';
   return '<path class="' + cls + '" d="M' + px(r, a0) + 'A' + r + ' ' + r + ' 0 ' + (a1 - a0 > Math.PI ? 1 : 0) + ' 1 ' + px(r, a1) + '"/>';
 }
-function bandArc(r0, r1, a0, a1, cls, title) {
-  if (a1 - a0 < 0.004) return '';
-  if (a1 - a0 > 2 * Math.PI - 0.004) return bandArc(r0, r1, a0, a0 + Math.PI, cls, title) + bandArc(r0, r1, a0 + Math.PI, a1, cls, '');
-  var large = a1 - a0 > Math.PI ? 1 : 0;
-  return '<path class="' + cls + '" d="M' + px(r1, a0) + 'A' + r1 + ' ' + r1 + ' 0 ' + large + ' 1 ' + px(r1, a1) + 'L' + px(r0, a1) + 'A' + r0 + ' ' + r0 + ' 0 ' + large + ' 0 ' + px(r0, a0) + 'Z">' + (title ? '<title>' + title + '</title>' : '') + '</path>';
-}
 function moonGlyph(cls, cx, cy) { return '<g class="' + cls + '"><circle class="mm-ring" cx="' + cx + '" cy="' + cy + '" r="4"/><circle class="mm-disc" cx="' + cx + '" cy="' + cy + '" r="2.4"/></g>'; }
-function micro(d, book, av, mk) {
-  var h = '<svg viewBox="-20 -20 40 40" aria-hidden="true"><circle class="trk" r="15"/>';
-  av.forEach(function (o) { h += strokeArc(15, ang(o.s), ang(o.e), 'b'); });
-  book.forEach(function (o) { h += strokeArc(15, ang(o.a), ang(o.b), 'g'); });
+function micro(d, book, av, mk, rim) {
+  var h = '<svg viewBox="-20 -20 40 40" aria-hidden="true">';
+  if (rim) {
+    h += '<circle class="trk" r="15"/>';
+    av.forEach(function (o) { h += strokeArc(15, ang(o.s), ang(o.e), 'b'); });
+    book.forEach(function (o) { h += strokeArc(15, ang(o.a), ang(o.b), 'g'); });
+  }
   if (mk) h += moonGlyph(mk, 15.8, -15.8);
   return h + '<text class="num" y="0.5">' + d + '</text></svg>';
 }
+function moonOf(s) { var i = s.by[todayKey] || s.by[Object.keys(s.by)[0]]; return i ? moon(i.illum, i.waxing, 92) : ''; }
 
-/* ---------- hero + upcoming ---------- */
-function stampWd(m) { return dateLabel(keyOf(m), { weekday: 'short' }) + ' ' + clock(m); }
+/* ---------- strip (next window) + upcoming ---------- */
+function todayLine(s) {
+  if (!s.by[todayKey]) return '';
+  var b = dayBook(s, midnight(todayKey), midnight(addDays(todayKey, 1))).filter(function (x) { return x.b > now; });
+  if (!b.length) return t().todayNone;
+  var cur = b.filter(function (x) { return x.a <= now; })[0];
+  return cur ? t().todayNow(clock(cur.b)) : t().todayLater(clock(b[0].a) + ' - ' + clock(b[0].b));
+}
 function renderHero() {
   var hero = $('hero');
   var y0 = Math.min(Math.max(+todayKey.slice(0, 4), YMIN), YMAX);
@@ -179,33 +187,32 @@ function renderHero() {
     r.forEach(function (s) { s.good.forEach(function (w) { if (seen[w[0]]) return; seen[w[0]] = 1; bookable(w).forEach(function (p) { pieces.push({ s: p[0], e: p[1], w: w }); }); }); });
     pieces.sort(function (a, b) { return a.s - b.s; });
     var upc = pieces.filter(function (p) { return p.e > now; }), first = upc[0];
-    if (!first) { hero.className = 'hero'; hero.innerHTML = '<div class="msg">' + t().none + '</div>'; $('upcoming').innerHTML = ''; return; }
+    if (!first) { hero.innerHTML = '<div class="msg">' + t().none + '</div>'; $('upcoming').innerHTML = ''; return; }
     var inside = first.s <= now, key = keyOf(first.s), w = first.w;
-    if (autoSel) {   // first view: if today has nothing bookable, open the dial on the next good day
+    if (autoSel && desk()) {   // desktop first view: if today has nothing bookable, open the clock on the next good day
       autoSel = false;
       if (!dayBook(r[0], midnight(todayKey), midnight(addDays(todayKey, 1))).length && key !== sel) { sel = key; view.y = +key.slice(0, 4); view.m = +key.slice(5, 7); renderMonth().then(renderDay); }
     }
-    hero.className = 'hero' + (inside ? ' now' : '');
-    var when = inside ? t().until + ' ' + clock(first.e) : dateLabel(key, { weekday: 'long', day: 'numeric', month: 'long' }) + ', ' + clock(first.s) + ' - ' + clock(first.e);
-    hero.innerHTML = '<h1><span>' + (inside ? t().nowLbl : t().nextLbl) + '</span> ' + when + '</h1>' +
-      '<p class="sub">' + modeName(w[2]) + ' &middot; ' + t().moonIn + ' ' + SIGNS[lang][w[4]] + ' &middot; ' + ldText(w[3]) + '. ' + t().full.charAt(0).toUpperCase() + t().full.slice(1) + ': ' + stampWd(w[0]) + ' - ' + stampWd(w[1]) + '</p>' +
-      '<div class="actions"><a class="btn" id="sub" href="ics/' + CITY.key + '.ics">' + t().add + '</a><button class="btn ghost" id="showDay" type="button">' + t().show + '</button></div>';
+    var l1 = inside ? '<span>' + t().nowLbl + '</span> ' + t().until + ' ' + clock(first.e) : '<span>' + t().nextLbl + '</span> ' + dateLabel(key, { weekday: 'short', day: 'numeric', month: 'short' }) + ', <span class="nw" style="color:inherit;font-weight:inherit">' + clock(first.s) + ' - ' + clock(first.e) + '</span>';
+    hero.innerHTML = '<svg class="scis" viewBox="0 0 32 32" aria-hidden="true"><circle cx="8" cy="25" r="4.4"/><circle cx="24" cy="25" r="4.4"/><path class="bl" d="M10.4 21 25 4"/><path class="bl bl2" d="M21.6 21 7 4"/></svg>' +
+      '<div class="st"><div class="l1">' + l1 + '</div><div class="l2">' + todayLine(r[0]) + '</div></div><div class="smoon" aria-hidden="true">' + moonOf(r[0]) + '</div>' +
+      '<div class="sa"><button class="btn sm" id="showDay" type="button">' + t().showBtn + ' ' + dateLabel(key, { day: 'numeric', month: 'long' }) + '</button><a class="btn ghost sm" id="sub" href="ics/' + CITY.key + '.ics">' + t().addBtn + '</a></div>';
     var h = location.protocol.indexOf('http') === 0 && !/^(localhost|127\.|\[::1\])/.test(location.hostname);
     if (h) $('sub').href = 'webcal://' + location.host + location.pathname.replace(/[^\/]*$/, '') + 'ics/' + CITY.key + '.ics';
     else $('sub').setAttribute('download', 'hairy-moon-' + CITY.key + '.ics');
-    $('showDay').onclick = function () { goto(key); };
+    $('showDay').onclick = function () { selectDay(key); };
     $('upcoming').innerHTML = upc.slice(0, 8).map(function (p) {
       var k = keyOf(p.s);
       return '<li data-k="' + k + '" tabindex="0"><span class="dn"><b>' + +k.slice(8) + '</b><small>' + dateLabel(k, { weekday: 'short' }) + '</small></span><span class="t">' + clock(p.s) + ' - ' + clock(p.e) + '</span><span class="mode">' + modeName(p.w[2]) + '</span><span class="m">' + t().moonIn + ' ' + SIGNS[lang][p.w[4]] + ' &middot; ' + ldText(p.w[3]) + '</span></li>';
     }).join('');
     Array.prototype.forEach.call($('upcoming').children, function (li) {
-      var go = function () { goto(li.getAttribute('data-k')); };
+      var go = function () { selectDay(li.getAttribute('data-k')); };
       li.onclick = go; li.onkeydown = function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); go(); } };
     });
   }).catch(function () { hero.innerHTML = '<div class="msg">' + t().offline + '</div>'; });
 }
 
-/* ---------- month of micro-dials ---------- */
+/* ---------- month: every day is tinted, good days carry a rim of bookable time ---------- */
 function renderMonth() {
   var y = view.y, m = view.m;
   var mt = new Date(Date.UTC(y, m - 1, 15)).toLocaleDateString(t().loc, { month: 'long', year: 'numeric', timeZone: 'UTC' }).replace(/\s*г\.$/, '');
@@ -217,67 +224,77 @@ function renderMonth() {
     for (var i = 0; i < lead; i++) html += '<div class="cell empty"></div>';
     for (var d = 1; d <= n; d++) {
       var k = y + '-' + pad(m) + '-' + pad(d), info = s.by[k];
-      if (!info) { html += '<div class="cell out" aria-hidden="true"><span class="num">' + d + '</span></div>'; continue; }
+      if (!info) { html += '<div class="cell out" aria-hidden="true"><svg viewBox="-20 -20 40 40"><text class="num" y="0.5">' + d + '</text></svg></div>'; continue; }
       var ms = midnight(k), me = midnight(addDays(k, 1)), book = dayBook(s, ms, me), av = clipTo(overlap(s.avoid, ms, me), at(k, OPEN), at(k, CLOSE)), bad = 0;
       av.forEach(function (o) { bad += o.e - o.s; });
+      var good = book.length > 0, state = good ? 'good' : bad >= 6 * 60 ? 'bad' : 'none';
       var pv = s.by[addDays(k, -1)], nx = s.by[addDays(k, 1)], mk = '', mkl = '';
       if (info.illum <= 3 && (!pv || info.illum <= pv.illum) && (!nx || info.illum < nx.illum)) { mk = 'mm-new'; mkl = ', ' + t().legNew; }
       else if (info.illum >= 97 && (!pv || info.illum >= pv.illum) && (!nx || info.illum > nx.illum)) { mk = 'mm-full'; mkl = ', ' + t().legFull; }
-      var good = book.length > 0, cls = 'cell' + (k === todayKey ? ' today' : '') + (k === sel ? ' sel' : '');
-      var label = dateLabel(k, { weekday: 'long', day: 'numeric', month: 'long' }) + (good ? ', ' + t().legGood : '') + (bad >= 6 * 60 ? ', ' + t().legBad : '') + mkl;
-      html += '<button type="button" class="' + cls + '" data-k="' + k + '" aria-label="' + label + '"' + (k === sel ? ' aria-current="date"' : '') + '>' + micro(d, book, av, mk) + '</button>';
+      var isSel = k === sel && (sheetOpen || desk());
+      var cls = 'cell ' + state + (k === todayKey ? ' today' : '') + (isSel ? ' sel' : '');
+      var label = dateLabel(k, { weekday: 'long', day: 'numeric', month: 'long' }) + ', ' + (good ? t().legHas : state === 'bad' ? t().legAvoid : t().legNo) + mkl;
+      html += '<button type="button" class="' + cls + '" data-k="' + k + '" aria-label="' + label + '"' + (isSel ? ' aria-current="date"' : '') + '>' + micro(d, book, av, mk, good) + '</button>';
     }
     $('grid').innerHTML = html;
-    Array.prototype.forEach.call($('grid').querySelectorAll('button'), function (b) { b.onclick = function () { sel = b.getAttribute('data-k'); renderMonth(); renderDay().then(function () { if (innerWidth < 920) $('day').scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'nearest' }); }); }; });
+    Array.prototype.forEach.call($('grid').querySelectorAll('button'), function (b) { b.onclick = function () { selectDay(b.getAttribute('data-k')); }; });
   }).catch(function () { $('grid').innerHTML = '<div class="msg" style="grid-column:1/-1">' + (view.y < YMIN || view.y > YMAX ? t().outRange : t().offline) + '</div>'; });
 }
 
 /* ---------- the clock: one 12 h turn = the salon day, 8:00 to 20:00 ---------- */
-function pie(a0, a1, r, cls, a, b) {
+function arcPath(r, a0, a1) { return 'M' + px(r, a0) + 'A' + r + ' ' + r + ' 0 ' + (a1 - a0 > Math.PI ? 1 : 0) + ' 1 ' + px(r, a1); }
+function dArc(r, a0, a1, w, cls, A, B) {
+  var TAU = 2 * Math.PI, at_ = ' data-a="' + A + '" data-b="' + B + '" stroke-width="' + w + '"';
   if (a1 - a0 < 0.004) return '';
-  if (a1 - a0 > 2 * Math.PI - 0.004) return pie(a0, a0 + Math.PI, r, cls, a, b) + pie(a0 + Math.PI, a1, r, cls, a, b);
-  return '<path class="' + cls + '" data-a="' + a + '" data-b="' + b + '" d="M0 0L' + px(r, a0) + 'A' + r + ' ' + r + ' 0 ' + (a1 - a0 > Math.PI ? 1 : 0) + ' 1 ' + px(r, a1) + 'Z"/>';
+  if (a1 - a0 > TAU - 0.004) return '<circle class="arc ' + cls + '"' + at_ + ' r="' + r + '"/>';
+  var half = (w / 2) / r * 0.8, rc = (a1 - a0) > 2 * half + 0.05, s0 = rc ? a0 + half : a0, s1 = rc ? a1 - half : a1;
+  return '<path class="arc ' + cls + (rc ? ' rc' : '') + '"' + at_ + ' d="' + arcPath(r, s0, s1) + '"/>';
 }
 function dialSVG(o) {
   var TAU = 2 * Math.PI, a, i, h = '', S = function (v) { return v.toFixed(2); };
   var a0 = ang(at(o.sel, OPEN));
   h += '<defs>' +
-    '<linearGradient id="bz" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dfe9ef"/><stop offset=".35" stop-color="#7f95a6"/><stop offset=".6" stop-color="#2c3f4e"/><stop offset="1" stop-color="#a9bccb"/></linearGradient>' +
-    '<linearGradient id="bzi" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#d3dfe7"/><stop offset=".5" stop-color="#3b5163"/><stop offset="1" stop-color="#0d1b27"/></linearGradient>' +
-    '<radialGradient id="face" cx=".42" cy=".36" r=".8"><stop offset="0" stop-color="#1c3b55"/><stop offset=".7" stop-color="#0d2336"/><stop offset="1" stop-color="#07131f"/></radialGradient>' +
-    '<radialGradient id="gGood" cx="0" cy="0" r="126" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1b8a69"/><stop offset=".7" stop-color="#34c796"/><stop offset="1" stop-color="#58e6b6"/></radialGradient>' +
-    '<linearGradient id="hand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8fa4b3"/><stop offset=".5" stop-color="#f4f8fa"/><stop offset="1" stop-color="#7d93a3"/></linearGradient>' +
+    '<linearGradient id="bz" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e4edf2"/><stop offset=".33" stop-color="#7f95a6"/><stop offset=".62" stop-color="#2a3d4c"/><stop offset="1" stop-color="#b3c5d2"/></linearGradient>' +
+    '<linearGradient id="bzi" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#d9e4eb"/><stop offset=".5" stop-color="#3a5063"/><stop offset="1" stop-color="#0b1824"/></linearGradient>' +
+    '<radialGradient id="face" cx=".42" cy=".34" r=".85"><stop offset="0" stop-color="#1f4260"/><stop offset=".62" stop-color="#0d2438"/><stop offset="1" stop-color="#06121d"/></radialGradient>' +
+    '<linearGradient id="gGoodS" gradientUnits="userSpaceOnUse" x1="-140" y1="-140" x2="140" y2="140"><stop offset="0" stop-color="#1f9d77"/><stop offset=".5" stop-color="#4fe0b0"/><stop offset="1" stop-color="#2fbf92"/></linearGradient>' +
+    '<linearGradient id="hand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8fa4b3"/><stop offset=".5" stop-color="#f6f9fb"/><stop offset="1" stop-color="#7d93a3"/></linearGradient>' +
     '<radialGradient id="cap" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#fff"/><stop offset=".5" stop-color="#9db0bd"/><stop offset="1" stop-color="#3a4f60"/></radialGradient>' +
     '<linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".30"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>' +
     '<pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect class="hatch-bg" width="7" height="7"/><line class="hatch-ln" x1="0" y1="0" x2="0" y2="7"/></pattern>' +
-    '<pattern id="dots" width="4" height="4" patternUnits="userSpaceOnUse"><rect class="dots-bg" width="4" height="4"/><circle class="dots-dot" cx="2" cy="2" r="1.1"/></pattern>' +
     '<filter id="drop" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="6" stdDeviation="7" flood-color="#000" flood-opacity=".55"/></filter>' +
     '<filter id="hshadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="2" dy="3" stdDeviation="2.2" flood-color="#000" flood-opacity=".55"/></filter>' +
+    '<filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur in="SourceGraphic" stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>' +
     '<filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" seed="4"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .55 -.16"/></filter>' +
     '<clipPath id="faceclip"><circle r="190"/></clipPath></defs>';
-  h += '<g filter="url(#drop)"><circle r="207" fill="url(#bz)"/><circle r="196" fill="url(#bzi)"/></g><circle r="190" fill="url(#face)"/>';
-  h += '<rect x="-190" y="-190" width="380" height="380" filter="url(#grain)" clip-path="url(#faceclip)" opacity=".5"/>';
-  h += '<g class="dial-arcs">';
-  o.avoids.forEach(function (x) { h += pie(ang(x.s), ang(x.e), 126, 'arc-bad', x.s, x.e); });
-  o.book.forEach(function (x) { h += pie(ang(x.a), ang(x.b), 126, 'arc-good', x.a, x.b); });
-  h += '<circle class="guide" r="127"/>';
-  if (o.rahu[1] > o.rahu[0]) h += bandArc(130, 138, ang(o.rahu[0]), ang(o.rahu[1]), 'arc-rahu', '');
-  o.vocs.forEach(function (x) { h += bandArc(141, 149, ang(x.s), ang(x.e), 'arc-voc', ''); });
-  h += '</g><circle class="guide" r="150"/>';
-  h += '<line class="seam" x1="' + S(34 * Math.sin(a0)) + '" y1="' + S(-34 * Math.cos(a0)) + '" x2="' + S(126 * Math.sin(a0)) + '" y2="' + S(-126 * Math.cos(a0)) + '"/>';
+  h += '<g filter="url(#drop)"><circle r="207" fill="url(#bz)"/><circle r="197" fill="url(#bzi)"/></g><circle r="191" fill="url(#face)"/>';
+  h += '<rect x="-191" y="-191" width="382" height="382" filter="url(#grain)" clip-path="url(#faceclip)" opacity=".5"/>';
+  for (i = 0; i < 12; i++) { var ga = TAU * i / 12; h += '<line class="guil" x1="' + S(22 * Math.sin(ga)) + '" y1="' + S(-22 * Math.cos(ga)) + '" x2="' + S(112 * Math.sin(ga)) + '" y2="' + S(-112 * Math.cos(ga)) + '"/>'; }
+  for (i = 26; i <= 86; i += 6) h += '<circle class="guil" r="' + i + '"/>';
+  h += '<circle class="groove" r="131"/><circle class="groove2" r="131"/><circle class="edge" r="114.5"/><circle class="edge" r="147.5"/>';
+  h += '<g class="sweep">';
+  o.avoids.forEach(function (x) { h += dArc(131, ang(x.s), ang(x.e), 21, 'arc-bad-base', x.s, x.e) + dArc(131, ang(x.s), ang(x.e), 21, 'arc-bad', x.s, x.e); });
+  h += '<g filter="url(#glow)">';
+  o.book.forEach(function (x) { h += dArc(131, ang(x.a), ang(x.b), 21, 'arc-good', x.a, x.b); });
+  h += '</g>';
+  o.book.forEach(function (x) { h += dArc(138, ang(x.a), ang(x.b), 3, 'hilite', x.a, x.b); });
+  if (o.rahu[1] > o.rahu[0]) h += dArc(108, ang(o.rahu[0]), ang(o.rahu[1]), 6, 'arc-rahu', o.rahu[0], o.rahu[1]);
+  o.vocs.forEach(function (x) { h += dArc(98, ang(x.s), ang(x.e), 5, 'arc-voc', x.s, x.e); });
+  h += '</g>';
   for (i = 0; i < 60; i++) {
     a = TAU * i / 60; var hr = i % 5 === 0, r0 = hr ? 177 : 181, r1 = 187;
     h += '<line class="tk' + (hr ? ' mj' : '') + '" x1="' + S(r0 * Math.sin(a)) + '" y1="' + S(-r0 * Math.cos(a)) + '" x2="' + S(r1 * Math.sin(a)) + '" y2="' + S(-r1 * Math.cos(a)) + '"/>';
   }
   for (i = 1; i <= 12; i++) { a = TAU * i / 12; h += '<text class="hl' + (i % 3 === 0 ? ' mj' : '') + '" x="' + S(163 * Math.sin(a)) + '" y="' + S(-163 * Math.cos(a)) + '">' + i + '</text>'; }
-  h += '<circle class="sub" cx="0" cy="84" r="30"/>' + moon(o.info.illum, o.info.waxing, 38).replace('<svg ', '<svg x="-19" y="65" ');
-  h += '<rect class="win" x="74" y="-15" width="46" height="30" rx="5"/><text class="win-n" x="97" y="1">' + +o.sel.slice(8) + '</text>';
+  h += '<text class="zod" x="0" y="-52">' + ZOD[o.info.sign] + '</text>';
+  h += '<circle class="sub" cx="0" cy="58" r="21"/>' + moon(o.info.illum, o.info.waxing, 34).replace('<svg ', '<svg x="-17" y="41" ');
+  h += '<rect class="win" x="41" y="-11" width="34" height="22" rx="4"/><text class="win-n" x="58" y="1">' + +o.sel.slice(8) + '</text>';
   h += '<line id="ghost" class="ghost" x1="0" y1="0" x2="0" y2="-140" visibility="hidden"/>';
   if (o.nowHand != null) {
     var lm = lmin(o.nowHand);
-    h += '<g filter="url(#hshadow)"><g transform="rotate(' + S((lm % 720) / 2) + ')"><path class="hh" d="M-5.5 16 L-3.4 -88 L0 -100 L3.4 -88 L5.5 16Z"/></g><g transform="rotate(' + S((lm % 60) * 6) + ')"><path class="hh" d="M-3.6 20 L-2 -138 L0 -150 L2 -138 L3.6 20Z"/></g></g>';
+    h += '<g filter="url(#hshadow)"><g transform="rotate(' + S((lm % 720) / 2) + ')"><path class="hh" d="M-5 16 L-3.2 -80 L0 -94 L3.2 -80 L5 16Z"/></g><g transform="rotate(' + S((lm % 60) * 6) + ')"><path class="hh" d="M-3.4 20 L-1.9 -122 L0 -138 L1.9 -122 L3.4 20Z"/></g></g>';
   }
-  h += '<circle class="cap" r="9.5"/><circle r="3" fill="#0b1b29"/>';
+  h += o.nowHand != null ? '<circle class="cap" r="9"/><circle r="2.8" fill="#0b1b29"/>' : '<circle class="pin" r="4.5"/>';
   h += '<path d="M-150 -96 A190 190 0 0 1 150 -96 Q0 -38 -150 -96Z" fill="url(#gloss)" clip-path="url(#faceclip)" pointer-events="none"/>';
   return '<svg class="dial" id="dialsvg" viewBox="-212 -212 424 424" tabindex="0" role="group" aria-label="' + o.summary.replace(/"/g, '&quot;') + '">' + h + '</svg>';
 }
@@ -294,16 +311,17 @@ function layersAt(c, m) {
 }
 function attachDial(box, c) {
   var svg = box.querySelector('#dialsvg'), tip = box.querySelector('.tip'), ghost = svg.querySelector('#ghost'), kb = null;
-  function show(theta, px_, py_) {
+  function show(theta, px_, py_, touch) {
     var cm = theta * 720 / (2 * Math.PI), tt = cm >= 480 ? cm : cm + 720, m = at(sel, tt / 60);
     var ls = layersAt(c, m);
     tip.innerHTML = '<div class="tt">' + clock(m) + '</div>' + ls.map(function (l) { return '<div class="tl ' + l.k + '"><i></i><span>' + l.h + '</span></div>'; }).join('');
     tip.hidden = false;
-    var cr = box.getBoundingClientRect(), tw = tip.offsetWidth, th = tip.offsetHeight;
-    var x = px_ - cr.left + 14, y = py_ - cr.top - th - 12;
-    if (x + tw > cr.width - 8) x = px_ - cr.left - tw - 14;
-    if (x < 8) x = 8;
-    if (y < 8) y = py_ - cr.top + 18;
+    var cr = box.getBoundingClientRect(), sr = svg.getBoundingClientRect(), tw = tip.offsetWidth, th = tip.offsetHeight;
+    var gap = touch ? 56 : 22, upper = py_ < sr.top + sr.height / 2;
+    var x = px_ - cr.left - tw / 2, y = upper ? py_ - cr.top + gap : py_ - cr.top - th - gap;
+    if (x + tw > cr.width - 6) x = cr.width - 6 - tw;
+    if (x < 6) x = 6;
+    if (y < 4) y = 4;
     tip.style.left = x + 'px'; tip.style.top = y + 'px';
     ghost.setAttribute('transform', 'rotate(' + (theta * 180 / Math.PI).toFixed(2) + ')'); ghost.setAttribute('visibility', 'visible');
     Array.prototype.forEach.call(svg.querySelectorAll('.arc-good,.arc-bad'), function (p) { p.classList.toggle('hot', m >= +p.getAttribute('data-a') && m < +p.getAttribute('data-b')); });
@@ -314,12 +332,11 @@ function attachDial(box, c) {
     var rr = Math.sqrt(dx * dx + dy * dy) / (r.width / 2) * 212;
     if (rr > 200 || rr < 14) { hide(); return; }
     var th = Math.atan2(dx, -dy); if (th < 0) th += 2 * Math.PI;
-    show(th, e.clientX, e.clientY);
+    show(th, e.clientX, e.clientY, e.pointerType === 'touch' || e.pointerType === 'pen');
   }
   svg.addEventListener('pointermove', fromEvent);
   svg.addEventListener('pointerdown', fromEvent);
   svg.addEventListener('pointerleave', function (e) { if (e.pointerType === 'mouse') hide(); });
-  document.addEventListener('pointerdown', function (e) { if (!box.contains(e.target)) hide(); });
   svg.addEventListener('keydown', function (e) {
     var step = e.key === 'ArrowRight' || e.key === 'ArrowUp' ? 15 : e.key === 'ArrowLeft' || e.key === 'ArrowDown' ? -15 : e.key === 'Home' ? 'home' : e.key === 'End' ? 'end' : e.key === 'Escape' ? 'esc' : null;
     if (step === null) return; e.preventDefault();
@@ -327,20 +344,21 @@ function attachDial(box, c) {
     if (kb === null) kb = 8 * 60;
     kb = step === 'home' ? 8 * 60 : step === 'end' ? 19 * 60 + 45 : Math.min(19 * 60 + 59, Math.max(8 * 60, kb + step));
     var th = 2 * Math.PI * (kb % 720) / 720, r = svg.getBoundingClientRect(), k = r.width / 424, rad = 100 * k;
-    show(th, r.left + r.width / 2 + rad * Math.sin(th), r.top + r.height / 2 - rad * Math.cos(th));
+    show(th, r.left + r.width / 2 + rad * Math.sin(th), r.top + r.height / 2 - rad * Math.cos(th), false);
   });
   svg.addEventListener('blur', hide);
+  if (!box._outside) { box._outside = true; document.addEventListener('pointerdown', function (e) { var tp = box.querySelector('.tip'); if (tp && !box.contains(e.target)) tp.hidden = true; }); }
 }
 function renderDay() {
   var y = +sel.slice(0, 4), box = $('day');
+  $('hDay').textContent = dateLabel(sel, { weekday: 'long', day: 'numeric', month: 'long' });
+  $('dayPrev').disabled = sel <= '2026-11-04'; $('dayNext').disabled = sel >= YMAX + '-12-31';
   return around(y).then(function (s) {
     var info = s.by[sel];
     if (!info) { box.innerHTML = '<div class="msg">' + t().outRange + '</div>'; return; }
     var ms = midnight(sel), me = midnight(addDays(sel, 1));
     var lo = at(sel, OPEN), hi = at(sel, CLOSE), goods = overlap(s.good, ms, me), avoids = clipTo(overlap(s.avoid, ms, me), lo, hi), vocs = clipTo(overlap(s.voc, ms, me), lo, hi), book = dayBook(s, ms, me);
     var rahu = [Math.max(info.rahu[0], lo), Math.min(info.rahu[1], hi)], sun = weekday(sel) === 6;
-    function avoidTitle(x) { return t().legBad + ': ' + (x.x[2] === 1 ? t().sunday : ldText(x.x[3])); }
-    // text verdict rows
     var rows = '';
     book.forEach(function (b) { rows += '<li><i></i><div><b>' + clock(b.a) + ' - ' + clock(b.b) + '</b> <span>' + modeName(b.x[2]) + ' &middot; ' + SIGNS[lang][b.x[4]] + '</span></div></li>'; });
     avoids.forEach(function (x) { rows += '<li><i class="b"></i><div><b>' + t().badV + '</b> <span>' + (x.x[2] === 1 ? t().rBadSun : t().rBad(x.x[3])) + '</span></div></li>'; });
@@ -355,37 +373,59 @@ function renderDay() {
     var summary = dateLabel(sel, { weekday: 'long', day: 'numeric', month: 'long' }) + '. ' + (book.length ? t().goodV + ': ' + book.map(function (b) { return clock(b.a) + ' - ' + clock(b.b); }).join(', ') : t().neutV) + (avoids.length ? '. ' + t().badV : '');
     function stamp(m) { var k = keyOf(m); return (k === sel ? '' : dateLabel(k, { day: 'numeric', month: 'short' }) + ' ') + clock(m); }
     var vocTxt = vocs.length ? vocs.map(function (o) { return stamp(o.x[0]) + ' - ' + stamp(o.x[1]); }).join('; ') : t().none2;
-    box.innerHTML = '<div class="dhead"><h3>' + dateLabel(sel, { weekday: 'long', day: 'numeric', month: 'long' }) + '</h3><span class="ph">' + (info.waxing ? t().wax : t().wan) + ', ' + info.illum + '%</span></div>' +
-      '<div class="tip" role="status" aria-live="polite" hidden></div>' + dialSVG({ sel: sel, info: info, me: me, goods: goods, book: book, avoids: avoids, vocs: vocs, rahu: rahu, nowHand: (sel === todayKey && now >= lo && now <= hi ? now : null), summary: summary, avoidTitle: avoidTitle }) +
+    box.innerHTML = '<div class="dhead"><span>' + (info.waxing ? t().wax : t().wan) + ', ' + info.illum + '%</span><span>&middot;</span><span>' + t().moonNoon + ' ' + SIGNS[lang][info.sign] + '</span></div>' +
+      '<div class="tip" role="status" aria-live="polite" hidden></div>' + dialSVG({ sel: sel, info: info, me: me, book: book, avoids: avoids, vocs: vocs, rahu: rahu, nowHand: (sel === todayKey && now >= lo && now <= hi ? now : null), summary: summary }) +
       '<p class="dcap">' + t().cap + '</p><ul class="verdict">' + rows + '</ul>' +
       '<div class="legend"><span><i class="g"></i>' + t().legGood + '</span><span><i class="b"></i>' + t().legBad + '</span><span><i class="r"></i>' + t().tlRahu + '</span><span><i class="v"></i>' + t().tlVoc + '</span></div>' +
-      '<dl class="facts"><dt>' + t().ld + '</dt><dd>' + info.ld + '</dd><dt>' + t().sign + '</dt><dd>' + SIGNS[lang][info.sign] + '</dd><dt>' + t().rahu + '</dt><dd>' + clock(info.rahu[0]) + ' - ' + clock(info.rahu[1]) + '</dd><dt>' + t().voc + '</dt><dd>' + vocTxt + '</dd></dl>';
+      '<dl class="facts"><dt>' + t().ld + '</dt><dd>' + info.ld + '</dd><dt>' + t().rahu + '</dt><dd>' + clock(info.rahu[0]) + ' - ' + clock(info.rahu[1]) + '</dd><dt>' + t().voc + '</dt><dd>' + vocTxt + '</dd></dl>';
     attachDial(box, { avoids: avoids, book: book, vocs: vocs, rahu: rahu, info: info, sun: sun });
   }).catch(function () { box.innerHTML = '<div class="msg">' + t().offline + '</div>'; });
 }
 
-function goto(key) {
+/* ---------- day sheet ---------- */
+function openSheet() { var s = $('sheet'); s.style.transform = ''; s.style.transition = ''; s.classList.add('open'); s.setAttribute('aria-hidden', 'false'); sheetOpen = true; }
+function closeSheet() { var s = $('sheet'); s.style.transform = ''; s.style.transition = ''; s.classList.remove('open'); if (!desk()) s.setAttribute('aria-hidden', 'true'); sheetOpen = false; renderMonth(); }
+function selectDay(key) {
   sel = key; view.y = +key.slice(0, 4); view.m = +key.slice(5, 7);
-  renderMonth().then(renderDay);
-  $('day').scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'nearest' });
+  if (!desk()) openSheet();
+  renderMonth(); renderDay();
 }
+function stepDay(n) { var k = addDays(sel, n); if (k < '2026-11-04' || k > YMAX + '-12-31') return; selectDay(k); }
+(function swipe() {
+  var g = $('grab'), s = $('sheet'), y0 = null;
+  g.addEventListener('pointerdown', function (e) { y0 = e.clientY; g.setPointerCapture(e.pointerId); s.style.transition = 'none'; });
+  g.addEventListener('pointermove', function (e) { if (y0 === null) return; var dy = Math.max(0, e.clientY - y0); s.style.transform = 'translateY(' + dy + 'px)'; });
+  function end(e) { if (y0 === null) return; var dy = e.clientY - y0; y0 = null; s.style.transition = ''; if (dy > 80) closeSheet(); else s.style.transform = ''; }
+  g.addEventListener('pointerup', end); g.addEventListener('pointercancel', end);
+})();
+$('sheetClose').onclick = closeSheet;
+$('dayPrev').onclick = function () { stepDay(-1); };
+$('dayNext').onclick = function () { stepDay(1); };
+document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && sheetOpen && !desk()) closeSheet(); });
+matchMedia('(min-width: 920px)').addEventListener('change', function () { $('sheet').classList.remove('open'); $('sheet').style.transform = ''; sheetOpen = false; $('sheet').setAttribute('aria-hidden', desk() ? 'false' : 'true'); if (CITY) { renderMonth(); renderDay(); } });
 
 /* ---------- chrome ---------- */
 function renderStatic() {
   document.documentElement.lang = lang;
-  $('lang').textContent = lang === 'ru' ? 'EN' : 'RU';
-  $('lang').setAttribute('aria-label', lang === 'ru' ? 'Switch to English' : 'Переключить на русский');
-  $('hCal').textContent = t().cal; $('hDay').textContent = t().day; $('hUp').textContent = t().up;
-  $('today').textContent = t().today; $('hHow').textContent = t().hHow; $('how').innerHTML = t().how; $('foot').textContent = t().note + ' ' + t().calc(cityName(CITY), TZ) + ' ' + t().foot; $('cityBtn').textContent = cityName(CITY); $('cityBtn').setAttribute('aria-label', t().city + ': ' + cityName(CITY)); $('citySearch').placeholder = t().search; $('locBtn').textContent = t().useLoc;
-  $('legend').innerHTML = '<span><i class="g"></i>' + t().legGood + '</span><span><i class="b"></i>' + t().legBad + '</span><span><i class="t"></i>' + t().legToday + '</span><span><svg class="mm" viewBox="0 0 12 12" aria-hidden="true">' + moonGlyph('mm-new', 6, 6) + '</svg>' + t().legNew + '</span><span><svg class="mm" viewBox="0 0 12 12" aria-hidden="true">' + moonGlyph('mm-full', 6, 6) + '</svg>' + t().legFull + '</span>';
+  $('langRu').setAttribute('aria-pressed', lang === 'ru' ? 'true' : 'false'); $('langEn').setAttribute('aria-pressed', lang === 'en' ? 'true' : 'false');
+  $('hCal').textContent = t().cal; $('hUp').textContent = t().up;
+  $('today').textContent = t().today; $('hHow').textContent = t().hHow; $('how').innerHTML = t().how;
+  $('foot').textContent = t().note + ' ' + t().calc(cityName(CITY), TZ) + ' ' + t().foot;
+  $('cityBtn').textContent = cityName(CITY); $('cityBtn').setAttribute('aria-label', t().city + ': ' + cityName(CITY));
+  $('citySearch').placeholder = t().search; $('locBtn').textContent = t().useLoc;
+  $('dayPrev').setAttribute('aria-label', t().prevDay); $('dayNext').setAttribute('aria-label', t().nextDay); $('sheetClose').setAttribute('aria-label', t().closeL);
+  $('legend').innerHTML = '<span><i class="lg"></i>' + t().legHas + '</span><span><i class="ln"></i>' + t().legNo + '</span><span><i class="lb"></i>' + t().legAvoid + '</span><span><i class="t"></i>' + t().legToday + '</span><span><svg class="rim" viewBox="-20 -20 40 40" aria-hidden="true"><circle class="t0" r="15"/><path class="g1" d="M-13 -7A15 15 0 0 1 8 -13"/><path class="b1" d="M13 -7A15 15 0 0 1 4 14"/></svg>' + t().legRim + '</span><span><svg class="mm" viewBox="0 0 12 12" aria-hidden="true">' + moonGlyph('mm-new', 6, 6) + '</svg>' + t().legNew + '</span><span><svg class="mm" viewBox="0 0 12 12" aria-hidden="true">' + moonGlyph('mm-full', 6, 6) + '</svg>' + t().legFull + '</span>';
   $('logo').innerHTML = moon(55, 1, 28);
+  $('sheet').setAttribute('aria-hidden', (sheetOpen || desk()) ? 'false' : 'true');
   document.title = lang === 'ru' ? 'Hairy Moon: когда стричься' : 'Hairy Moon: when to cut hair';
 }
 function all() { renderStatic(); renderCityList(); renderHero(); renderMonth().then(renderDay); }
-$('lang').onclick = function () { lang = lang === 'ru' ? 'en' : 'ru'; try { localStorage.setItem('hm-lang', lang); } catch (e) {} all(); };
+function setLang(l) { lang = l; try { localStorage.setItem('hm-lang', l); } catch (e) {} all(); }
+$('langRu').onclick = function () { setLang('ru'); };
+$('langEn').onclick = function () { setLang('en'); };
 $('prev').onclick = function () { view.m--; if (view.m < 1) { view.m = 12; view.y--; } renderMonth(); };
 $('next').onclick = function () { view.m++; if (view.m > 12) { view.m = 1; view.y++; } renderMonth(); };
-$('today').onclick = function () { var k = todayKey < '2026-11-04' ? '2026-11-05' : todayKey; goto(k); };
+$('today').onclick = function () { var k = todayKey < '2026-11-04' ? '2026-11-05' : todayKey; selectDay(k); };
 
 /* ---------- city picker ---------- */
 function km(a, b) { var R = 6371, r = Math.PI / 180, dl = (b.lat - a.lat) * r, dn = (b.lon - a.lon) * r, x = Math.sin(dl / 2) * Math.sin(dl / 2) + Math.cos(a.lat * r) * Math.cos(b.lat * r) * Math.sin(dn / 2) * Math.sin(dn / 2); return 2 * R * Math.asin(Math.sqrt(x)); }
@@ -398,6 +438,7 @@ function renderCityList() {
 function chooseCity(key, keepPanel) {
   var c = CITIES.filter(function (x) { return x.key === key; })[0]; if (!c) return;
   CITY = c; setTZ(c.tz); cache = {}; initState();
+  $('sheet').classList.remove('open');
   try { localStorage.setItem('hm-city', key); } catch (e) {}
   if (history.replaceState) history.replaceState(null, '', '#' + key);
   if (!keepPanel) { $('cityPanel').hidden = true; $('cityBtn').setAttribute('aria-expanded', 'false'); }
@@ -423,7 +464,7 @@ fetch('cities.json').then(function (r) { return r.json(); }).then(function (list
   var key = (location.hash || '').slice(1), pick = list.filter(function (c) { return c.key === key; })[0];
   if (!pick) { try { var sv = localStorage.getItem('hm-city'); pick = list.filter(function (c) { return c.key === sv; })[0]; } catch (e) {} }
   if (!pick) { var z = ''; try { z = Intl.DateTimeFormat().resolvedOptions().timeZone; } catch (e) {} pick = list.filter(function (c) { return c.tz === z; })[0] || list.filter(function (c) { return c.key === 'los_angeles'; })[0]; }
-  CITY = pick; setTZ(pick.tz); initState(); all();
+  CITY = pick; setTZ(pick.tz); initState(); $('upd').open = desk(); all();
 }).catch(function () { $('hero').innerHTML = '<div class="msg">Could not load the city list.</div>'; });
 if ('serviceWorker' in navigator && location.protocol.indexOf('http') === 0) navigator.serviceWorker.register('sw.js').catch(function () {});
 })();
